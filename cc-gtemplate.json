@@ -1,0 +1,19 @@
+{
+  "groupCode": "EXAMPLE",
+  "name": "Example Group Name",
+  "icon": "fa-example",
+  "threat": "low/medium/high/critical",
+  "urgency": "Description of urgency",
+  "crimes": ["Crime 1", "Crime 2"],
+  "aliases": "Other names for the group",
+  "targets": "Who they target",
+  "size": "Estimated size",
+  "funding": "Source of funding",
+  "lastActivity": "YYYY-MM-DD or Month DD, YYYY",
+  "origin": "Place of origin",
+  "confidence": "Level of confidence (e.g., Low, Medium, High)",
+  "actors": "Key actors, comma separated",
+  "actions": "Recommended actions",
+  "indicators": "Indicators of compromise/activity",
+  "mitigation": "Mitigation strategies"
+}
