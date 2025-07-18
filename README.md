@@ -13,8 +13,7 @@ OR Join our Discord server: https://discord.gg/GEpEzNjAUh
 - DPOS - __Report Spam Attack__ on m77u1n's discord account has failed and his account has been cleared of any recent flags [DEFENSIVE COMPLETED] DPOS FAILED...
 
 **III-report**
-- DPOS __DDos Attack Attempts__ Our web server hosting service brought our web server offline due to detected ddos attacks. The reason for Shinjiru to hold our server until we secured the issue is to protect the server from further damage, a perfect system they have setup I must admit. During its down time we secured the attack and any future attacks on multiple levels and setup attack alerts so we can respond immediately. Yet another DPOS attack failure thanks to Shinjiru for their security.
- :white_check_mark:
+- DPOS __DDos Attack Attempts__ Our web server hosting service brought our web server offline due to detected ddos attacks. The reason for Shinjiru to hold our server until we secured the issue is to protect the server from further damage, a perfect system they have setup I must admit. During its down time we secured the attack and any future attacks on multiple levels and setup attack alerts so we can respond immediately. Yet another DPOS attack failure thanks to Shinjiru for their security. [DEFENSIVE COMPLETED] DPOS FAILED...
 
 *DDoS PROTECTION DEPLOYED:*
 > Kernel SYN flood protection :white_check_mark:
