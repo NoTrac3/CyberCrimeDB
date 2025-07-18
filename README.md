@@ -6,11 +6,19 @@ OR Join our Discord server: https://discord.gg/GEpEzNjAUh
 
 # CURRENT-INVESTIGATION-NOTICE
 
-- **I-report**
-DPOS - Tomas The Greatest is playing right into our hands, recently him and his minions attempted to raid our gate discord servers and our main discord server but their attempts were haulted and we let them sit for a few minutes so they can bring more. They played right into our hands giving us the ID and Usernames of all his main people and more. He is now trying to get m77u1n's discord account banned the current dirctor of NoTrac3 but m77u1n knows secrets he doesnt so his account will be fine. He recently made a video about NoTrac3 making false claims and putting words in our mouths. This and his future actions will only be fuel to his downfall when we close the book and drop everything and start our offensive. Right now we are just gonna sit back and let him keep coming to us and playing our game. They seem mad, we must be doing something right. We are deep into their network purging us from their internal network is impossible now.
+**I-report**
+- DPOS - Tomas The Greatest is playing right into our hands, recently him and his minions attempted to raid our gate discord servers and our main discord server but their attempts were haulted and we let them sit for a few minutes so they can bring more. They played right into our hands giving us the ID and Usernames of all his main people and more. He is now trying to get m77u1n's discord account banned the current dirctor of NoTrac3 but m77u1n knows secrets he doesnt so his account will be fine. He recently made a video about NoTrac3 making false claims and putting words in our mouths. This and his future actions will only be fuel to his downfall when we close the book and drop everything and start our offensive. Right now we are just gonna sit back and let him keep coming to us and playing our game. They seem mad, we must be doing something right. We are deep into their network purging us from their internal network is impossible now.
 
-- **II-report**
-DPOS - __Report Spam Attack__ on m77u1n's discord account has failed and his account has been cleared of any recent flags [DEFENSIVE COMPLETED] DPOS FAILED...
+**II-report**
+- DPOS - __Report Spam Attack__ on m77u1n's discord account has failed and his account has been cleared of any recent flags [DEFENSIVE COMPLETED] DPOS FAILED...
 
-- **III-report**
+**III-report**
 - DPOS __DDos Attack Attempts__ Our web server hosting service brought our web server offline due to detected ddos attacks. The reason for Shinjiru to hold our server until we secured the issue is to protect the server from further damage, a perfect system they have setup I must admit. During its down time we secured the attack and any future attacks on multiple levels and setup attack alerts so we can respond immediately. Yet another DPOS attack faliure thanks to Shinjiru for their security.
+ :white_check_mark: DDoS PROTECTION DEPLOYED:
+> Kernel SYN flood protection :white_check_mark:
+> iptables DDoS rules :white_check_mark: (50 conns/IP max)
+> Fail2Ban (20 reqs/min → 24h ban) :white_check_mark:
+> Caddy security headers :white_check_mark:
+> BBR TCP acceleration :white_check_mark:
+
+*FOR AN EXTRA LAYER:* CrowdSec (& Fail2Ban) monitors Caddy logs for attacks. Automatically bans malicious IPs via firewall (iptables). Low maintenance (self-updates via CrowdSec’s threat feed).
