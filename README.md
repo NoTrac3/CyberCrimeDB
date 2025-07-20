@@ -28,3 +28,6 @@ OR Join our Discord server:  ```######```
 
 **IV-report**
 - DPOS attempted to breach our X account and got blocked instead. They tried to brag and claim they doxxed m77u1n but we hold it as a trophy of their failure. We dont like to brag but 5 days ago we were able to get YouTube to take a look at and take down a video of theirs targeting a victim. Previously they tried to raid our discord server and ddos our website and get m77u1n discord account banned but all attempts failed and resulted in improved security measures. 
+
+**V-report**
+- We received a notice from a victim that the DPOS YouTube channel was taken down a week ago: https://x.com/TeamYouTube/status/1945178299187036475
