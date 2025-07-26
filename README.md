@@ -35,3 +35,6 @@ OR Join our Discord server:  ```######```
 
 **VI-report**
 - We are currently focused on construction on our website for more private communications. Operations are proceeding quietly and steadily against DPOS. Details are not going to be shared until further development is made within our operations. Tomas the lead of DPOS has been trying to brait m77u1n into traps as a pathetic last attempt to have some sort of amo against us. We will not stop our rain against them and we havent even gone on our offensive yet. DPOS surrender is no longer an option beyond this point.
+
+**VII-report**
+- DPOS They’ve been labeled as vulnerable, disorganized, and unable to secure their platform. 
