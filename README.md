@@ -33,3 +33,5 @@ OR Join our Discord server:  ```######```
 - We received a notice from a victim that the DPOS YouTube channel was taken down a week ago:
  https://x.com/TeamYouTube/status/1945178299187036475 1:47 PM · Jul 15, 2025
 
+**VI-report**
+- We are currently focused on construction on our website for more private communications. Operations are proceeding quietly and steadily against DPOS. Details are not going to be shared until further development is made within our operations. Tomas the lead of DPOS has been trying to brait m77u1n into traps as a pathetic last attempt to have some sort of amo against us. We will not stop our rain against them and we havent even gone on our offensive yet. DPOS surrender is no longer an option beyond this point.
