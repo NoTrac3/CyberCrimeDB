@@ -1,0 +1,547 @@
+{
+  "guild": {
+    "id": "1340710262168096809",
+    "name": "\uD835\uDDD7\uD835\uDDF2\uD835\uDDF4\uD835\uDDF2\uD835\uDDFB\uD835\uDDF2\uD835\uDDFF\uD835\uDDEE\uD835\uDDF0\uD835\uDE06 \uD835\uDDE3\uD835\uDDFC\uD835\uDDF9\uD835\uDDF6\uD835\uDDF0\uD835\uDDF2 \uD835\uDDE2\uD835\uDDE6",
+    "iconUrl": "https://cdn.discordapp.com/icons/1340710262168096809/a2db2dbec93453bccb1528e60db6178a.png?size=512"
+  },
+  "channel": {
+    "id": "1381368742226821121",
+    "type": "GuildTextChat",
+    "categoryId": "1342602366142120168",
+    "category": "☩ Task Force",
+    "name": "〚⛺〛barracks",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-06-24T22:01:58.5449597+08:00",
+  "messages": [
+    {
+      "id": "1381368753086005288",
+      "type": "Default",
+      "timestamp": "2025-06-09T04:26:15.326+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1380993121189367909",
+        "name": "DPOS-TRON",
+        "discriminator": "7793",
+        "nickname": "DPOS-TRON",
+        "color": "#000095",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1341916464965222430",
+            "name": "DPOS-TRON",
+            "color": "#000095",
+            "position": 53
+          },
+          {
+            "id": "1340720335112241235",
+            "name": "Manager Bot",
+            "color": null,
+            "position": 52
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1380993121189367909/0aec4fa718d9576aaf6210bb5898128d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/b9HShwdui8frwYJEMPqfh9GlYczaMvXErfR96qUC5xA/https/i.postimg.cc/mDD5HWvT/purget.gif",
+            "width": 854,
+            "height": 480
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/b9HShwdui8frwYJEMPqfh9GlYczaMvXErfR96qUC5xA/https/i.postimg.cc/mDD5HWvT/purget.gif",
+              "width": 854,
+              "height": 480
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1382667391317708910",
+      "type": "Default",
+      "timestamp": "2025-06-12T18:26:34.808+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I POSTED IT ON YOUTUBE AND GOT DELETED BY THE GODDAMN JEWTUBE MODS",
+      "author": {
+        "id": "1375871873010897049",
+        "name": "smnirevenge",
+        "discriminator": "0000",
+        "nickname": "REVENGE OF OFFICER SMNI",
+        "color": "#ABABAB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1341906269736538202",
+            "name": "Stored Alt",
+            "color": "#ABABAB",
+            "position": 28
+          },
+          {
+            "id": "1340759223738433650",
+            "name": "Bot Verified",
+            "color": "#2ECC71",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375871873010897049/810fd4a4d6793bfeafecac8366a08ccc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1382667468174131271",
+      "type": "Default",
+      "timestamp": "2025-06-12T18:26:53.132+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "copy the instructions from the video I made",
+      "author": {
+        "id": "1375889862384812043",
+        "name": "tomasthegreatest2",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375889862384812043/5a6d31bd59c8eb28a2205c0642fa8740.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1382667510712635464",
+      "type": "Default",
+      "timestamp": "2025-06-12T18:27:03.274+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Encrypted, show the key and the decryption website",
+      "author": {
+        "id": "1375889862384812043",
+        "name": "tomasthegreatest2",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375889862384812043/5a6d31bd59c8eb28a2205c0642fa8740.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1382667647304470559",
+      "type": "Default",
+      "timestamp": "2025-06-12T18:27:35.84+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@REVENGE OF OFFICER SMNI",
+      "author": {
+        "id": "1375889862384812043",
+        "name": "tomasthegreatest2",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375889862384812043/5a6d31bd59c8eb28a2205c0642fa8740.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1375871873010897049",
+          "name": "smnirevenge",
+          "discriminator": "0000",
+          "nickname": "REVENGE OF OFFICER SMNI",
+          "color": "#ABABAB",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1341906269736538202",
+              "name": "Stored Alt",
+              "color": "#ABABAB",
+              "position": 28
+            },
+            {
+              "id": "1340759223738433650",
+              "name": "Bot Verified",
+              "color": "#2ECC71",
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1375871873010897049/810fd4a4d6793bfeafecac8366a08ccc.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1382667788765630546",
+      "type": "Default",
+      "timestamp": "2025-06-12T18:28:09.567+08:00",
+      "timestampEdited": "2025-06-14T02:57:45.521+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "SILLYPAU'S BIN: (decrypt with link, key is 301) xeqgIPD88KQN2zIwJRwkM4lvGPPG3xgvtzVTSXIA/vc=\ndevglan.com/online-tools/text-encryption-decryption",
+      "author": {
+        "id": "1375889862384812043",
+        "name": "tomasthegreatest2",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375889862384812043/5a6d31bd59c8eb28a2205c0642fa8740.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1382667886413348875",
+      "type": "Default",
+      "timestamp": "2025-06-12T18:28:32.848+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "OK",
+      "author": {
+        "id": "1375871873010897049",
+        "name": "smnirevenge",
+        "discriminator": "0000",
+        "nickname": "REVENGE OF OFFICER SMNI",
+        "color": "#ABABAB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1341906269736538202",
+            "name": "Stored Alt",
+            "color": "#ABABAB",
+            "position": 28
+          },
+          {
+            "id": "1340759223738433650",
+            "name": "Bot Verified",
+            "color": "#2ECC71",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375871873010897049/810fd4a4d6793bfeafecac8366a08ccc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1383006108507177050",
+      "type": "Default",
+      "timestamp": "2025-06-13T16:52:31.279+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/uVp5iKs2gfI?si=pqhn-Xwp59UPDm04",
+      "author": {
+        "id": "1376612435817136191",
+        "name": "heloo_guys123",
+        "discriminator": "0000",
+        "nickname": "Tung Tung Tung Sahur",
+        "color": "#3283DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340737083689533520",
+            "name": "Recruit",
+            "color": "#3283DB",
+            "position": 32
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1376612435817136191/ebcb6faff92ab7335e6f40bb191a00b2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "POV: You’re Camping In The Wilderness",
+          "url": "https://www.youtube.com/watch?v=uVp5iKs2gfI",
+          "timestamp": null,
+          "description": "Camping always has to involve some drama bruh. Also I hate bugs bruh\n\nVIDEO IDEA BY: @jennypham762\n\nMERCH ► https://mythicalbubble.com/\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n▼SOCIAL MEDIAS▼\n\nTikTok: https://tiktok.com/@mythical_bubbles\n\nOther Channel: https://www.youtube.com/channel/UCJfJdkWDW74i8K2aFsFUY4A\n\nMusic Channel: \nhttps://youtu...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Mythical Bubble",
+            "url": "https://www.youtube.com/channel/UCiaI5hxhY7fV5uJUK7cFC-A"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/VwTWj1fXCunk9pdctMLLd6pawBcXrD6iDm34khZeghQ/https/i.ytimg.com/vi/uVp5iKs2gfI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/uVp5iKs2gfI",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1384629749317636217",
+      "type": "Default",
+      "timestamp": "2025-06-18T04:24:17.414+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I pulled the ultimate ⬛\uD83D\uDCEB on Paulo Castillo and he could join my server if he doesn't want to get ruined by r34",
+      "author": {
+        "id": "1375889862384812043",
+        "name": "tomasthegreatest2",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375889862384812043/5a6d31bd59c8eb28a2205c0642fa8740.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDCEB",
+          "code": "mailbox",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4eb.svg"
+        }
+      ]
+    },
+    {
+      "id": "1384661283759984641",
+      "type": "Reply",
+      "timestamp": "2025-06-18T06:29:35.811+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LMAO",
+      "author": {
+        "id": "1345311655478951997",
+        "name": "sanguinius_of_baal",
+        "discriminator": "0000",
+        "nickname": "General Guilliman",
+        "color": "#0A0A0A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1355246339386245430",
+            "name": "Councilmen",
+            "color": null,
+            "position": 50
+          },
+          {
+            "id": "1340717674535321693",
+            "name": "Manager",
+            "color": null,
+            "position": 49
+          },
+          {
+            "id": "1355246239603626068",
+            "name": "Attack Caller",
+            "color": null,
+            "position": 48
+          },
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1340757164603736164",
+            "name": "General",
+            "color": "#0A0A0A",
+            "position": 42
+          },
+          {
+            "id": "1355246926441742436",
+            "name": "Commandant",
+            "color": "#05065D",
+            "position": 41
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1363875768199024770",
+            "name": "Active 2",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1343287249432870913",
+            "name": "Bomb Drop Ping",
+            "color": "#1F8B4C",
+            "position": 11
+          },
+          {
+            "id": "1343287303040139346",
+            "name": "Reinforcements Ping",
+            "color": "#1F8B4C",
+            "position": 10
+          },
+          {
+            "id": "1343287372267393116",
+            "name": "Broadcast Ping",
+            "color": "#1F8B4C",
+            "position": 9
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340716065969143908",
+            "name": "Outsider",
+            "color": "#A0A0A0",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1345311655478951997/128c68c0f7a6eb7505bd8bce2fccbfc4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1375889862384812043",
+          "name": "tomasthegreatest2",
+          "discriminator": "0000",
+          "nickname": "Emperor T",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1375889862384812043/5a6d31bd59c8eb28a2205c0642fa8740.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1384629749317636217",
+        "channelId": "1381368742226821121",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1384881764727521341",
+      "type": "Default",
+      "timestamp": "2025-06-18T21:05:42.57+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Time to make the borderline stuff",
+      "author": {
+        "id": "1375889862384812043",
+        "name": "tomasthegreatest2",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375889862384812043/5a6d31bd59c8eb28a2205c0642fa8740.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 11
+}

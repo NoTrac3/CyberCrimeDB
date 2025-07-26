@@ -1,0 +1,154 @@
+{
+  "guild": {
+    "id": "1340710262168096809",
+    "name": "\uD835\uDDD7\uD835\uDDF2\uD835\uDDF4\uD835\uDDF2\uD835\uDDFB\uD835\uDDF2\uD835\uDDFF\uD835\uDDEE\uD835\uDDF0\uD835\uDE06 \uD835\uDDE3\uD835\uDDFC\uD835\uDDF9\uD835\uDDF6\uD835\uDDF0\uD835\uDDF2 \uD835\uDDE2\uD835\uDDE6",
+    "iconUrl": "https://cdn.discordapp.com/icons/1340710262168096809/a2db2dbec93453bccb1528e60db6178a.png?size=512"
+  },
+  "channel": {
+    "id": "1342602736314880122",
+    "type": "GuildTextChat",
+    "categoryId": "1342602366142120168",
+    "category": "☩ Task Force",
+    "name": "〚\uD83D\uDD2C〛the-labs",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-06-24T22:01:54.997372+08:00",
+  "messages": [
+    {
+      "id": "1342604572778172529",
+      "type": "Default",
+      "timestamp": "2025-02-22T05:11:14.537+08:00",
+      "timestampEdited": "2025-06-07T07:57:14.472+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## Login with token in f12 console \n```\nlet token = \"YOURTOKEN\";\nfunction login(token) {\n    setInterval(() => {\n      document.body.appendChild(document.createElement `iframe`).contentWindow.localStorage.token = `\"${token}\"`\n    }, 50);\n    setTimeout(() => {\n      location.reload();\n    }, 2500);\n  }\nlogin(token);\n```",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1346165808782512219",
+      "type": "Default",
+      "timestamp": "2025-03-04T01:02:19.365+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## T-Bomber\nFully customizable\nCommand is `t!n`",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1346165808379854958",
+          "url": "https://cdn.discordapp.com/attachments/1342602736314880122/1346165808379854958/tnuker.py?ex=685b82db&is=685a315b&hm=46792484a75745edc9345d038d123d23225b2e6fec18b778a2c7fd3ecf31fb0c&",
+          "fileName": "tnuker.py",
+          "fileSizeBytes": 6559
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1382493394697326714",
+      "type": "Default",
+      "timestamp": "2025-06-12T06:55:10.781+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone \n## Attack bot - User install\nUse the `/atk` command to attack\nhttps://discord.com/oauth2/authorize?client_id=1380993121189367909",
+      "author": {
+        "id": "1236840788609077268",
+        "name": "tomasthegreatest5",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1236840788609077268/c222838cba4253cc14c00897294e0314.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1384609490141450422",
+      "type": "Default",
+      "timestamp": "2025-06-18T03:03:47.25+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone\n## Want to bypass a string to post somewhere with 1984-like filters?\nRun the @DPOS-TRON command in this server t!byp yourmessage (in #〚\uD83E\uDD16〛bot-cmd or #〚\uD83E\uDD16〛staff-cmd if you're a staff member) to get a bypassed version of your string, copy and paste the message to use it somewhere else",
+      "author": {
+        "id": "1375889862384812043",
+        "name": "tomasthegreatest2",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375889862384812043/5a6d31bd59c8eb28a2205c0642fa8740.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1380993121189367909",
+          "name": "DPOS-TRON",
+          "discriminator": "7793",
+          "nickname": "DPOS-TRON",
+          "color": "#000095",
+          "isBot": true,
+          "roles": [
+            {
+              "id": "1341916464965222430",
+              "name": "DPOS-TRON",
+              "color": "#000095",
+              "position": 53
+            },
+            {
+              "id": "1340720335112241235",
+              "name": "Manager Bot",
+              "color": null,
+              "position": 52
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1380993121189367909/0aec4fa718d9576aaf6210bb5898128d.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

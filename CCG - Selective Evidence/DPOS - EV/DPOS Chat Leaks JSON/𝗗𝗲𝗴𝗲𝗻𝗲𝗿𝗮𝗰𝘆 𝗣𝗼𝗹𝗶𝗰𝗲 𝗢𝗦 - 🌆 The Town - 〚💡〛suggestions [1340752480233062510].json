@@ -1,0 +1,1983 @@
+{
+  "guild": {
+    "id": "1340710262168096809",
+    "name": "\uD835\uDDD7\uD835\uDDF2\uD835\uDDF4\uD835\uDDF2\uD835\uDDFB\uD835\uDDF2\uD835\uDDFF\uD835\uDDEE\uD835\uDDF0\uD835\uDE06 \uD835\uDDE3\uD835\uDDFC\uD835\uDDF9\uD835\uDDF6\uD835\uDDF0\uD835\uDDF2 \uD835\uDDE2\uD835\uDDE6",
+    "iconUrl": "https://cdn.discordapp.com/icons/1340710262168096809/a2db2dbec93453bccb1528e60db6178a.png?size=512"
+  },
+  "channel": {
+    "id": "1340752480233062510",
+    "type": "GuildTextChat",
+    "categoryId": "1340710262168096810",
+    "category": "\uD83C\uDF06 The Town",
+    "name": "〚\uD83D\uDCA1〛suggestions",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-06-24T22:02:23.9928754+08:00",
+  "messages": [
+    {
+      "id": "1347041405733699645",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:01:37.946+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://murder-drones.fandom.com/f",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Discuss Everything About Murder Drones Wiki | Fandom",
+          "url": "https://murder-drones.fandom.com/f",
+          "timestamp": null,
+          "description": "\"\uD83E\uDD7A\" and more great discussions about Murder Drones Wiki",
+          "color": "#002A32",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WT9NT4NTvuSuafJ_CbpIszXZ-oR4ab7t6M_2l64x1nI/%3Fcb%3D20220228164853/https/static.wikia.nocookie.net/murder-drones/images/3/39/Site-community-image/revision/latest/scale-to-width-down/1200",
+            "width": 1200,
+            "height": 675
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "\uD83E\uDD7A",
+              "code": "pleading_face",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f97a.svg"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347041446531825714",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:01:47.673+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347041468552056914",
+      "type": "Reply",
+      "timestamp": "2025-03-06T11:01:52.923+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Atk it?",
+      "author": {
+        "id": "1323334473361653772",
+        "name": "mister_wesker",
+        "discriminator": "0000",
+        "nickname": "Mister Wesker",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323334473361653772/15f16884c2d13c9956c3abe50664ecc3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1347041446531825714",
+        "channelId": "1340752480233062510",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347041514198667356",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:02:03.806+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When do we r4id it",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347041543122321408",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:02:10.702+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Now ig",
+      "author": {
+        "id": "1323334473361653772",
+        "name": "mister_wesker",
+        "discriminator": "0000",
+        "nickname": "Mister Wesker",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323334473361653772/15f16884c2d13c9956c3abe50664ecc3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347041615365017681",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:02:27.926+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Excellent",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347041916474228749",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:03:39.716+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Anyone that can will",
+      "author": {
+        "id": "1323334473361653772",
+        "name": "mister_wesker",
+        "discriminator": "0000",
+        "nickname": "Mister Wesker",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323334473361653772/15f16884c2d13c9956c3abe50664ecc3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347041953468125255",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:03:48.536+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm focusing on atking servers",
+      "author": {
+        "id": "1323334473361653772",
+        "name": "mister_wesker",
+        "discriminator": "0000",
+        "nickname": "Mister Wesker",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323334473361653772/15f16884c2d13c9956c3abe50664ecc3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347042294813032478",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:05:09.919+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Very well",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347042476182999111",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:05:53.161+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Whenever people in this server get the chance I want them to vandalize pages, make new pages containing whatever dwells within their image gallery, and then spread it all across that wiki.",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347042543157776487",
+      "type": "Reply",
+      "timestamp": "2025-03-06T11:06:09.129+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Uh",
+      "author": {
+        "id": "1323334473361653772",
+        "name": "mister_wesker",
+        "discriminator": "0000",
+        "nickname": "Mister Wesker",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323334473361653772/15f16884c2d13c9956c3abe50664ecc3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1347042476182999111",
+        "channelId": "1340752480233062510",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347042565077073941",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:06:14.355+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have weird shit in my gallery",
+      "author": {
+        "id": "1323334473361653772",
+        "name": "mister_wesker",
+        "discriminator": "0000",
+        "nickname": "Mister Wesker",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323334473361653772/15f16884c2d13c9956c3abe50664ecc3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347042586644447234",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:06:19.497+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Like what",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347042687332778004",
+      "type": "Reply",
+      "timestamp": "2025-03-06T11:06:43.503+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ask tomas what i used to send in order states nsfw chat",
+      "author": {
+        "id": "1323334473361653772",
+        "name": "mister_wesker",
+        "discriminator": "0000",
+        "nickname": "Mister Wesker",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323334473361653772/15f16884c2d13c9956c3abe50664ecc3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1347042586644447234",
+        "channelId": "1340752480233062510",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347042724431532032",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:06:52.348+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But resident evil shit",
+      "author": {
+        "id": "1323334473361653772",
+        "name": "mister_wesker",
+        "discriminator": "0000",
+        "nickname": "Mister Wesker",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323334473361653772/15f16884c2d13c9956c3abe50664ecc3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347042860146491502",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:07:24.705+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That’s fine",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347042958553124916",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:07:48.167+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "RE memes whatever it is that’ll piss off those delinquents",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347042975322214412",
+      "type": "Reply",
+      "timestamp": "2025-03-06T11:07:52.165+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Brother I'm talking about wesker krauser and leon AND ITS NOT STRAIGHT BRO",
+      "author": {
+        "id": "1323334473361653772",
+        "name": "mister_wesker",
+        "discriminator": "0000",
+        "nickname": "Mister Wesker",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323334473361653772/15f16884c2d13c9956c3abe50664ecc3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1347042860146491502",
+        "channelId": "1340752480233062510",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347043010046857228",
+      "type": "Reply",
+      "timestamp": "2025-03-06T11:08:00.444+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bet",
+      "author": {
+        "id": "1323334473361653772",
+        "name": "mister_wesker",
+        "discriminator": "0000",
+        "nickname": "Mister Wesker",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323334473361653772/15f16884c2d13c9956c3abe50664ecc3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1347042958553124916",
+        "channelId": "1340752480233062510",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347043038026793021",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:08:07.115+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'll try to make a acc",
+      "author": {
+        "id": "1323334473361653772",
+        "name": "mister_wesker",
+        "discriminator": "0000",
+        "nickname": "Mister Wesker",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323334473361653772/15f16884c2d13c9956c3abe50664ecc3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347048345448747050",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:29:12.503+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's pretty hard to",
+      "author": {
+        "id": "1323334473361653772",
+        "name": "mister_wesker",
+        "discriminator": "0000",
+        "nickname": "Mister Wesker",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323334473361653772/15f16884c2d13c9956c3abe50664ecc3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347048487895826514",
+      "type": "Default",
+      "timestamp": "2025-03-06T11:29:46.465+08:00",
+      "timestampEdited": "2025-03-06T11:29:54.453+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Don't delete much just add a lot of gore and stuff they'd have to fully look through",
+      "author": {
+        "id": "1323334473361653772",
+        "name": "mister_wesker",
+        "discriminator": "0000",
+        "nickname": "Mister Wesker",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323334473361653772/15f16884c2d13c9956c3abe50664ecc3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350541200603746335",
+      "type": "Default",
+      "timestamp": "2025-03-16T02:48:34.066+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WOTR Tron",
+      "author": {
+        "id": "1323334473361653772",
+        "name": "mister_wesker",
+        "discriminator": "0000",
+        "nickname": "Mister Wesker",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323334473361653772/15f16884c2d13c9956c3abe50664ecc3.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1350541200314073159",
+          "url": "https://cdn.discordapp.com/attachments/1340752480233062510/1350541200314073159/Screenshot_20250315_041445_YouTube.jpg?ex=685b9bc1&is=685a4a41&hm=17687d33e17a681369b448860d0dd645c015f536317478c67cc37e703c8aed51&",
+          "fileName": "Screenshot_20250315_041445_YouTube.jpg",
+          "fileSizeBytes": 17913
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1369158080897618061",
+      "type": "Default",
+      "timestamp": "2025-05-06T11:45:24.213+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think there should be a channel just for Youtuber attacks and a video notification",
+      "author": {
+        "id": "1325865365036728402",
+        "name": "kinny120",
+        "discriminator": "0000",
+        "nickname": "Emperor Robzinrs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325865365036728402/14cc7bdbcb8fd02fcb8b75b810e02657.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1371885457859809321",
+      "type": "Reply",
+      "timestamp": "2025-05-14T00:23:01.553+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good idea",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1325865365036728402",
+          "name": "kinny120",
+          "discriminator": "0000",
+          "nickname": "Emperor Robzinrs",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1325865365036728402/14cc7bdbcb8fd02fcb8b75b810e02657.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1369158080897618061",
+        "channelId": "1340752480233062510",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1371885735514476664",
+      "type": "Default",
+      "timestamp": "2025-05-14T00:24:07.751+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Still I want to keep utube attacks exclusive for a few small youtubers I don't want to be this annoying autonotif servers that no one cares about",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1371887154657235014",
+      "type": "Default",
+      "timestamp": "2025-05-14T00:29:46.101+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "More assets for #〚\uD83C\uDFC1〛assets , tutorial channel like how to toxx, NVKE and r#!d",
+      "author": {
+        "id": "1105941015644340274",
+        "name": "sensior",
+        "discriminator": "0000",
+        "nickname": "Dave",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1105941015644340274/f3fb652f7ddd50db93ca5586d5a73aa3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1371985363446403074",
+      "type": "Reply",
+      "timestamp": "2025-05-14T07:00:00.901+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "when I get more free time I'll make a utube video tutorial on everything",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1105941015644340274",
+          "name": "sensior",
+          "discriminator": "0000",
+          "nickname": "Dave",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1105941015644340274/f3fb652f7ddd50db93ca5586d5a73aa3.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1371887154657235014",
+        "channelId": "1340752480233062510",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1382422394060279909",
+      "type": "Default",
+      "timestamp": "2025-06-12T02:13:02.91+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I should make a hall of fame which would be like the based version of #〚\uD83E\uDD22〛hall-of-shame about things we did",
+      "author": {
+        "id": "1375889862384812043",
+        "name": "tomasthegreatest2",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375889862384812043/5a6d31bd59c8eb28a2205c0642fa8740.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1382422473403924660",
+      "type": "Default",
+      "timestamp": "2025-06-12T02:13:21.827+08:00",
+      "timestampEdited": "2025-06-12T02:13:56.472+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like getting sillypau to try to attack us and then surrender because I attacked every single person he sent https://cdn.discordapp.com/attachments/1343295222691659899/1375565730149437502/image.png?ex=684a8aaa&is=6849392a&hm=662efe8e27373db784fb79d54cfd221b1b73a06af02a36e77a38b0b5baa0999d&",
+      "author": {
+        "id": "1375889862384812043",
+        "name": "tomasthegreatest2",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375889862384812043/5a6d31bd59c8eb28a2205c0642fa8740.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1375565730149437502/image.png?ex=684a8aaa&is=6849392a&hm=662efe8e27373db784fb79d54cfd221b1b73a06af02a36e77a38b0b5baa0999d&",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/1343295222691659899/1375565730149437502/image.png?ex=685bae2a&is=685a5caa&hm=420ac941470dcf9891b75788fdba1209649bfead5911358569d8d21bbe9d0ea3&",
+            "width": 732,
+            "height": 793
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1214651561356296302",
+              "name": "friedpipis",
+              "discriminator": "0000",
+              "nickname": "Jinty",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1214651561356296302/51eb4549b9a8c57fe11ef1598126defc.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1382422563497443460",
+      "type": "Reply",
+      "timestamp": "2025-06-12T02:13:43.307+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone",
+      "author": {
+        "id": "1375889862384812043",
+        "name": "tomasthegreatest2",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375889862384812043/5a6d31bd59c8eb28a2205c0642fa8740.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1382422394060279909",
+        "channelId": "1340752480233062510",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1382428152919228677",
+      "type": "Default",
+      "timestamp": "2025-06-12T02:35:55.929+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "valid idea",
+      "author": {
+        "id": "1214651561356296302",
+        "name": "friedpipis",
+        "discriminator": "0000",
+        "nickname": "Jinty",
+        "color": "#00A3FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1346527559298318468",
+            "name": "\uD83C\uDF96️ Respected",
+            "color": "#1F8B4C",
+            "position": 25
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1214651561356296302/51eb4549b9a8c57fe11ef1598126defc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1382428624065400973",
+      "type": "Default",
+      "timestamp": "2025-06-12T02:37:48.259+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "1322215300787339336",
+        "name": "l1lr4g3",
+        "discriminator": "0000",
+        "nickname": "Captain LilRage",
+        "color": "#BE173B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717642469609534",
+            "name": "Police",
+            "color": null,
+            "position": 46
+          },
+          {
+            "id": "1340713654391144541",
+            "name": "Helper",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1342627885600473138",
+            "name": "Major",
+            "color": "#FF3964",
+            "position": 39
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "1346527559298318468",
+            "name": "\uD83C\uDF96️ Respected",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "1363875658630959117",
+            "name": "Active 1",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340762561293058138",
+            "name": "Coder",
+            "color": "#1ABC9C",
+            "position": 7
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1322215300787339336/150027ab97cdd495fb6b83df6858db33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1383263227751694387",
+      "type": "Default",
+      "timestamp": "2025-06-14T09:54:13.284+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m not here hahha",
+      "author": {
+        "id": "1217297960208175226",
+        "name": "butterfribootleg_23",
+        "discriminator": "0000",
+        "nickname": "\uD835\uDCB1ℯ\uD835\uDCC3ℴ\uD835\uDCC3\uD835\uDCBE\uD835\uDCC8  (\uD835\uDC11\uD835\uDC1E\uD835\uDC1D\uD835\uDC1E\uD835\uDC1E\uD835\uDC26\uD835\uDC1E\uD835\uDC1D）",
+        "color": "#D6680E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1343370371872854037",
+            "name": "Legend",
+            "color": "#D6680E",
+            "position": 36
+          },
+          {
+            "id": "1340737083689533520",
+            "name": "Recruit",
+            "color": "#3283DB",
+            "position": 32
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1346527323888812102",
+            "name": "\uD83C\uDF96️ Awesome Award",
+            "color": "#00FF00",
+            "position": 26
+          },
+          {
+            "id": "1346527559298318468",
+            "name": "\uD83C\uDF96️ Respected",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "1363875658630959117",
+            "name": "Active 1",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340762415251587132",
+            "name": "Artist",
+            "color": "#71368A",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1340710262168096809/users/1217297960208175226/avatars/4a2b5c6e7d1d573cd9c9eaac4bf6cad1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1383527743257448500",
+      "type": "Default",
+      "timestamp": "2025-06-15T03:25:18.695+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "make this an emoji",
+      "author": {
+        "id": "1322215300787339336",
+        "name": "l1lr4g3",
+        "discriminator": "0000",
+        "nickname": "Captain LilRage",
+        "color": "#BE173B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717642469609534",
+            "name": "Police",
+            "color": null,
+            "position": 46
+          },
+          {
+            "id": "1340713654391144541",
+            "name": "Helper",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1342627885600473138",
+            "name": "Major",
+            "color": "#FF3964",
+            "position": 39
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "1346527559298318468",
+            "name": "\uD83C\uDF96️ Respected",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "1363875658630959117",
+            "name": "Active 1",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340762561293058138",
+            "name": "Coder",
+            "color": "#1ABC9C",
+            "position": 7
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1322215300787339336/150027ab97cdd495fb6b83df6858db33.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1383527743224021063",
+          "url": "https://cdn.discordapp.com/attachments/1340752480233062510/1383527743224021063/IMG_1145.png?ex=685ba45e&is=685a52de&hm=0478cf22ce69c809436fbc3c620f020fe38cdeab82d61ec739dcc0a2a902b74b&",
+          "fileName": "IMG_1145.png",
+          "fileSizeBytes": 255346
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1383528926495903828",
+      "type": "Reply",
+      "timestamp": "2025-06-15T03:30:00.801+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "done",
+      "author": {
+        "id": "1375889862384812043",
+        "name": "tomasthegreatest2",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375889862384812043/5a6d31bd59c8eb28a2205c0642fa8740.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1322215300787339336",
+          "name": "l1lr4g3",
+          "discriminator": "0000",
+          "nickname": "Captain LilRage",
+          "color": "#BE173B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1340717588975587432",
+              "name": "Admin",
+              "color": null,
+              "position": 47
+            },
+            {
+              "id": "1340717642469609534",
+              "name": "Police",
+              "color": null,
+              "position": 46
+            },
+            {
+              "id": "1340713654391144541",
+              "name": "Helper",
+              "color": null,
+              "position": 45
+            },
+            {
+              "id": "1340717529366138923",
+              "name": "Internal Security Agency",
+              "color": null,
+              "position": 44
+            },
+            {
+              "id": "1342560731647709347",
+              "name": "Captain",
+              "color": "#BE173B",
+              "position": 40
+            },
+            {
+              "id": "1342627885600473138",
+              "name": "Major",
+              "color": "#FF3964",
+              "position": 39
+            },
+            {
+              "id": "1340738865606168698",
+              "name": "Soldier",
+              "color": "#206694",
+              "position": 35
+            },
+            {
+              "id": "1340738778955776113",
+              "name": "Agent",
+              "color": "#0000FF",
+              "position": 33
+            },
+            {
+              "id": "1340714047368335481",
+              "name": "Citizen",
+              "color": "#00A3FF",
+              "position": 30
+            },
+            {
+              "id": "1340739699249119245",
+              "name": "❗",
+              "color": null,
+              "position": 27
+            },
+            {
+              "id": "1346527559298318468",
+              "name": "\uD83C\uDF96️ Respected",
+              "color": "#1F8B4C",
+              "position": 25
+            },
+            {
+              "id": "1363875658630959117",
+              "name": "Active 1",
+              "color": null,
+              "position": 20
+            },
+            {
+              "id": "1340762495790354573",
+              "name": "Attacker",
+              "color": "#E67E22",
+              "position": 8
+            },
+            {
+              "id": "1340762561293058138",
+              "name": "Coder",
+              "color": "#1ABC9C",
+              "position": 7
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1322215300787339336/150027ab97cdd495fb6b83df6858db33.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1383527743257448500",
+        "channelId": "1340752480233062510",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1384085185053589555",
+      "type": "Default",
+      "timestamp": "2025-06-16T16:20:23.176+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":anti_soc:",
+      "author": {
+        "id": "941526612019666955",
+        "name": "matrixstar656_5",
+        "discriminator": "0000",
+        "nickname": "Recruit matrixstar656_5",
+        "color": "#3283DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340737083689533520",
+            "name": "Recruit",
+            "color": "#3283DB",
+            "position": 32
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1363875658630959117",
+            "name": "Active 1",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1340762415251587132",
+            "name": "Artist",
+            "color": "#71368A",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/941526612019666955/77b5650286f0a64e2640836452dff420.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "1383528911429701856",
+          "name": "anti_soc",
+          "code": "anti_soc",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1383528911429701856.png"
+        }
+      ]
+    },
+    {
+      "id": "1386057785791480011",
+      "type": "Default",
+      "timestamp": "2025-06-22T02:58:47.841+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we should do attacks on reddit",
+      "author": {
+        "id": "1322215300787339336",
+        "name": "l1lr4g3",
+        "discriminator": "0000",
+        "nickname": "Captain LilRage",
+        "color": "#BE173B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717642469609534",
+            "name": "Police",
+            "color": null,
+            "position": 46
+          },
+          {
+            "id": "1340713654391144541",
+            "name": "Helper",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1342627885600473138",
+            "name": "Major",
+            "color": "#FF3964",
+            "position": 39
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "1346527559298318468",
+            "name": "\uD83C\uDF96️ Respected",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "1363875658630959117",
+            "name": "Active 1",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340762561293058138",
+            "name": "Coder",
+            "color": "#1ABC9C",
+            "position": 7
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1322215300787339336/150027ab97cdd495fb6b83df6858db33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386057848575885504",
+      "type": "Default",
+      "timestamp": "2025-06-22T02:59:02.81+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "reddit is also a breeding ground for degeneracy",
+      "author": {
+        "id": "1322215300787339336",
+        "name": "l1lr4g3",
+        "discriminator": "0000",
+        "nickname": "Captain LilRage",
+        "color": "#BE173B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717642469609534",
+            "name": "Police",
+            "color": null,
+            "position": 46
+          },
+          {
+            "id": "1340713654391144541",
+            "name": "Helper",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1342627885600473138",
+            "name": "Major",
+            "color": "#FF3964",
+            "position": 39
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "1346527559298318468",
+            "name": "\uD83C\uDF96️ Respected",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "1363875658630959117",
+            "name": "Active 1",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340762561293058138",
+            "name": "Coder",
+            "color": "#1ABC9C",
+            "position": 7
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1322215300787339336/150027ab97cdd495fb6b83df6858db33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386566908031008808",
+      "type": "Default",
+      "timestamp": "2025-06-23T12:41:52.042+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've did those once, but I get banned all thy time",
+      "author": {
+        "id": "1384384249565810749",
+        "name": "smnigranreturn",
+        "discriminator": "0000",
+        "nickname": "UTTP MAJOR SMNI GRAND RETURN",
+        "color": "#FF3964",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340717642469609534",
+            "name": "Police",
+            "color": null,
+            "position": 46
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1342627885600473138",
+            "name": "Major",
+            "color": "#FF3964",
+            "position": 39
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "1346527559298318468",
+            "name": "\uD83C\uDF96️ Respected",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1384384249565810749/603d3050eb6fdb6fa804f54aa5074cb5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386637890112454708",
+      "type": "Reply",
+      "timestamp": "2025-06-23T17:23:55.489+08:00",
+      "timestampEdited": "2025-06-23T17:24:02.835+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nah it's way too filtered",
+      "author": {
+        "id": "1190015335907196940",
+        "name": "tomasthegreatest7",
+        "discriminator": "0000",
+        "nickname": "Emperor Tomas The Greatest",
+        "color": "#4F0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1342560887692853320",
+            "name": "­",
+            "color": null,
+            "position": 56
+          },
+          {
+            "id": "1340735484271526029",
+            "name": "Emperor",
+            "color": "#4F0000",
+            "position": 55
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1322215300787339336",
+          "name": "l1lr4g3",
+          "discriminator": "0000",
+          "nickname": "Captain LilRage",
+          "color": "#BE173B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1340717588975587432",
+              "name": "Admin",
+              "color": null,
+              "position": 47
+            },
+            {
+              "id": "1340717642469609534",
+              "name": "Police",
+              "color": null,
+              "position": 46
+            },
+            {
+              "id": "1340713654391144541",
+              "name": "Helper",
+              "color": null,
+              "position": 45
+            },
+            {
+              "id": "1340717529366138923",
+              "name": "Internal Security Agency",
+              "color": null,
+              "position": 44
+            },
+            {
+              "id": "1342560731647709347",
+              "name": "Captain",
+              "color": "#BE173B",
+              "position": 40
+            },
+            {
+              "id": "1342627885600473138",
+              "name": "Major",
+              "color": "#FF3964",
+              "position": 39
+            },
+            {
+              "id": "1340738865606168698",
+              "name": "Soldier",
+              "color": "#206694",
+              "position": 35
+            },
+            {
+              "id": "1340738778955776113",
+              "name": "Agent",
+              "color": "#0000FF",
+              "position": 33
+            },
+            {
+              "id": "1340714047368335481",
+              "name": "Citizen",
+              "color": "#00A3FF",
+              "position": 30
+            },
+            {
+              "id": "1340739699249119245",
+              "name": "❗",
+              "color": null,
+              "position": 27
+            },
+            {
+              "id": "1346527559298318468",
+              "name": "\uD83C\uDF96️ Respected",
+              "color": "#1F8B4C",
+              "position": 25
+            },
+            {
+              "id": "1363875658630959117",
+              "name": "Active 1",
+              "color": null,
+              "position": 20
+            },
+            {
+              "id": "1340762495790354573",
+              "name": "Attacker",
+              "color": "#E67E22",
+              "position": 8
+            },
+            {
+              "id": "1340762561293058138",
+              "name": "Coder",
+              "color": "#1ABC9C",
+              "position": 7
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1322215300787339336/150027ab97cdd495fb6b83df6858db33.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1386057785791480011",
+        "channelId": "1340752480233062510",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386638010585452635",
+      "type": "Default",
+      "timestamp": "2025-06-23T17:24:24.212+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Way too moderated both manually and automatically",
+      "author": {
+        "id": "1190015335907196940",
+        "name": "tomasthegreatest7",
+        "discriminator": "0000",
+        "nickname": "Emperor Tomas The Greatest",
+        "color": "#4F0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1342560887692853320",
+            "name": "­",
+            "color": null,
+            "position": 56
+          },
+          {
+            "id": "1340735484271526029",
+            "name": "Emperor",
+            "color": "#4F0000",
+            "position": 55
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 42
+}

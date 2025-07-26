@@ -1,0 +1,241 @@
+{
+  "guild": {
+    "id": "1340710262168096809",
+    "name": "\uD835\uDDD7\uD835\uDDF2\uD835\uDDF4\uD835\uDDF2\uD835\uDDFB\uD835\uDDF2\uD835\uDDFF\uD835\uDDEE\uD835\uDDF0\uD835\uDE06 \uD835\uDDE3\uD835\uDDFC\uD835\uDDF9\uD835\uDDF6\uD835\uDDF0\uD835\uDDF2 \uD835\uDDE2\uD835\uDDE6",
+    "iconUrl": "https://cdn.discordapp.com/icons/1340710262168096809/a2db2dbec93453bccb1528e60db6178a.png?size=512"
+  },
+  "channel": {
+    "id": "1343004654115622963",
+    "type": "GuildTextChat",
+    "categoryId": "1340712339288363100",
+    "category": "Empire",
+    "name": "〚\uD83C\uDFC1〛assets",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-06-24T22:06:55.7009763+08:00",
+  "messages": [
+    {
+      "id": "1371446790758465556",
+      "type": "Default",
+      "timestamp": "2025-05-12T19:19:55.166+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1371446790540492810",
+          "url": "https://cdn.discordapp.com/attachments/1343004654115622963/1371446790540492810/Untitled888_20250512081946.png?ex=685bdb5b&is=685a89db&hm=d4fa59e2a36a221bfc3d1310cdc55085e58157a465a54dcbfb4c0c60967579c4&",
+          "fileName": "Untitled888_20250512081946.png",
+          "fileSizeBytes": 60120
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375284566515777576",
+      "type": "Default",
+      "timestamp": "2025-05-23T09:29:52.209+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Simplified logo",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1375284566314717235",
+          "url": "https://cdn.discordapp.com/attachments/1343004654115622963/1375284566314717235/Untitled825_20250522222920.png?ex=685bf9d0&is=685aa850&hm=32ee84aec5d630381a9671189cdbf9fd4784873c9012322b6b8392a0374807a7&",
+          "fileName": "Untitled825_20250522222920.png",
+          "fileSizeBytes": 35086
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378068005132701898",
+      "type": "Default",
+      "timestamp": "2025-05-31T01:50:15.689+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1378068004536844388",
+          "url": "https://cdn.discordapp.com/attachments/1343004654115622963/1378068004536844388/waving_flag.gif?ex=685b8e17&is=685a3c97&hm=4f843479efb779618bf8a1c7087f6713d001f9319a690b07e89118dc3bcff242&",
+          "fileName": "waving_flag.gif",
+          "fileSizeBytes": 10372431
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1379901671051759618",
+      "type": "Default",
+      "timestamp": "2025-06-05T03:16:35.712+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1379901671131316254",
+          "url": "https://cdn.discordapp.com/attachments/1343004654115622963/1379901671131316254/logo.png?ex=685ba253&is=685a50d3&hm=27d0c903857014ba47d1940b5e36bbbb6cd58fa9709513eba657e526ade8ddc8&",
+          "fileName": "logo.png",
+          "fileSizeBytes": 211941
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386086315224862891",
+      "type": "Default",
+      "timestamp": "2025-06-22T04:52:09.788+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DPOS' National Capitalist Party's flag",
+      "author": {
+        "id": "1190015335907196940",
+        "name": "tomasthegreatest7",
+        "discriminator": "0000",
+        "nickname": "Emperor Tomas The Greatest",
+        "color": "#4F0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1342560887692853320",
+            "name": "­",
+            "color": null,
+            "position": 56
+          },
+          {
+            "id": "1340735484271526029",
+            "name": "Emperor",
+            "color": "#4F0000",
+            "position": 55
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1386086314960486470",
+          "url": "https://cdn.discordapp.com/attachments/1343004654115622963/1386086314960486470/image.png?ex=685bb8b9&is=685a6739&hm=c8d2fd12cd6d2d8be2588a2094294e3a8a3854de0fd710d7da31714e6c306cc9&",
+          "fileName": "image.png",
+          "fileSizeBytes": 49247
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386086422900904241",
+      "type": "Default",
+      "timestamp": "2025-06-22T04:52:35.46+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DPOS' Nuclear Forces",
+      "author": {
+        "id": "1190015335907196940",
+        "name": "tomasthegreatest7",
+        "discriminator": "0000",
+        "nickname": "Emperor Tomas The Greatest",
+        "color": "#4F0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1342560887692853320",
+            "name": "­",
+            "color": null,
+            "position": 56
+          },
+          {
+            "id": "1340735484271526029",
+            "name": "Emperor",
+            "color": "#4F0000",
+            "position": 55
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1386086422523412570",
+          "url": "https://cdn.discordapp.com/attachments/1343004654115622963/1386086422523412570/nuclear.png?ex=685bb8d3&is=685a6753&hm=6dbdfcd5b0ee646d82736bf4c2e4e3407a6dc607f690292c90bf3ab22e3a13cd&",
+          "fileName": "nuclear.png",
+          "fileSizeBytes": 124612
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 6
+}

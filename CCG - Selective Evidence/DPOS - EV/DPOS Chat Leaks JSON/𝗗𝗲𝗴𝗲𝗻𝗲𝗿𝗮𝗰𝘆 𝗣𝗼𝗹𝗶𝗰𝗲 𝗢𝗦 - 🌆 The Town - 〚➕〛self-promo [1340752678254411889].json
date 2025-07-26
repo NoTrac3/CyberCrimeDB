@@ -1,0 +1,3701 @@
+{
+  "guild": {
+    "id": "1340710262168096809",
+    "name": "\uD835\uDDD7\uD835\uDDF2\uD835\uDDF4\uD835\uDDF2\uD835\uDDFB\uD835\uDDF2\uD835\uDDFF\uD835\uDDEE\uD835\uDDF0\uD835\uDE06 \uD835\uDDE3\uD835\uDDFC\uD835\uDDF9\uD835\uDDF6\uD835\uDDF0\uD835\uDDF2 \uD835\uDDE2\uD835\uDDE6",
+    "iconUrl": "https://cdn.discordapp.com/icons/1340710262168096809/a2db2dbec93453bccb1528e60db6178a.png?size=512"
+  },
+  "channel": {
+    "id": "1340752678254411889",
+    "type": "GuildTextChat",
+    "categoryId": "1340710262168096810",
+    "category": "\uD83C\uDF06 The Town",
+    "name": "〚➕〛self-promo",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-06-24T22:02:13.1358143+08:00",
+  "messages": [
+    {
+      "id": "1340760339784007875",
+      "type": "Default",
+      "timestamp": "2025-02-17T03:02:55.127+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/T37SyVk67M",
+      "author": {
+        "id": "1323804265244004483",
+        "name": "stronuttp",
+        "discriminator": "0000",
+        "nickname": "S-TRON",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323804265244004483/e53a9d694a466ca91ea8b828a960c4f9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1342320896257560666",
+      "type": "Default",
+      "timestamp": "2025-02-21T10:24:00.784+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "** ‘WELCOME TO THE *CONSERVATIVE UNION* (MULTI SERVER ORGANIZATION)' **\n\n**Are you tired of talking to people that are snowflakes?\nAre you tired of being in the same boring, larpy servers?\nAre you tired of not being able to express your talents and creativity?\nAre YOU, tired of modern day degeneracy?\nWell you're in the right place because we have the following:\n**\n# We Have\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n『\uD83D\uDDFD』-Monthly elections for server leadership\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n『\uD83D\uDCDC』- Lore and History \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n『\uD83D\uDCAA』- Many jobs where you can express your talents and get paid (in actual money or unbelievaboat coins)\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n『\uD83D\uDCB5』- An actual cashapp for our business affairs\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n『\uD83C\uDFB5』- Great Music\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n『\uD83D\uDE02』- Actually funny memes\n(not the corny ones)\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n『\uD83D\uDEA8』- INTELLECTUAL & NORMAL HUMANS\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n『\uD83E\uDD1D』-Open Partnerships\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n『❗️』- Chaotic chats and events (And other various topics)\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n『\uD83D\uDC79』- TrollFace themes\n\n**What are you waiting for? Don’t miss out on the opportunity of a lifetime, join today!**\n\nhttps://discord.gg/WjDceX93fm\n\n|| @everyone @here ||",
+      "author": {
+        "id": "1150176637749559346",
+        "name": "greekolive.",
+        "discriminator": "0000",
+        "nickname": "ChillFella",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1150176637749559346/17e0d5115af2f8cafacefb4892085b03.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDDFD",
+          "code": "statue_of_liberty",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f5fd.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83D\uDCDC",
+          "code": "scroll",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4dc.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83D\uDCAA",
+          "code": "muscle",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4aa.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83D\uDCB5",
+          "code": "dollar",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4b5.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83C\uDFB5",
+          "code": "musical_note",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3b5.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83D\uDE02",
+          "code": "joy",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f602.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83D\uDEA8",
+          "code": "rotating_light",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f6a8.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83E\uDD1D",
+          "code": "handshake",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f91d.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83D\uDC79",
+          "code": "japanese_ogre",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f479.svg"
+        }
+      ]
+    },
+    {
+      "id": "1342564185883676772",
+      "type": "Default",
+      "timestamp": "2025-02-22T02:30:45.551+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "send just the invite",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1349445754426495057",
+      "type": "Default",
+      "timestamp": "2025-03-13T02:15:39.345+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/bMyAtfzt4m",
+      "author": {
+        "id": "1279946818880405524",
+        "name": "_ragesec_",
+        "discriminator": "0000",
+        "nickname": "! ཌᖇᗩǤᗴད LilRage [И3X]",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1279946818880405524/134848c33924b057f4d6d2a0c82a965d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1349468415848611901",
+      "type": "Default",
+      "timestamp": "2025-03-13T03:45:42.249+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/FvHRfkzpFh",
+      "author": {
+        "id": "780171682006564914",
+        "name": "gaz07_",
+        "discriminator": "0000",
+        "nickname": "╡LR╞G҉a҉z҉",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/780171682006564914/75ec3761a01dc0afbeb97f492267f22b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350181914882867244",
+      "type": "Default",
+      "timestamp": "2025-03-15T03:00:53.675+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/H7bS4H4WZH",
+      "author": {
+        "id": "1279946818880405524",
+        "name": "_ragesec_",
+        "discriminator": "0000",
+        "nickname": "! ཌᖇᗩǤᗴད LilRage [И3X]",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1279946818880405524/134848c33924b057f4d6d2a0c82a965d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350185627311673437",
+      "type": "Reply",
+      "timestamp": "2025-03-15T03:15:38.787+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bro wtf happened",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1279946818880405524",
+          "name": "_ragesec_",
+          "discriminator": "0000",
+          "nickname": "! ཌᖇᗩǤᗴད LilRage [И3X]",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1279946818880405524/134848c33924b057f4d6d2a0c82a965d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1350181914882867244",
+        "channelId": "1340752678254411889",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350185657234096138",
+      "type": "Default",
+      "timestamp": "2025-03-15T03:15:45.921+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you had like 150 members",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350185828038480035",
+      "type": "Reply",
+      "timestamp": "2025-03-15T03:16:26.644+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "n2ked",
+      "author": {
+        "id": "1279946818880405524",
+        "name": "_ragesec_",
+        "discriminator": "0000",
+        "nickname": "! ཌᖇᗩǤᗴད LilRage [И3X]",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1279946818880405524/134848c33924b057f4d6d2a0c82a965d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1324158222424211486",
+          "name": "tomasthegreatest",
+          "discriminator": "0000",
+          "nickname": "Emperor T",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1350185657234096138",
+        "channelId": "1340752678254411889",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350186106083086506",
+      "type": "Default",
+      "timestamp": "2025-03-15T03:17:32.935+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no way",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350186120993837096",
+      "type": "Default",
+      "timestamp": "2025-03-15T03:17:36.49+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "who did it",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350186361478709298",
+      "type": "Reply",
+      "timestamp": "2025-03-15T03:18:33.826+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "some dumbass",
+      "author": {
+        "id": "1279946818880405524",
+        "name": "_ragesec_",
+        "discriminator": "0000",
+        "nickname": "! ཌᖇᗩǤᗴད LilRage [И3X]",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1279946818880405524/134848c33924b057f4d6d2a0c82a965d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1324158222424211486",
+          "name": "tomasthegreatest",
+          "discriminator": "0000",
+          "nickname": "Emperor T",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1350186120993837096",
+        "channelId": "1340752678254411889",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350187034760712212",
+      "type": "Reply",
+      "timestamp": "2025-03-15T03:21:14.349+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "CRTP",
+      "author": {
+        "id": "782312920125014017",
+        "name": "leokrill",
+        "discriminator": "0000",
+        "nickname": "Leo",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/782312920125014017/0d16c04119b562951ea133ec9121f65e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1324158222424211486",
+          "name": "tomasthegreatest",
+          "discriminator": "0000",
+          "nickname": "Emperor T",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1350186120993837096",
+        "channelId": "1340752678254411889",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350187108018688030",
+      "type": "Default",
+      "timestamp": "2025-03-15T03:21:31.815+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Those Minecraft creeper vibes Nazis",
+      "author": {
+        "id": "782312920125014017",
+        "name": "leokrill",
+        "discriminator": "0000",
+        "nickname": "Leo",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/782312920125014017/0d16c04119b562951ea133ec9121f65e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350192217909887137",
+      "type": "Reply",
+      "timestamp": "2025-03-15T03:41:50.108+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No",
+      "author": {
+        "id": "1279946818880405524",
+        "name": "_ragesec_",
+        "discriminator": "0000",
+        "nickname": "! ཌᖇᗩǤᗴད LilRage [И3X]",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1279946818880405524/134848c33924b057f4d6d2a0c82a965d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "782312920125014017",
+          "name": "leokrill",
+          "discriminator": "0000",
+          "nickname": "Leo",
+          "color": "#206694",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1340738865606168698",
+              "name": "Soldier",
+              "color": "#206694",
+              "position": 35
+            },
+            {
+              "id": "1340738778955776113",
+              "name": "Agent",
+              "color": "#0000FF",
+              "position": 33
+            },
+            {
+              "id": "1340714047368335481",
+              "name": "Citizen",
+              "color": "#00A3FF",
+              "position": 30
+            },
+            {
+              "id": "1340739699249119245",
+              "name": "❗",
+              "color": null,
+              "position": 27
+            },
+            {
+              "id": "1340762495790354573",
+              "name": "Attacker",
+              "color": "#E67E22",
+              "position": 8
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/782312920125014017/0d16c04119b562951ea133ec9121f65e.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1350187034760712212",
+        "channelId": "1340752678254411889",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350192255222153337",
+      "type": "Default",
+      "timestamp": "2025-03-15T03:41:59.004+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Someone hacked my friend",
+      "author": {
+        "id": "1279946818880405524",
+        "name": "_ragesec_",
+        "discriminator": "0000",
+        "nickname": "! ཌᖇᗩǤᗴད LilRage [И3X]",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1279946818880405524/134848c33924b057f4d6d2a0c82a965d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350192304136261642",
+      "type": "Default",
+      "timestamp": "2025-03-15T03:42:10.666+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But he got his account back",
+      "author": {
+        "id": "1279946818880405524",
+        "name": "_ragesec_",
+        "discriminator": "0000",
+        "nickname": "! ཌᖇᗩǤᗴད LilRage [И3X]",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1279946818880405524/134848c33924b057f4d6d2a0c82a965d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350629795662266401",
+      "type": "Default",
+      "timestamp": "2025-03-16T08:40:36.774+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/9a9rJjKmfg",
+      "author": {
+        "id": "1279946818880405524",
+        "name": "_ragesec_",
+        "discriminator": "0000",
+        "nickname": "! ཌᖇᗩǤᗴད LilRage [И3X]",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1279946818880405524/134848c33924b057f4d6d2a0c82a965d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1351081510157025332",
+      "type": "Default",
+      "timestamp": "2025-03-17T14:35:33.902+08:00",
+      "timestampEdited": "2025-03-17T14:35:40.938+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/ygSyzRyRXn\njoin back (again)",
+      "author": {
+        "id": "782312920125014017",
+        "name": "leokrill",
+        "discriminator": "0000",
+        "nickname": "Leo",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/782312920125014017/0d16c04119b562951ea133ec9121f65e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1351904241547083848",
+      "type": "Reply",
+      "timestamp": "2025-03-19T21:04:48.351+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No",
+      "author": {
+        "id": "1155153092095004732",
+        "name": "manns1444",
+        "discriminator": "0000",
+        "nickname": "Manns",
+        "color": "#ABABAB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1341906269736538202",
+            "name": "Stored Alt",
+            "color": "#ABABAB",
+            "position": 28
+          },
+          {
+            "id": "1341906014768730142",
+            "name": "Inactive Account",
+            "color": "#454545",
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1155153092095004732/e473ef5b22a42b9d61174b8111c3922d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "780171682006564914",
+          "name": "gaz07_",
+          "discriminator": "0000",
+          "nickname": "╡LR╞G҉a҉z҉",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/780171682006564914/75ec3761a01dc0afbeb97f492267f22b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1351747574738194575",
+        "channelId": "1340752678254411889",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1351929777778589767",
+      "type": "Default",
+      "timestamp": "2025-03-19T22:46:16.663+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fuck",
+      "author": {
+        "id": "1323334473361653772",
+        "name": "mister_wesker",
+        "discriminator": "0000",
+        "nickname": "Mister Wesker",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1323334473361653772/15f16884c2d13c9956c3abe50664ecc3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1352223279074508921",
+      "type": "Default",
+      "timestamp": "2025-03-20T18:12:32.825+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/Cj5WfbpbDw\n\nFR got n2k3d join this new server",
+      "author": {
+        "id": "782312920125014017",
+        "name": "leokrill",
+        "discriminator": "0000",
+        "nickname": "Leo",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/782312920125014017/0d16c04119b562951ea133ec9121f65e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1352272624419471472",
+      "type": "Default",
+      "timestamp": "2025-03-20T21:28:37.672+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# ⚔️ LEGIO AETERNA ⚔️\n“Veni, Vidi, Vici”\n\nThe Empire calls upon warriors and conquerors to join the ranks of Legio Aeterna! The weak cower behind their walls, but we march as one—unstoppable, eternal, and unyielding\n\n⚔️ Fight degenerates and keep discord clean from scum\n\uD83D\uDEE1️ Use powerful bots and tools to annihilate our enemies \n\nhttps://discord.gg/Cj5WfbpbDw",
+      "author": {
+        "id": "782312920125014017",
+        "name": "leokrill",
+        "discriminator": "0000",
+        "nickname": "Leo",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/782312920125014017/0d16c04119b562951ea133ec9121f65e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "⚔",
+          "code": "⚔",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2694.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83D\uDEE1",
+          "code": "\uD83D\uDEE1",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f6e1.svg"
+        }
+      ]
+    },
+    {
+      "id": "1354208264954449932",
+      "type": "Default",
+      "timestamp": "2025-03-26T05:40:10.338+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/d4uXrpaJgP",
+      "author": {
+        "id": "1294706310474109010",
+        "name": "robzinrs",
+        "discriminator": "0000",
+        "nickname": "Robzinrs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1294706310474109010/15cde837f2241bd78017de6446d1173b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354208930833895535",
+      "type": "Default",
+      "timestamp": "2025-03-26T05:42:49.096+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Join",
+      "author": {
+        "id": "1294706310474109010",
+        "name": "robzinrs",
+        "discriminator": "0000",
+        "nickname": "Robzinrs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1294706310474109010/15cde837f2241bd78017de6446d1173b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354500253403058337",
+      "type": "Default",
+      "timestamp": "2025-03-27T01:00:25.809+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not really a promo but y’all my special guest :flag_wotr:",
+      "author": {
+        "id": "1217297960208175226",
+        "name": "butterfribootleg_23",
+        "discriminator": "0000",
+        "nickname": "\uD835\uDCB1ℯ\uD835\uDCC3ℴ\uD835\uDCC3\uD835\uDCBE\uD835\uDCC8  (\uD835\uDC11\uD835\uDC1E\uD835\uDC1D\uD835\uDC1E\uD835\uDC1E\uD835\uDC26\uD835\uDC1E\uD835\uDC1D）",
+        "color": "#D6680E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1343370371872854037",
+            "name": "Legend",
+            "color": "#D6680E",
+            "position": 36
+          },
+          {
+            "id": "1340737083689533520",
+            "name": "Recruit",
+            "color": "#3283DB",
+            "position": 32
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1346527323888812102",
+            "name": "\uD83C\uDF96️ Awesome Award",
+            "color": "#00FF00",
+            "position": 26
+          },
+          {
+            "id": "1346527559298318468",
+            "name": "\uD83C\uDF96️ Respected",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "1363875658630959117",
+            "name": "Active 1",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340762415251587132",
+            "name": "Artist",
+            "color": "#71368A",
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1340710262168096809/users/1217297960208175226/avatars/4a2b5c6e7d1d573cd9c9eaac4bf6cad1.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1354500253289808115",
+          "url": "https://cdn.discordapp.com/attachments/1340752678254411889/1354500253289808115/IMG_5227.png?ex=685b8269&is=685a30e9&hm=5cbb9542f619758d7c08d3165993af3084e7a07089752ddd479f6944142d7358&",
+          "fileName": "IMG_5227.png",
+          "fileSizeBytes": 970285
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "1344441199217344602",
+          "name": "flag_wotr",
+          "code": "flag_wotr",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1344441199217344602.png"
+        }
+      ]
+    },
+    {
+      "id": "1356311742723915929",
+      "type": "Default",
+      "timestamp": "2025-04-01T00:58:38.519+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/d4uXrpaJgP",
+      "author": {
+        "id": "1325865365036728402",
+        "name": "kinny120",
+        "discriminator": "0000",
+        "nickname": "Emperor Robzinrs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325865365036728402/14cc7bdbcb8fd02fcb8b75b810e02657.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1356375245770199220",
+      "type": "Default",
+      "timestamp": "2025-04-01T05:10:58.825+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/rYC2mH28Xn",
+      "author": {
+        "id": "1325865365036728402",
+        "name": "kinny120",
+        "discriminator": "0000",
+        "nickname": "Emperor Robzinrs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325865365036728402/14cc7bdbcb8fd02fcb8b75b810e02657.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1357814014125670440",
+      "type": "Default",
+      "timestamp": "2025-04-05T04:28:07.932+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone discord.gg/ncyDP5y5Xs",
+      "author": {
+        "id": "1275264076456656909",
+        "name": "falsentrat",
+        "discriminator": "0000",
+        "nickname": "Mbretitkaiser Falsentrat",
+        "color": "#3283DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340737083689533520",
+            "name": "Recruit",
+            "color": "#3283DB",
+            "position": 32
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340759223738433650",
+            "name": "Bot Verified",
+            "color": "#2ECC71",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1275264076456656909/3c88fb35dceb0ab307bbe8ed0a90400b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1362882572866031789",
+      "type": "Default",
+      "timestamp": "2025-04-19T04:08:46.505+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/d4uXrpaJgP",
+      "author": {
+        "id": "1325865365036728402",
+        "name": "kinny120",
+        "discriminator": "0000",
+        "nickname": "Emperor Robzinrs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325865365036728402/14cc7bdbcb8fd02fcb8b75b810e02657.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1368591794048073728",
+      "type": "Default",
+      "timestamp": "2025-05-04T22:15:10.907+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/jRRRqKmskx not my server but allies",
+      "author": {
+        "id": "1345311655478951997",
+        "name": "sanguinius_of_baal",
+        "discriminator": "0000",
+        "nickname": "General Guilliman",
+        "color": "#0A0A0A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1355246339386245430",
+            "name": "Councilmen",
+            "color": null,
+            "position": 50
+          },
+          {
+            "id": "1340717674535321693",
+            "name": "Manager",
+            "color": null,
+            "position": 49
+          },
+          {
+            "id": "1355246239603626068",
+            "name": "Attack Caller",
+            "color": null,
+            "position": 48
+          },
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1340757164603736164",
+            "name": "General",
+            "color": "#0A0A0A",
+            "position": 42
+          },
+          {
+            "id": "1355246926441742436",
+            "name": "Commandant",
+            "color": "#05065D",
+            "position": 41
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1363875768199024770",
+            "name": "Active 2",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1343287249432870913",
+            "name": "Bomb Drop Ping",
+            "color": "#1F8B4C",
+            "position": 11
+          },
+          {
+            "id": "1343287303040139346",
+            "name": "Reinforcements Ping",
+            "color": "#1F8B4C",
+            "position": 10
+          },
+          {
+            "id": "1343287372267393116",
+            "name": "Broadcast Ping",
+            "color": "#1F8B4C",
+            "position": 9
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340716065969143908",
+            "name": "Outsider",
+            "color": "#A0A0A0",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1345311655478951997/128c68c0f7a6eb7505bd8bce2fccbfc4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1368918046881615942",
+      "type": "Default",
+      "timestamp": "2025-05-05T19:51:35.644+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/5p6u2H5UX8",
+      "author": {
+        "id": "1325865365036728402",
+        "name": "kinny120",
+        "discriminator": "0000",
+        "nickname": "Emperor Robzinrs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325865365036728402/14cc7bdbcb8fd02fcb8b75b810e02657.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1368918650891010120",
+      "type": "Default",
+      "timestamp": "2025-05-05T19:53:59.651+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The old server went down with 193 members but don't worry, I remade the server",
+      "author": {
+        "id": "1325865365036728402",
+        "name": "kinny120",
+        "discriminator": "0000",
+        "nickname": "Emperor Robzinrs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325865365036728402/14cc7bdbcb8fd02fcb8b75b810e02657.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1368930327627825173",
+      "type": "Default",
+      "timestamp": "2025-05-05T20:40:23.602+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/ekvdH3TAT8",
+      "author": {
+        "id": "1322215300787339336",
+        "name": "l1lr4g3",
+        "discriminator": "0000",
+        "nickname": "Captain LilRage",
+        "color": "#BE173B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717642469609534",
+            "name": "Police",
+            "color": null,
+            "position": 46
+          },
+          {
+            "id": "1340713654391144541",
+            "name": "Helper",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1342627885600473138",
+            "name": "Major",
+            "color": "#FF3964",
+            "position": 39
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "1346527559298318468",
+            "name": "\uD83C\uDF96️ Respected",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "1363875658630959117",
+            "name": "Active 1",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340762561293058138",
+            "name": "Coder",
+            "color": "#1ABC9C",
+            "position": 7
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1322215300787339336/150027ab97cdd495fb6b83df6858db33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1368930439565410384",
+      "type": "Default",
+      "timestamp": "2025-05-05T20:40:50.29+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/ZXYGZSnBXa",
+      "author": {
+        "id": "1322215300787339336",
+        "name": "l1lr4g3",
+        "discriminator": "0000",
+        "nickname": "Captain LilRage",
+        "color": "#BE173B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717642469609534",
+            "name": "Police",
+            "color": null,
+            "position": 46
+          },
+          {
+            "id": "1340713654391144541",
+            "name": "Helper",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1342627885600473138",
+            "name": "Major",
+            "color": "#FF3964",
+            "position": 39
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "1346527559298318468",
+            "name": "\uD83C\uDF96️ Respected",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "1363875658630959117",
+            "name": "Active 1",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340762561293058138",
+            "name": "Coder",
+            "color": "#1ABC9C",
+            "position": 7
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1322215300787339336/150027ab97cdd495fb6b83df6858db33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1368954761558098030",
+      "type": "Default",
+      "timestamp": "2025-05-05T22:17:29.105+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/5p6u2H5UX8",
+      "author": {
+        "id": "1325865365036728402",
+        "name": "kinny120",
+        "discriminator": "0000",
+        "nickname": "Emperor Robzinrs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1325865365036728402/14cc7bdbcb8fd02fcb8b75b810e02657.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1370868605331439662",
+      "type": "Default",
+      "timestamp": "2025-05-11T05:02:25.018+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/5p6u2H5UX8",
+      "author": {
+        "id": "1370494525218488340",
+        "name": "emperoryoutuberssucks________",
+        "discriminator": "0000",
+        "nickname": "Emperor Robzinrs \"I AM\"",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1370494525218488340/62cb4c3e528d54f626f1ccc8db253ad7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1370890571400478770",
+      "type": "Default",
+      "timestamp": "2025-05-11T06:29:42.137+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Emperor Robzinrs \"I AM\" banned?",
+      "author": {
+        "id": "1345311655478951997",
+        "name": "sanguinius_of_baal",
+        "discriminator": "0000",
+        "nickname": "General Guilliman",
+        "color": "#0A0A0A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1355246339386245430",
+            "name": "Councilmen",
+            "color": null,
+            "position": 50
+          },
+          {
+            "id": "1340717674535321693",
+            "name": "Manager",
+            "color": null,
+            "position": 49
+          },
+          {
+            "id": "1355246239603626068",
+            "name": "Attack Caller",
+            "color": null,
+            "position": 48
+          },
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1340757164603736164",
+            "name": "General",
+            "color": "#0A0A0A",
+            "position": 42
+          },
+          {
+            "id": "1355246926441742436",
+            "name": "Commandant",
+            "color": "#05065D",
+            "position": 41
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1363875768199024770",
+            "name": "Active 2",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1343287249432870913",
+            "name": "Bomb Drop Ping",
+            "color": "#1F8B4C",
+            "position": 11
+          },
+          {
+            "id": "1343287303040139346",
+            "name": "Reinforcements Ping",
+            "color": "#1F8B4C",
+            "position": 10
+          },
+          {
+            "id": "1343287372267393116",
+            "name": "Broadcast Ping",
+            "color": "#1F8B4C",
+            "position": 9
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340716065969143908",
+            "name": "Outsider",
+            "color": "#A0A0A0",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1345311655478951997/128c68c0f7a6eb7505bd8bce2fccbfc4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1370494525218488340",
+          "name": "emperoryoutuberssucks________",
+          "discriminator": "0000",
+          "nickname": "Emperor Robzinrs \"I AM\"",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1370494525218488340/62cb4c3e528d54f626f1ccc8db253ad7.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1370976621116526653",
+      "type": "Reply",
+      "timestamp": "2025-05-11T12:11:37.988+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah",
+      "author": {
+        "id": "1370514039171452961",
+        "name": "emperorrobzinrs",
+        "discriminator": "0000",
+        "nickname": "Emperor robzinrs (UTTP)",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1370514039171452961/406133331062714500f2e2bd8f9da5bf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1345311655478951997",
+          "name": "sanguinius_of_baal",
+          "discriminator": "0000",
+          "nickname": "General Guilliman",
+          "color": "#0A0A0A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1355246339386245430",
+              "name": "Councilmen",
+              "color": null,
+              "position": 50
+            },
+            {
+              "id": "1340717674535321693",
+              "name": "Manager",
+              "color": null,
+              "position": 49
+            },
+            {
+              "id": "1355246239603626068",
+              "name": "Attack Caller",
+              "color": null,
+              "position": 48
+            },
+            {
+              "id": "1340717588975587432",
+              "name": "Admin",
+              "color": null,
+              "position": 47
+            },
+            {
+              "id": "1340717529366138923",
+              "name": "Internal Security Agency",
+              "color": null,
+              "position": 44
+            },
+            {
+              "id": "1340757164603736164",
+              "name": "General",
+              "color": "#0A0A0A",
+              "position": 42
+            },
+            {
+              "id": "1355246926441742436",
+              "name": "Commandant",
+              "color": "#05065D",
+              "position": 41
+            },
+            {
+              "id": "1342560731647709347",
+              "name": "Captain",
+              "color": "#BE173B",
+              "position": 40
+            },
+            {
+              "id": "1340738865606168698",
+              "name": "Soldier",
+              "color": "#206694",
+              "position": 35
+            },
+            {
+              "id": "1340738778955776113",
+              "name": "Agent",
+              "color": "#0000FF",
+              "position": 33
+            },
+            {
+              "id": "1340714047368335481",
+              "name": "Citizen",
+              "color": "#00A3FF",
+              "position": 30
+            },
+            {
+              "id": "1363875768199024770",
+              "name": "Active 2",
+              "color": null,
+              "position": 21
+            },
+            {
+              "id": "1343287249432870913",
+              "name": "Bomb Drop Ping",
+              "color": "#1F8B4C",
+              "position": 11
+            },
+            {
+              "id": "1343287303040139346",
+              "name": "Reinforcements Ping",
+              "color": "#1F8B4C",
+              "position": 10
+            },
+            {
+              "id": "1343287372267393116",
+              "name": "Broadcast Ping",
+              "color": "#1F8B4C",
+              "position": 9
+            },
+            {
+              "id": "1340762495790354573",
+              "name": "Attacker",
+              "color": "#E67E22",
+              "position": 8
+            },
+            {
+              "id": "1340716065969143908",
+              "name": "Outsider",
+              "color": "#A0A0A0",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1345311655478951997/128c68c0f7a6eb7505bd8bce2fccbfc4.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1370890571400478770",
+        "channelId": "1340752678254411889",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1371013233640738847",
+      "type": "Reply",
+      "timestamp": "2025-05-11T14:37:07.094+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Stop using your acc a ton",
+      "author": {
+        "id": "1345311655478951997",
+        "name": "sanguinius_of_baal",
+        "discriminator": "0000",
+        "nickname": "General Guilliman",
+        "color": "#0A0A0A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1355246339386245430",
+            "name": "Councilmen",
+            "color": null,
+            "position": 50
+          },
+          {
+            "id": "1340717674535321693",
+            "name": "Manager",
+            "color": null,
+            "position": 49
+          },
+          {
+            "id": "1355246239603626068",
+            "name": "Attack Caller",
+            "color": null,
+            "position": 48
+          },
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1340757164603736164",
+            "name": "General",
+            "color": "#0A0A0A",
+            "position": 42
+          },
+          {
+            "id": "1355246926441742436",
+            "name": "Commandant",
+            "color": "#05065D",
+            "position": 41
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1363875768199024770",
+            "name": "Active 2",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1343287249432870913",
+            "name": "Bomb Drop Ping",
+            "color": "#1F8B4C",
+            "position": 11
+          },
+          {
+            "id": "1343287303040139346",
+            "name": "Reinforcements Ping",
+            "color": "#1F8B4C",
+            "position": 10
+          },
+          {
+            "id": "1343287372267393116",
+            "name": "Broadcast Ping",
+            "color": "#1F8B4C",
+            "position": 9
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340716065969143908",
+            "name": "Outsider",
+            "color": "#A0A0A0",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1345311655478951997/128c68c0f7a6eb7505bd8bce2fccbfc4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1370514039171452961",
+          "name": "emperorrobzinrs",
+          "discriminator": "0000",
+          "nickname": "Emperor robzinrs (UTTP)",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1370514039171452961/406133331062714500f2e2bd8f9da5bf.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1370976722362830890",
+        "channelId": "1340752678254411889",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1371187653801807903",
+      "type": "Reply",
+      "timestamp": "2025-05-12T02:10:12.101+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh ok",
+      "author": {
+        "id": "1370514039171452961",
+        "name": "emperorrobzinrs",
+        "discriminator": "0000",
+        "nickname": "Emperor robzinrs (UTTP)",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1370514039171452961/406133331062714500f2e2bd8f9da5bf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1345311655478951997",
+          "name": "sanguinius_of_baal",
+          "discriminator": "0000",
+          "nickname": "General Guilliman",
+          "color": "#0A0A0A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1355246339386245430",
+              "name": "Councilmen",
+              "color": null,
+              "position": 50
+            },
+            {
+              "id": "1340717674535321693",
+              "name": "Manager",
+              "color": null,
+              "position": 49
+            },
+            {
+              "id": "1355246239603626068",
+              "name": "Attack Caller",
+              "color": null,
+              "position": 48
+            },
+            {
+              "id": "1340717588975587432",
+              "name": "Admin",
+              "color": null,
+              "position": 47
+            },
+            {
+              "id": "1340717529366138923",
+              "name": "Internal Security Agency",
+              "color": null,
+              "position": 44
+            },
+            {
+              "id": "1340757164603736164",
+              "name": "General",
+              "color": "#0A0A0A",
+              "position": 42
+            },
+            {
+              "id": "1355246926441742436",
+              "name": "Commandant",
+              "color": "#05065D",
+              "position": 41
+            },
+            {
+              "id": "1342560731647709347",
+              "name": "Captain",
+              "color": "#BE173B",
+              "position": 40
+            },
+            {
+              "id": "1340738865606168698",
+              "name": "Soldier",
+              "color": "#206694",
+              "position": 35
+            },
+            {
+              "id": "1340738778955776113",
+              "name": "Agent",
+              "color": "#0000FF",
+              "position": 33
+            },
+            {
+              "id": "1340714047368335481",
+              "name": "Citizen",
+              "color": "#00A3FF",
+              "position": 30
+            },
+            {
+              "id": "1363875768199024770",
+              "name": "Active 2",
+              "color": null,
+              "position": 21
+            },
+            {
+              "id": "1343287249432870913",
+              "name": "Bomb Drop Ping",
+              "color": "#1F8B4C",
+              "position": 11
+            },
+            {
+              "id": "1343287303040139346",
+              "name": "Reinforcements Ping",
+              "color": "#1F8B4C",
+              "position": 10
+            },
+            {
+              "id": "1343287372267393116",
+              "name": "Broadcast Ping",
+              "color": "#1F8B4C",
+              "position": 9
+            },
+            {
+              "id": "1340762495790354573",
+              "name": "Attacker",
+              "color": "#E67E22",
+              "position": 8
+            },
+            {
+              "id": "1340716065969143908",
+              "name": "Outsider",
+              "color": "#A0A0A0",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1345311655478951997/128c68c0f7a6eb7505bd8bce2fccbfc4.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1371013233640738847",
+        "channelId": "1340752678254411889",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1371187831984357439",
+      "type": "Default",
+      "timestamp": "2025-05-12T02:10:54.583+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**JOIN U POLICE**\nhttps://discord.gg/5p6u2H5UX8",
+      "author": {
+        "id": "1370514039171452961",
+        "name": "emperorrobzinrs",
+        "discriminator": "0000",
+        "nickname": "Emperor robzinrs (UTTP)",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1370514039171452961/406133331062714500f2e2bd8f9da5bf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1371699997506277489",
+      "type": "Default",
+      "timestamp": "2025-05-13T12:06:04.359+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1357118102898475149",
+        "name": "bloodandfamily",
+        "discriminator": "0000",
+        "nickname": "✠ Emperor Bloody Graves ✠",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1357118102898475149/03a4a3678787202927481828e5edc8bb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1371068708084121660",
+        "channelId": "1371048919374626953",
+        "guildId": "1367304193349779536"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1371700134710349946",
+      "type": "Reply",
+      "timestamp": "2025-05-13T12:06:37.071+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "KABOOM",
+      "author": {
+        "id": "1345311655478951997",
+        "name": "sanguinius_of_baal",
+        "discriminator": "0000",
+        "nickname": "General Guilliman",
+        "color": "#0A0A0A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1355246339386245430",
+            "name": "Councilmen",
+            "color": null,
+            "position": 50
+          },
+          {
+            "id": "1340717674535321693",
+            "name": "Manager",
+            "color": null,
+            "position": 49
+          },
+          {
+            "id": "1355246239603626068",
+            "name": "Attack Caller",
+            "color": null,
+            "position": 48
+          },
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1340757164603736164",
+            "name": "General",
+            "color": "#0A0A0A",
+            "position": 42
+          },
+          {
+            "id": "1355246926441742436",
+            "name": "Commandant",
+            "color": "#05065D",
+            "position": 41
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1363875768199024770",
+            "name": "Active 2",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1343287249432870913",
+            "name": "Bomb Drop Ping",
+            "color": "#1F8B4C",
+            "position": 11
+          },
+          {
+            "id": "1343287303040139346",
+            "name": "Reinforcements Ping",
+            "color": "#1F8B4C",
+            "position": 10
+          },
+          {
+            "id": "1343287372267393116",
+            "name": "Broadcast Ping",
+            "color": "#1F8B4C",
+            "position": 9
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340716065969143908",
+            "name": "Outsider",
+            "color": "#A0A0A0",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1345311655478951997/128c68c0f7a6eb7505bd8bce2fccbfc4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1357118102898475149",
+          "name": "bloodandfamily",
+          "discriminator": "0000",
+          "nickname": "✠ Emperor Bloody Graves ✠",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1357118102898475149/03a4a3678787202927481828e5edc8bb.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1371699997506277489",
+        "channelId": "1340752678254411889",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1371700182592389130",
+      "type": "Default",
+      "timestamp": "2025-05-13T12:06:48.487+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cool ass server inbound",
+      "author": {
+        "id": "1345311655478951997",
+        "name": "sanguinius_of_baal",
+        "discriminator": "0000",
+        "nickname": "General Guilliman",
+        "color": "#0A0A0A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1355246339386245430",
+            "name": "Councilmen",
+            "color": null,
+            "position": 50
+          },
+          {
+            "id": "1340717674535321693",
+            "name": "Manager",
+            "color": null,
+            "position": 49
+          },
+          {
+            "id": "1355246239603626068",
+            "name": "Attack Caller",
+            "color": null,
+            "position": 48
+          },
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1340757164603736164",
+            "name": "General",
+            "color": "#0A0A0A",
+            "position": 42
+          },
+          {
+            "id": "1355246926441742436",
+            "name": "Commandant",
+            "color": "#05065D",
+            "position": 41
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1363875768199024770",
+            "name": "Active 2",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1343287249432870913",
+            "name": "Bomb Drop Ping",
+            "color": "#1F8B4C",
+            "position": 11
+          },
+          {
+            "id": "1343287303040139346",
+            "name": "Reinforcements Ping",
+            "color": "#1F8B4C",
+            "position": 10
+          },
+          {
+            "id": "1343287372267393116",
+            "name": "Broadcast Ping",
+            "color": "#1F8B4C",
+            "position": 9
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340716065969143908",
+            "name": "Outsider",
+            "color": "#A0A0A0",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1345311655478951997/128c68c0f7a6eb7505bd8bce2fccbfc4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1371700311588077608",
+      "type": "Reply",
+      "timestamp": "2025-05-13T12:07:19.242+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "was about to dm you that i put my server here",
+      "author": {
+        "id": "1357118102898475149",
+        "name": "bloodandfamily",
+        "discriminator": "0000",
+        "nickname": "✠ Emperor Bloody Graves ✠",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1357118102898475149/03a4a3678787202927481828e5edc8bb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1345311655478951997",
+          "name": "sanguinius_of_baal",
+          "discriminator": "0000",
+          "nickname": "General Guilliman",
+          "color": "#0A0A0A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1355246339386245430",
+              "name": "Councilmen",
+              "color": null,
+              "position": 50
+            },
+            {
+              "id": "1340717674535321693",
+              "name": "Manager",
+              "color": null,
+              "position": 49
+            },
+            {
+              "id": "1355246239603626068",
+              "name": "Attack Caller",
+              "color": null,
+              "position": 48
+            },
+            {
+              "id": "1340717588975587432",
+              "name": "Admin",
+              "color": null,
+              "position": 47
+            },
+            {
+              "id": "1340717529366138923",
+              "name": "Internal Security Agency",
+              "color": null,
+              "position": 44
+            },
+            {
+              "id": "1340757164603736164",
+              "name": "General",
+              "color": "#0A0A0A",
+              "position": 42
+            },
+            {
+              "id": "1355246926441742436",
+              "name": "Commandant",
+              "color": "#05065D",
+              "position": 41
+            },
+            {
+              "id": "1342560731647709347",
+              "name": "Captain",
+              "color": "#BE173B",
+              "position": 40
+            },
+            {
+              "id": "1340738865606168698",
+              "name": "Soldier",
+              "color": "#206694",
+              "position": 35
+            },
+            {
+              "id": "1340738778955776113",
+              "name": "Agent",
+              "color": "#0000FF",
+              "position": 33
+            },
+            {
+              "id": "1340714047368335481",
+              "name": "Citizen",
+              "color": "#00A3FF",
+              "position": 30
+            },
+            {
+              "id": "1363875768199024770",
+              "name": "Active 2",
+              "color": null,
+              "position": 21
+            },
+            {
+              "id": "1343287249432870913",
+              "name": "Bomb Drop Ping",
+              "color": "#1F8B4C",
+              "position": 11
+            },
+            {
+              "id": "1343287303040139346",
+              "name": "Reinforcements Ping",
+              "color": "#1F8B4C",
+              "position": 10
+            },
+            {
+              "id": "1343287372267393116",
+              "name": "Broadcast Ping",
+              "color": "#1F8B4C",
+              "position": 9
+            },
+            {
+              "id": "1340762495790354573",
+              "name": "Attacker",
+              "color": "#E67E22",
+              "position": 8
+            },
+            {
+              "id": "1340716065969143908",
+              "name": "Outsider",
+              "color": "#A0A0A0",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1345311655478951997/128c68c0f7a6eb7505bd8bce2fccbfc4.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1371700134710349946",
+        "channelId": "1340752678254411889",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1371889049207570533",
+      "type": "Default",
+      "timestamp": "2025-05-14T00:37:17.797+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/EphuCzxBPs",
+      "author": {
+        "id": "1322215300787339336",
+        "name": "l1lr4g3",
+        "discriminator": "0000",
+        "nickname": "Captain LilRage",
+        "color": "#BE173B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717642469609534",
+            "name": "Police",
+            "color": null,
+            "position": 46
+          },
+          {
+            "id": "1340713654391144541",
+            "name": "Helper",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1342627885600473138",
+            "name": "Major",
+            "color": "#FF3964",
+            "position": 39
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "1346527559298318468",
+            "name": "\uD83C\uDF96️ Respected",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "1363875658630959117",
+            "name": "Active 1",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340762561293058138",
+            "name": "Coder",
+            "color": "#1ABC9C",
+            "position": 7
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1322215300787339336/150027ab97cdd495fb6b83df6858db33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375230583973613608",
+      "type": "Default",
+      "timestamp": "2025-05-23T05:55:21.768+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/5p6u2H5UX8",
+      "author": {
+        "id": "1372283091107975251",
+        "name": "emperorrobzinrs._47775",
+        "discriminator": "0000",
+        "nickname": "Emperor robzinrs",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1372283091107975251/44f60c6f3196f166bf22838846e143a5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1377609820852584518",
+      "type": "Default",
+      "timestamp": "2025-05-29T19:29:36.044+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/KZGBgJb8Y3",
+      "author": {
+        "id": "1322215300787339336",
+        "name": "l1lr4g3",
+        "discriminator": "0000",
+        "nickname": "Captain LilRage",
+        "color": "#BE173B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717642469609534",
+            "name": "Police",
+            "color": null,
+            "position": 46
+          },
+          {
+            "id": "1340713654391144541",
+            "name": "Helper",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1342627885600473138",
+            "name": "Major",
+            "color": "#FF3964",
+            "position": 39
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          },
+          {
+            "id": "1346527559298318468",
+            "name": "\uD83C\uDF96️ Respected",
+            "color": "#1F8B4C",
+            "position": 25
+          },
+          {
+            "id": "1363875658630959117",
+            "name": "Active 1",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340762561293058138",
+            "name": "Coder",
+            "color": "#1ABC9C",
+            "position": 7
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1322215300787339336/150027ab97cdd495fb6b83df6858db33.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1377671493986549855",
+      "type": "Default",
+      "timestamp": "2025-05-29T23:34:40.065+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I love dpos",
+      "author": {
+        "id": "1345311655478951997",
+        "name": "sanguinius_of_baal",
+        "discriminator": "0000",
+        "nickname": "General Guilliman",
+        "color": "#0A0A0A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1355246339386245430",
+            "name": "Councilmen",
+            "color": null,
+            "position": 50
+          },
+          {
+            "id": "1340717674535321693",
+            "name": "Manager",
+            "color": null,
+            "position": 49
+          },
+          {
+            "id": "1355246239603626068",
+            "name": "Attack Caller",
+            "color": null,
+            "position": 48
+          },
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1340757164603736164",
+            "name": "General",
+            "color": "#0A0A0A",
+            "position": 42
+          },
+          {
+            "id": "1355246926441742436",
+            "name": "Commandant",
+            "color": "#05065D",
+            "position": 41
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1363875768199024770",
+            "name": "Active 2",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1343287249432870913",
+            "name": "Bomb Drop Ping",
+            "color": "#1F8B4C",
+            "position": 11
+          },
+          {
+            "id": "1343287303040139346",
+            "name": "Reinforcements Ping",
+            "color": "#1F8B4C",
+            "position": 10
+          },
+          {
+            "id": "1343287372267393116",
+            "name": "Broadcast Ping",
+            "color": "#1F8B4C",
+            "position": 9
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340716065969143908",
+            "name": "Outsider",
+            "color": "#A0A0A0",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1345311655478951997/128c68c0f7a6eb7505bd8bce2fccbfc4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1377696546577059961",
+      "type": "Default",
+      "timestamp": "2025-05-30T01:14:13.068+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is self promo not glazing channel",
+      "author": {
+        "id": "1374747067867467990",
+        "name": "manns1945_21069",
+        "discriminator": "0000",
+        "nickname": "Manns",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1377738041119998042",
+      "type": "Default",
+      "timestamp": "2025-05-30T03:59:06.138+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lol",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1377738559582109888",
+      "type": "Reply",
+      "timestamp": "2025-05-30T04:01:09.749+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was doing it for propaganda",
+      "author": {
+        "id": "1345311655478951997",
+        "name": "sanguinius_of_baal",
+        "discriminator": "0000",
+        "nickname": "General Guilliman",
+        "color": "#0A0A0A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1355246339386245430",
+            "name": "Councilmen",
+            "color": null,
+            "position": 50
+          },
+          {
+            "id": "1340717674535321693",
+            "name": "Manager",
+            "color": null,
+            "position": 49
+          },
+          {
+            "id": "1355246239603626068",
+            "name": "Attack Caller",
+            "color": null,
+            "position": 48
+          },
+          {
+            "id": "1340717588975587432",
+            "name": "Admin",
+            "color": null,
+            "position": 47
+          },
+          {
+            "id": "1340717529366138923",
+            "name": "Internal Security Agency",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1340757164603736164",
+            "name": "General",
+            "color": "#0A0A0A",
+            "position": 42
+          },
+          {
+            "id": "1355246926441742436",
+            "name": "Commandant",
+            "color": "#05065D",
+            "position": 41
+          },
+          {
+            "id": "1342560731647709347",
+            "name": "Captain",
+            "color": "#BE173B",
+            "position": 40
+          },
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1363875768199024770",
+            "name": "Active 2",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1343287249432870913",
+            "name": "Bomb Drop Ping",
+            "color": "#1F8B4C",
+            "position": 11
+          },
+          {
+            "id": "1343287303040139346",
+            "name": "Reinforcements Ping",
+            "color": "#1F8B4C",
+            "position": 10
+          },
+          {
+            "id": "1343287372267393116",
+            "name": "Broadcast Ping",
+            "color": "#1F8B4C",
+            "position": 9
+          },
+          {
+            "id": "1340762495790354573",
+            "name": "Attacker",
+            "color": "#E67E22",
+            "position": 8
+          },
+          {
+            "id": "1340716065969143908",
+            "name": "Outsider",
+            "color": "#A0A0A0",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1345311655478951997/128c68c0f7a6eb7505bd8bce2fccbfc4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1374747067867467990",
+          "name": "manns1945_21069",
+          "discriminator": "0000",
+          "nickname": "Manns",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1377696546577059961",
+        "channelId": "1340752678254411889",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1383151526473629848",
+      "type": "Default",
+      "timestamp": "2025-06-14T02:30:21.624+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/invite/YugUUVrteH",
+      "author": {
+        "id": "1380247760183492708",
+        "name": "pa1ntdvd",
+        "discriminator": "0000",
+        "nickname": "paintdvd",
+        "color": "#3283DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340737083689533520",
+            "name": "Recruit",
+            "color": "#3283DB",
+            "position": 32
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1380247760183492708/3b8b56da8b04b0ff85e9944c1b80ddfb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1383397396570050580",
+      "type": "Default",
+      "timestamp": "2025-06-14T18:47:21.623+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/Se6WBeZN5Q",
+      "author": {
+        "id": "1064315905171013692",
+        "name": "alilililiii",
+        "discriminator": "0000",
+        "nickname": "\uD835\uDE68\uD835\uDE6D\uD835\uDE6B\uD835\uDE61\uD835\uDE6F.\uD835\uDE5C\uD835\uDE5C ✸",
+        "color": "#00A3FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1064315905171013692/8fed0df78b77b55b37a6800d452ed763.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1383963515122876466",
+      "type": "Default",
+      "timestamp": "2025-06-16T08:16:54.804+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/yAwpykVUFc",
+      "author": {
+        "id": "1380247760183492708",
+        "name": "pa1ntdvd",
+        "discriminator": "0000",
+        "nickname": "paintdvd",
+        "color": "#3283DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340737083689533520",
+            "name": "Recruit",
+            "color": "#3283DB",
+            "position": 32
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1380247760183492708/3b8b56da8b04b0ff85e9944c1b80ddfb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1385069272052531370",
+      "type": "Default",
+      "timestamp": "2025-06-19T09:30:47.8+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/eGaDUTRs7J",
+      "author": {
+        "id": "1380247760183492708",
+        "name": "pa1ntdvd",
+        "discriminator": "0000",
+        "nickname": "paintdvd",
+        "color": "#3283DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340737083689533520",
+            "name": "Recruit",
+            "color": "#3283DB",
+            "position": 32
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          },
+          {
+            "id": "1340739699249119245",
+            "name": "❗",
+            "color": null,
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1380247760183492708/3b8b56da8b04b0ff85e9944c1b80ddfb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386452337555406958",
+      "type": "Default",
+      "timestamp": "2025-06-23T05:06:36.312+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1375946993700180153",
+        "name": "robzinrs__",
+        "discriminator": "0000",
+        "nickname": "Emperor robzinrs \uD83C\uDDE7\uD83C\uDDF7",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375946993700180153/3602de253e2a18b01858f04d611cb0f6.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1386452336762814515",
+          "url": "https://cdn.discordapp.com/attachments/1340752678254411889/1386452336762814515/YouCut_20250622_163202007.mp4?ex=685bbc1c&is=685a6a9c&hm=383937185ad84090f32f974b358eed04f13c7792b29969b0a2ef2ea8f21bc0c2&",
+          "fileName": "YouCut_20250622_163202007.mp4",
+          "fileSizeBytes": 4794742
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386496857437638677",
+      "type": "Reply",
+      "timestamp": "2025-06-23T08:03:30.679+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thy team guy",
+      "author": {
+        "id": "1064315905171013692",
+        "name": "alilililiii",
+        "discriminator": "0000",
+        "nickname": "\uD835\uDE68\uD835\uDE6D\uD835\uDE6B\uD835\uDE61\uD835\uDE6F.\uD835\uDE5C\uD835\uDE5C ✸",
+        "color": "#00A3FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1064315905171013692/8fed0df78b77b55b37a6800d452ed763.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1375946993700180153",
+          "name": "robzinrs__",
+          "discriminator": "0000",
+          "nickname": "Emperor robzinrs \uD83C\uDDE7\uD83C\uDDF7",
+          "color": "#206694",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1340738865606168698",
+              "name": "Soldier",
+              "color": "#206694",
+              "position": 35
+            },
+            {
+              "id": "1340738778955776113",
+              "name": "Agent",
+              "color": "#0000FF",
+              "position": 33
+            },
+            {
+              "id": "1340714047368335481",
+              "name": "Citizen",
+              "color": "#00A3FF",
+              "position": 30
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1375946993700180153/3602de253e2a18b01858f04d611cb0f6.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1386452337555406958",
+        "channelId": "1340752678254411889",
+        "guildId": "1340710262168096809"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386772029470015508",
+      "type": "Default",
+      "timestamp": "2025-06-24T02:16:56.804+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/yfga",
+      "author": {
+        "id": "1375946993700180153",
+        "name": "robzinrs__",
+        "discriminator": "0000",
+        "nickname": "Emperor robzinrs \uD83C\uDDE7\uD83C\uDDF7",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375946993700180153/3602de253e2a18b01858f04d611cb0f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386799497245360230",
+      "type": "Default",
+      "timestamp": "2025-06-24T04:06:05.632+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/Se6WBeZN5Q",
+      "author": {
+        "id": "1064315905171013692",
+        "name": "alilililiii",
+        "discriminator": "0000",
+        "nickname": "\uD835\uDE68\uD835\uDE6D\uD835\uDE6B\uD835\uDE61\uD835\uDE6F.\uD835\uDE5C\uD835\uDE5C ✸",
+        "color": "#00A3FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1064315905171013692/8fed0df78b77b55b37a6800d452ed763.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1387053295175995593",
+      "type": "Default",
+      "timestamp": "2025-06-24T20:54:35.774+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.gg/jx73Tew4Mp",
+      "author": {
+        "id": "1375946993700180153",
+        "name": "robzinrs__",
+        "discriminator": "0000",
+        "nickname": "Emperor robzinrs \uD83C\uDDE7\uD83C\uDDF7",
+        "color": "#206694",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340738865606168698",
+            "name": "Soldier",
+            "color": "#206694",
+            "position": 35
+          },
+          {
+            "id": "1340738778955776113",
+            "name": "Agent",
+            "color": "#0000FF",
+            "position": 33
+          },
+          {
+            "id": "1340714047368335481",
+            "name": "Citizen",
+            "color": "#00A3FF",
+            "position": 30
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1375946993700180153/3602de253e2a18b01858f04d611cb0f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 62
+}

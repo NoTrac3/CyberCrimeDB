@@ -1,0 +1,81 @@
+{
+  "guild": {
+    "id": "1340710262168096809",
+    "name": "\uD835\uDDD7\uD835\uDDF2\uD835\uDDF4\uD835\uDDF2\uD835\uDDFB\uD835\uDDF2\uD835\uDDFF\uD835\uDDEE\uD835\uDDF0\uD835\uDE06 \uD835\uDDE3\uD835\uDDFC\uD835\uDDF9\uD835\uDDF6\uD835\uDDF0\uD835\uDDF2 \uD835\uDDE2\uD835\uDDE6",
+    "iconUrl": "https://cdn.discordapp.com/icons/1340710262168096809/a2db2dbec93453bccb1528e60db6178a.png?size=512"
+  },
+  "channel": {
+    "id": "1341528850169069608",
+    "type": "GuildTextChat",
+    "categoryId": "1342596759758569614",
+    "category": "Outside",
+    "name": "〚✅〛the-border",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-06-24T22:00:26.5339775+08:00",
+  "messages": [
+    {
+      "id": "1364902984903036928",
+      "type": "Default",
+      "timestamp": "2025-04-24T17:57:10.272+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1011135011413577768",
+        "name": "Verification",
+        "discriminator": "3684",
+        "nickname": "Verification",
+        "color": "#00FF00",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1340720335112241235",
+            "name": "Manager Bot",
+            "color": null,
+            "position": 52
+          },
+          {
+            "id": "1340741244346830900",
+            "name": "Bot",
+            "color": "#00FF00",
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1011135011413577768/cd904b12d64b781e1bb4279db0ec9492.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "**Verification Required**",
+          "url": null,
+          "timestamp": null,
+          "description": "To gain Order State citizenship we need to check if you're an alternate account so we can confirm it's really you and not an enemy or impersonator. You'll have to wait to be manually verified.",
+          "color": "#0000AA",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QLpA0xaASi8gRzG8To2Af9zCxkApAX_Rq8g2mfp-aEI/https/i.postimg.cc/2jbwnzDs/logo.png",
+            "width": 800,
+            "height": 800
+          },
+          "footer": {
+            "text": "Customization by: tomasthegreatest",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/lJQnoKhKpKmF_l-Sb_5p_58hKo-xYEz5bdYUN6DW3X4/%3Fsize%3D512/https/cdn.discordapp.com/avatars/1324158222424211486/e5f82d5c9d594dd29eba6941daf85a04.webp"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}
