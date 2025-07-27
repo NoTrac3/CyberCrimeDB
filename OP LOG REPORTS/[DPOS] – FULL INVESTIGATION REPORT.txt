@@ -58,11 +58,6 @@ V. EVIDENCE & ARTIFACTS
 --------------------------------------------------------------------------------
 • GitHub CyberCrimeDB path:
     /CCG – Selective Evidence/DPOS – EV/dpos-citadel-breach/
-      ­– accounts.txt (2 000+ fake accounts; emails, passwords, tokens)  
-      ­– Screenshot.png (leader’s “fixed Citadel” boast)  
-      ­– chat-logs.json (full Discord transcript)  
-      ­– api-recon.json (all 9 API tests & metadata)  
-      ­– recovery-log.txt (key status: revoked)
 
 • Memes & Psychological Ops:
     ­– Split‑panel “before/after” mocks  
