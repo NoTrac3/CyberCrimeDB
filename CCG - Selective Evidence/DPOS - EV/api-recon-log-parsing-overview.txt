@@ -24,7 +24,7 @@
 ──────────────────────────────────────────────────────────────
 
 🔐 API KEY TARGETED:
-  - Key: AIzaSyCdpQAdP5SUgogsAGl5DHEMxeBpQdYDKHY
+  - Key: AIzaSyCdpQAdPREDACTEDEMxeBpQdYDKHY
   - Project ID: 30316610488
   - Google Services Attempted: 9
   - Successful Requests: 0
