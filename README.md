@@ -4,7 +4,7 @@ FOR COMPLETE EVIDENCE REQUEST: Please reach us through https://wintergate.org/
 OR Join our Discord server:  ```######```
 
 # OPERATION COMPLETION LIST
-- OPERATION EXPOSURE: TARGET'{DPOS DEGENERACY POLICE ORDER STATE}' | DATE: Sat, Jul, 24, 2025 | NOTE: ``We didn’t hack you. We watched you hack yourselves.``
+- **OPERATION EXPOSURE**: TARGET'{DPOS DEGENERACY POLICE ORDER STATE}' | DATE: Sat, Jul, 24, 2025 | NOTE: ``We didn’t hack you. We watched you hack yourselves.``
 
   // Stolen from DPOS config files
 ```const firebaseConfig = {
