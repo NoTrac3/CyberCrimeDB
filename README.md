@@ -1,6 +1,6 @@
 This repository will be one of few receiving continued updates. 
 
-FOR COMPLETE EVIDENCE REQUEST: Please reach us through website or join our Discord server:  [```DISCORD COMMUNITY SERVER```](https://discord.gg/GEpEzNjAUh)
+FOR COMPLETE EVIDENCE REQUEST: Please reach us through our website or join our Discord server:  [```DISCORD COMMUNITY SERVER```](https://discord.gg/GEpEzNjAUh)
 
 # OPERATION EXPOSURE COMPLETION
 - **OPERATION EXPOSURE**: TARGET'{DPOS DEGENERACY POLICE ORDER STATE}' | DATE: Sat, Jul, 24, 2025 | NOTE: ``We didn’t hack you. We watched you hack yourselves.``
