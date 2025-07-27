@@ -57,7 +57,6 @@ GOOGLE API EXPLOITATION:
 COMMUNICATIONS INTERCEPT:
 • Discord Server Architecture:
   - Main Channel: discord.gg/[REDACTED] (terminated)
-  - Backup: discord.gg/dposfallback (active as of 2025-07-27)
 • Key Log Findings:
   » [2025-07-25] Tomas: "Dox NoTrac3 director m77u1n at all costs"
   » [2025-07-26] LilRage: "Shinjiru host has old CVE - DDoS them"
