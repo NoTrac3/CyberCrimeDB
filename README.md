@@ -16,6 +16,7 @@ FOR COMPLETE EVIDENCE REQUEST: Please reach us through our website or join our D
 };
 ```
 - Status: ⚰️ TERMINATED (NO RESURRECTION PROTOCOL)
+- AUTTP POSTED WARNING MOCKED: "Posted warning. Got tombstoned in 24h. FAFO speedrun record."
 ```
 | METRIC               | VALUE        | STATUS        |
 |----------------------|--------------|---------------|
