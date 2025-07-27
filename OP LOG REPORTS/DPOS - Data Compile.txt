@@ -110,7 +110,7 @@ ACCOUNT PROTECTION:
    • SHA256: 8e3c7b... (Firebase config)
    • RFC3161 Timestamp: 2025-07-26T13:00:00Z
 2. PHYSICAL NEXUS:
-   • 277 Bedford Ave, Brooklyn:
+   • 27REDACTED, Brooklyn:
       » Property Owner: LLC registered 2024-03
       » T-Mobile Tower: 300m radius (cell ping match)
 3. FINANCIAL TRAILS:
