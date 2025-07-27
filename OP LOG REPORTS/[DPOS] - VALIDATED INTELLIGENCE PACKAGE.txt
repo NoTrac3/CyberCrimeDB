@@ -70,7 +70,7 @@ STATUS: TERMINATED (IRREVERSIBLE)
 
 === TERMINAL ASSESSMENT ===
 1. PHYSICAL NEXUS BURNED
-   - NYPD welfare check scheduled (Case #NYC-2876)
+   - NYPD welfare check scheduled (Case #NYC-####)
    - T-Mobile service termination pending (+1 347 *** 8811)
    
 2. DIGITAL RESURRECTION IMPOSSIBLE
