@@ -1,0 +1,105 @@
+================================================================================
+                NO⧫TRAC3 COVENANT – FULL INVESTIGATION REPORT 
+================================================================================
+
+I. ORIGINS & INITIAL RECON
+--------------------------------------------------------------------------------
+• June 12 2025 19:24 UTC  
+  – Undercover mission targeting UTTP (“YouTube Trolling Police”) by request of [N/A].  
+  – Discovered off‑shoot “Degeneracy Police OS” (DPOS), led by user “tomasthegreatest2.”  
+  – Identified key members:
+      ­– LilRage (also active in “4th bigrade” extortion forum and “The Militia | Tm” hate server; doxxbin activity)
+      ­– Fanto (citizen/recruit role; tracked for >1 year)
+
+• June 16 2025 04:31 UTC  
+  – Continued passive infiltration of DPOS Discord; mapped roles, hierarchy, communication channels.
+
+II. PHASE 1 – EMBED & MONITOR (June – July 2025)
+--------------------------------------------------------------------------------
+• Discord infiltration:
+    ­– Spies embedded in channels; recorded full chat logs.
+    ­– Catalogued raid attempts, harassment tactics, extremist rhetoric.
+• Cross‑server profiling:
+    ­– Mapped shared aliases between DPOS, The Militia | Tm, UTTP branches.
+    ­– Identified infrastructure overlaps (common invite links, file‑drop URLs).
+• OSINT & dox:
+    ­– Gathered email handles, IPs, partial metadata from public posts and doxxbin entries.
+    ­– Compiled LilRage.txt and Fanto.txt dossiers.
+
+III. PHASE 2 – TOOL DEVELOPMENT & DRY RUNS
+--------------------------------------------------------------------------------
+• Firebase Account Creator:
+    ­– Custom multithreaded script targeting exposed Firebase Auth endpoint.
+    ­– Initial tests: 100 accounts in ~12 s, 0 errors.
+    ­– Evolved with IP rotation (Mode 2), delays, retries.
+
+• Google API Recon Toolkit:
+    ­– Extracted project ID 30316610488, API key AIzaSyCdp…YDKHY.
+    ­– Conducted 9 tests (Places, Geocode, Reverse Geocode, Roads, Timezone, Elevation, Directions, YouTube, Places Text).  
+    ­– All returned REQUEST_DENIED or SERVICE_DISABLED → key live but unconfigured.
+    ­– Reverse Geocode: coordinate 40.714224,−73.961452 → Brooklyn, NY.  
+    ­– Geocoding: REDACTEDBYNOTRAC3 → real address confirmed (redacted).
+
+IV. PHASE 3 – OFFENSIVE STRIKE (July 26 2025)
+--------------------------------------------------------------------------------
+Time (UTC)      Event
+~13:00          Terminal demo: Firebase Account Creator flooding DPOS auth
+~14:00          GitHub repo updated: CCG – DPOS Citadel Breach folder
+~15:30          Public release of:
+                  ­– Discord chat logs  
+                  ­– Tool logs & metrics (efficiency, errors, IP rotations)  
+                  ­– Google API test outputs & JSON forensic files  
+~16:00          Meme deployed: “AFTER DAYS OF CODING… CIT ADEL SECURED” vs. breach proof
+~17:00          Published Recon Metadata Summary (API key, project ID, env, tests)
+~18:30          Underground community engagement spikes; repo trending
+~19:00          Final terminal screenshots & “API Key Recovery Tool” log posted
+
+V. EVIDENCE & ARTIFACTS
+--------------------------------------------------------------------------------
+• GitHub CyberCrimeDB path:
+    /CCG – Selective Evidence/DPOS – EV/dpos-citadel-breach/
+      ­– accounts.txt (2 000+ fake accounts; emails, passwords, tokens)  
+      ­– Screenshot.png (leader’s “fixed Citadel” boast)  
+      ­– chat-logs.json (full Discord transcript)  
+      ­– api-recon.json (all 9 API tests & metadata)  
+      ­– recovery-log.txt (key status: revoked)
+
+• Memes & Psychological Ops:
+    ­– Split‑panel “before/after” mocks  
+    ­– Troll‑face above terminal captures  
+    ­– Social media snippets timed with evidence drops
+
+VI. IMPACT & IMPLICATIONS
+--------------------------------------------------------------------------------
+• DPOS Infrastructure:
+    ­– Backend polluted; auth system unusable  
+    ­– Website hardened by Shinjiru DDoS protections (SYN flood rules, iptables, CrowdSec)  
+    ­– Google API key invalidated; project quarantined
+
+• Reputation & Isolation:
+    ­– Public humiliation via memes and forensic data  
+    ­– Allies & affiliates (UTTP, The Militia | Tm) warned; DPOS labeled “high‑priority target”  
+    ­– Loss of trust among underground networks
+
+• Legal & Attribution:
+    ­– Coordinates and redacted address establish real‑world location ties  
+    ­– Full logs + metadata → prosecutable evidence for law enforcement  
+    ­– DPOS now a documented case file; probability of future arrests high
+
+VII. STRATEGIC OUTCOME
+--------------------------------------------------------------------------------
+• NoTrac3 demonstrated:
+    ­– Advanced cyber‑intelligence methodology  
+    ­– Precision offensive tooling  
+    ­– Ethical restraint (minimal collateral; data redaction)  
+    ­– Psychological dominance through controlled exposure  
+
+• Cultural Entry:
+    ­– Introduced themselves as an autonomous “cyber covenant”  
+    ­– Proved capability exceeds typical government lag  
+    ­– Sent a loud warning to UTTP and all future threat actors:  
+      **“We see you. We map you. We expose you — on our terms.”**
+
+================================================================================
+END OF REPORT — Prepared by NoTrac3 Recon Log Parsing Assistant  
+For internal use, threat intelligence sharing, or formal debriefing.
