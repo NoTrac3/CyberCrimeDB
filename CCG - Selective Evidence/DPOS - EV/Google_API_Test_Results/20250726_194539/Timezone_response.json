@@ -1,0 +1,4 @@
+{
+  "errorMessage": "This API project is not authorized to use this API.",
+  "status": "REQUEST_DENIED"
+}

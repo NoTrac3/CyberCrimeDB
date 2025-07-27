@@ -1,0 +1,35 @@
+{
+  "error": {
+    "code": 403,
+    "message": "Roads API has not been used in project 30316610488 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/roads.googleapis.com/overview?project=30316610488 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "roads.googleapis.com",
+          "serviceTitle": "Roads API",
+          "activationUrl": "https://console.developers.google.com/apis/api/roads.googleapis.com/overview?project=30316610488",
+          "consumer": "projects/30316610488",
+          "containerInfo": "30316610488"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Roads API has not been used in project 30316610488 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/roads.googleapis.com/overview?project=30316610488 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/roads.googleapis.com/overview?project=30316610488"
+          }
+        ]
+      }
+    ]
+  }
+}
