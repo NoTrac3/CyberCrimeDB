@@ -17,3 +17,11 @@ OR Join our Discord server:  [```DISCORD COMMUNITY SERVER```](https://discord.gg
 };
 ```
 - Status: ⚰️ TERMINATED (NO RESURRECTION PROTOCOL)
+```
+| METRIC               | VALUE        | STATUS        |
+|----------------------|--------------|---------------|
+| Technical Integrity  | 0%           | Dismantled    |
+| Reputational Capital | -∞           | Eternal meme  |
+| Leadership Cohesion  | Dissolved    | Radioactive   |
+| Covenant Attention   | 0 CPU cycles | Reallocated   |
+```
