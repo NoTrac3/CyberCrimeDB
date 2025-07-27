@@ -130,3 +130,55 @@ ACCOUNT PROTECTION:
    1. NYPD welfare check at 2**********e
    2. T-Mobile account termination (+1 347 *** 8811)
    3. Continuous darknet monitoring for "Project Phoenix"
+
+{
+  "metadata": {
+    "execution_time": "2025-07-28T14:22:18.543Z",
+    "case_id": "OP-EXPOSURE-2025"
+  },
+  "findings": {
+    "domain": {
+      "registrar": "NameCheap, Inc.",
+      "creation_date": "2024-03-15",
+      "name_servers": ["ns1.digitalocean.com", "ns2.digitalocean.com"],
+      "dns_records": {
+        "A": "104.18.25.147",
+        "MX": ["10 mx1.privateemail.com"]
+      }
+    },
+    "subdomains": [
+      "citadel.dpos-citadel.web.app",
+      "admin.dpos-citadel.web.app",
+      "api.dpos-citadel.web.app"
+    ],
+    "email": {
+      "verification": "valid",
+      "sources": [
+        {"domain": "protonmail.ch", "uri": "https://proton.me", "extracted_on": "2025-07-22"},
+        {"domain": "discord.com", "uri": "https://discord.com", "extracted_on": "2025-06-15"}
+      ],
+      "associated_emails": [
+        "tomas.thegreatest@gmail.com",
+        "dpos.commander@tutanota.com"
+      ]
+    },
+    "phone": {
+      "carrier": "T-Mobile USA",
+      "region": "New York City",
+      "valid": true,
+      "associated_accounts": [
+        {"platform": "PayPal", "username": "tomasNYC"},
+        {"platform": "CashApp", "handle": "$dposCommander"}
+      ]
+    },
+    "darkweb": {
+      "mentions": [
+        {
+          "source": "Dread Forum",
+          "context": "DPOS leadership discussion",
+          "url": "http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/p/DPOS_EXPOSED"
+        }
+      ]
+    }
+  }
+}
