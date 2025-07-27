@@ -1,3 +1,5 @@
+Example: Reverse geocoding requests to Brooklyn or Reno using specific lat/lng points = high-confidence linkage to user/device/IP activity.
+
 ============================================================
  GOOGLE API KEY RECOVERY TOOL + RECON METADATA SUMMARY
 ============================================================
