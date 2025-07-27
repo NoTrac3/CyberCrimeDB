@@ -22,8 +22,7 @@ II. PHASE 1 – EMBED & MONITOR (June – July 2025)
 • Cross‑server profiling:
     ­– Mapped shared aliases between DPOS, The Militia | Tm, UTTP branches.
     ­– Identified infrastructure overlaps (common invite links, file‑drop URLs).
-• OSINT & dox:
-    ­– Gathered email handles, IPs, partial metadata from public posts and doxxbin entries.
+• OSINT:
     ­– Compiled LilRage.txt and Fanto.txt dossiers.
 
 III. PHASE 2 – TOOL DEVELOPMENT & DRY RUNS
