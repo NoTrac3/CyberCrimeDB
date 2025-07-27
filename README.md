@@ -1,6 +1,6 @@
 This repository will be one of few receiving continued updates. 
 
-FOR COMPLETE EVIDENCE REQUEST: Please reach us through https://wintergate.org/ 
+FOR COMPLETE EVIDENCE REQUEST: Please reach us through website 
 OR Join our Discord server:  [```DISCORD COMMUNITY SERVER```](https://discord.gg/GEpEzNjAUh)
 
 # OPERATION EXPOSURE COMPLETION
