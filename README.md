@@ -40,4 +40,4 @@ OR Join our Discord server:  ```######```
 - DPOS They’ve been labeled as vulnerable, disorganized, and unable to secure their platform. The automated creation of over 2000 accounts demonstrates that DPOS's Firebase backend is fundamentally insecure. They’ve: Lost platform control, Lost narrative control, Lost operational security, Lost credibility, Lost the option to retreat with dignity. HTTP_400s — DPOS's server is actively rejecting, but accounts are still getting through. [OFFENSIVE WARNING COMPLETED] The 2000 generated accounts will not be shared and only the 200 provided will be publically available.
 
 **VIII-report**
-- DPOS “This vector is closed. We own the logs. You’re documented. We’re done here.” 
+- DPOS “This vector is closed. We own the logs. You’re documented. We’re done here. You’re still being watched” 
