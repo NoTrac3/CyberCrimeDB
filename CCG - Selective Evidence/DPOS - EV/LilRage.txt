@@ -26,3 +26,32 @@ Friends?
 Fear.io
 Server: https://discord.gg/ur4
 
+
+
+DARKNET EXPOSURE:
+• 4th Bigrade Forum Post:
+  » Title: "LilRage is NYPD CI #4477"
+  » "Proof": Forged Signal messages + Bitcoin transaction
+• Outcome: 
+  » LilRage banned from 3 darknet markets
+  » $2,800 in escrow frozen
+• Key Log Findings:
+  » [2025-07-25] Tomas: "Dox NoTrac3 director m77u1n at all costs"
+  » [2025-07-26] LilRage: "Shinjiru host has old CVE - DDoS them"
+
+→ FOUND:
+  gs://dpos-citadel.appspot.com/user_data/
+  ├── tomasthegreatest/backup_20250722.zip
+  ├── lilrage/doxbin_entries.7z
+  └── fanto/recruit_list.txt
+
+• LILRAGE (TACTICAL OPERATIONS) » LilRage → Darknet exile
+  - Discord ID: 294837294837298
+  - Darknet Handles: 
+     » 4thBigrade_Enforcer (Ransomware forum)
+     » TheMilitia_Tm_Recruiter
+  - Financial Trail:
+     » Bitcoin Wallet: bc1qkhz7v2nhe0gx0t3h5qjf7hggygvxd8jy9z2p3e
+     » Transactions: $18,450 received (2024-2025)
+     » Last Withdrawal: LocalBitcoins → Bank of America (acct **3471)
+
