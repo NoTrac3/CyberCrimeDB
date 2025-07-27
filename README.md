@@ -14,4 +14,6 @@ OR Join our Discord server:  [```DISCORD COMMUNITY SERVER```](https://discord.gg
   storageBucket: "dpos-citadel.appspot.com",
   messagingSenderId: "1088511781999",
   appId: "1:1088511781999:web:7c8e4c8f8b0d4e7f8e7c4d"
-};```
+};
+```
+- Status: ⚰️ TERMINATED (NO RESURRECTION PROTOCOL)
