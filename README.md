@@ -25,3 +25,5 @@ OR Join our Discord server:  [```DISCORD COMMUNITY SERVER```](https://discord.gg
 | Leadership Cohesion  | Dissolved    | Radioactive   |
 | Covenant Attention   | 0 CPU cycles | Reallocated   |
 ```
+
+**mv DPOS /CyberCrimeDB/Museum_of_Failure && free -h**
