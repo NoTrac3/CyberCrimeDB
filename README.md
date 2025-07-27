@@ -20,7 +20,7 @@ FOR COMPLETE EVIDENCE REQUEST: Please reach us through our website or join our D
 # DPOS's Legacy:  
 ```[YouTube Warning] → [GitHub Views] → [Eternal Meme]```
 
-     **⬑ humiliation loop ⬏ ** 
+                ⬑ humiliation loop ⬏ 
 __AUTTP Posted warning → Tombstoned in 24h__
 
 ```
