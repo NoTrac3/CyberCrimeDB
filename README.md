@@ -50,3 +50,5 @@ __AUTTP Posted warning → Tombstoned in 24h__
 - https://en.everybodywiki.com/UTTP
 > Hacking Discord. I found this bug a while ago . This bug… | by Ciph3r | Medium
 - https://ciph3r.medium.com/hacking-discord-to-get-code-execution-87b190398f29
+
+``We see you. We map you. We expose you.``
