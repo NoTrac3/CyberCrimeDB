@@ -33,3 +33,20 @@ __AUTTP Posted warning → Tombstoned in 24h__
 ```
 
 **mv DPOS /CyberCrimeDB/Museum_of_Failure && free -h**
+
+> Discord servers tagged with anti-degen | DISBOARD
+- https://disboard.org/servers/tag/anti-degen?fl=Unspecified&sort=member_count
+> ENF_22_CDO_1865
+- https://www.ssb.texas.gov/sites/default/files/2022-10/ENF_22_CDO_1865_0.pdf
+> Dispute Management Guidelines for Visa Merchants June 2024
+- https://usa.visa.com/dam/VCOM/global/support-legal/documents/merchants-dispute-management-guidelines.pdf
+> Cyber Research on the Malicious Use of Discord - CYFIRMA
+- https://www.cyfirma.com/research/cyber-research-on-the-malicious-use-of-discord/
+> what is UTTP? : r/youtube
+- https://www.reddit.com/r/youtube/comments/16p0z7v/what_is_uttp/
+> Link by UTTP bot, is my paranoia justifed* : r/cybersecurity_help
+- https://www.reddit.com/r/cybersecurity_help/comments/1lspbf5/link_by_uttp_bot_is_my_paranoia_justifed/
+> UTTP - EverybodyWiki Bios & Wiki
+- https://en.everybodywiki.com/UTTP
+> Hacking Discord. I found this bug a while ago . This bug… | by Ciph3r | Medium
+- https://ciph3r.medium.com/hacking-discord-to-get-code-execution-87b190398f29
