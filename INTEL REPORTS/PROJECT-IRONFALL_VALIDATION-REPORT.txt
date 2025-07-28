@@ -1,0 +1,14 @@
+
+PROJECT IRONFALL: TARGET GROUP VALIDATION REPORT
+============================================================
+DATE: 2025-07-28 | SOURCE: COVENANT INTEL DIVISION - PHASE 1 DEPLOYMENT
+
+[!] VALIDATION METHODOLOGY:
+- HUMINT cross-verification from DPOS defector channels
+- TM-linked server analysis (Discord & I2P infrastructure)
+- Chainalysis on darknet wallets
+- Historical UTTP propagation logs
+
+• GROUP DESIGNATION: TM (The Militia)
+  - TYPE: Ideologically-driven digital militia
+  - ROLE: Harbored ex-DPOS members following Project Phoenix termination
