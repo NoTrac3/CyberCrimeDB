@@ -1,0 +1,25 @@
+{
+  "project_id": "30316610488",
+  "collection_time": "2025-07-31T14:17:37.016120",
+  "system": {
+    "hostname": "parrot",
+    "os": "Linux-6.12.32-amd64-x86_64-with-glibc2.36",
+    "python_version": "3.11.2 (main, Apr 28 2025, 14:11:48) [GCC 12.2.0]",
+    "cpu_cores": 4,
+    "cpu_usage": 0.0,
+    "memory": "svmem(total=3526410240, available=1452171264, percent=58.8, used=1806655488, free=129675264, active=2226716672, inactive=804466688, buffers=53248, cached=1590026240, shared=31162368, slab=190373888)",
+    "disk": "sdiskusage(total=238637101056, used=23921881088, free=214178107392, percent=10.0)",
+    "network_ips": [
+      "127.0.1.1"
+    ],
+    "public_ip": "185.129.61.2"
+  },
+  "timestamp": "2025-07-31T14:17:38.767452",
+  "network": {
+    "public_ip": "185.129.61.2",
+    "dns_resolution": "142.251.36.46",
+    "domain_whois": "{\n  \"domain_name\": \"GOOGLE.COM\",\n  \"registrar\": \"MarkMonitor, Inc.\",\n  \"registrar_url\": \"http://www.markmonitor.com\",\n  \"reseller\": null,\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": [\n    \"2019-09-09 15:39:04\",\n    \"2024-08-02 02:17:33+00:00\"\n  ],\n  \"creation_date\": [\n    \"1997-09-15 04:00:00\",\n    \"1997-09-15 07:00:00+00:00\"\n  ],\n  \"expiration_date\": [\n    \"2028-09-14 04:00:00\",\n    \"2028-09-13 07:00:00+00:00\"\n  ],\n  \"name_servers\": [\n    \"NS1.GOOGLE.COM\",\n    \"NS2.GOOGLE.COM\",\n    \"NS3.GOOGLE.COM\",\n    \"NS4.GOOGLE.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\",\n    \"clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)\",\n    \"clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)\",\n    \"clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)\",\n    \"serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)\",\n    \"serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)\",\n    \"serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)\"\n  ],\n  \"emails\": [\n    \"abusecomplaints@markmonitor.com\",\n    \"whoisrequest@markmonitor.com\"\n  ],\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": \"Google LLC\",\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": \"US\"\n}",
+    "latency_to_google": 1.500874
+  },
+  "gcp_metadata": "Not available (not running on GCP)"
+}
