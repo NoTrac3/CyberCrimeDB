@@ -1,0 +1,340 @@
+{
+  "metadata": {
+    "api_key": "AIzaSyCdpQAdP5SUgogsAGl5DHEMxeBpQdYDKHY",
+    "test_timestamp": "20250726_194539",
+    "total_tests": 9,
+    "success_count": 0,
+    "failure_count": 9,
+    "environment": {
+      "python_version": "3.11.2 (main, Apr 28 2025, 14:11:48) [GCC 12.2.0]",
+      "system": "posix",
+      "platform": "linux"
+    }
+  },
+  "results": [
+    {
+      "test_name": "Places Text Search",
+      "api_url": "https://maps.googleapis.com/maps/api/place/textsearch/json",
+      "params": {
+        "query": "coffee shops New York",
+        "language": "en",
+        "key": "AIzaSyCdpQAdP5SUgogsAGl5DHEMxeBpQdYDKHY"
+      },
+      "status": "failed",
+      "response": {
+        "error_message": "You\u2019re calling a legacy API, which is not enabled for your project. To get newer features and more functionality, switch to the Places API (New) or Routes API. Learn more: https://developers.google.com/maps/legacy#LegacyApiNotActivatedMapError",
+        "html_attributions": [],
+        "results": [],
+        "status": "REQUEST_DENIED"
+      },
+      "errors": [
+        {
+          "type": "API Status",
+          "code": "REQUEST_DENIED",
+          "message": "You\u2019re calling a legacy API, which is not enabled for your project. To get newer features and more functionality, switch to the Places API (New) or Routes API. Learn more: https://developers.google.com/maps/legacy#LegacyApiNotActivatedMapError"
+        }
+      ],
+      "warnings": [],
+      "validation": {},
+      "response_time": "1.306s",
+      "timestamp": "2025-07-26T19:45:42.734869"
+    },
+    {
+      "test_name": "Place Details",
+      "api_url": "https://maps.googleapis.com/maps/api/place/details/json",
+      "params": {
+        "place_id": "ChIJN1t_tDeuEmsRUsoyG83frY4",
+        "fields": "name,rating,formatted_phone_number",
+        "key": "AIzaSyCdpQAdP5SUgogsAGl5DHEMxeBpQdYDKHY"
+      },
+      "status": "failed",
+      "response": {
+        "error_message": "You\u2019re calling a legacy API, which is not enabled for your project. To get newer features and more functionality, switch to the Places API (New) or Routes API. Learn more: https://developers.google.com/maps/legacy#LegacyApiNotActivatedMapError",
+        "html_attributions": [],
+        "status": "REQUEST_DENIED"
+      },
+      "errors": [
+        {
+          "type": "API Status",
+          "code": "REQUEST_DENIED",
+          "message": "You\u2019re calling a legacy API, which is not enabled for your project. To get newer features and more functionality, switch to the Places API (New) or Routes API. Learn more: https://developers.google.com/maps/legacy#LegacyApiNotActivatedMapError"
+        }
+      ],
+      "warnings": [],
+      "validation": {},
+      "response_time": "1.312s",
+      "timestamp": "2025-07-26T19:45:42.841253"
+    },
+    {
+      "test_name": "Geocoding",
+      "api_url": "https://maps.googleapis.com/maps/api/geocode/json",
+      "params": {
+        "address": "REDACTED, Mountain View, CA",
+        "key": "AIzaSyCdpQAdP5SUgogsAGl5DHEMxeBpQdYDKHY"
+      },
+      "status": "failed",
+      "response": {
+        "error_message": "This API project is not authorized to use this API.",
+        "results": [],
+        "status": "REQUEST_DENIED"
+      },
+      "errors": [
+        {
+          "type": "API Status",
+          "code": "REQUEST_DENIED",
+          "message": "This API project is not authorized to use this API."
+        }
+      ],
+      "warnings": [],
+      "validation": {},
+      "response_time": "1.211s",
+      "timestamp": "2025-07-26T19:45:42.948105"
+    },
+    {
+      "test_name": "Reverse Geocoding",
+      "api_url": "https://maps.googleapis.com/maps/api/geocode/json",
+      "params": {
+        "latlng": "40.714224,-73.961452",
+        "key": "AIzaSyCdpQAdP5SUgogsAGl5DHEMxeBpQdYDKHY"
+      },
+      "status": "failed",
+      "response": {
+        "error_message": "This API project is not authorized to use this API.",
+        "results": [],
+        "status": "REQUEST_DENIED"
+      },
+      "errors": [
+        {
+          "type": "API Status",
+          "code": "REQUEST_DENIED",
+          "message": "This API project is not authorized to use this API."
+        }
+      ],
+      "warnings": [],
+      "validation": {},
+      "response_time": "1.381s",
+      "timestamp": "2025-07-26T19:45:43.054921"
+    },
+    {
+      "test_name": "YouTube Search",
+      "api_url": "https://www.googleapis.com/youtube/v3/search",
+      "params": {
+        "part": "snippet",
+        "q": "google api tutorial",
+        "type": "video",
+        "maxResults": 5,
+        "key": "AIzaSyCdpQAdP5SUgogsAGl5DHEMxeBpQdYDKHY"
+      },
+      "status": "failed",
+      "response": {
+        "error": {
+          "code": 403,
+          "message": "YouTube Data API v3 has not been used in project 30316610488 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=30316610488 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+          "errors": [
+            {
+              "message": "YouTube Data API v3 has not been used in project 30316610488 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=30316610488 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+              "domain": "usageLimits",
+              "reason": "accessNotConfigured",
+              "extendedHelp": "https://console.developers.google.com"
+            }
+          ],
+          "status": "PERMISSION_DENIED",
+          "details": [
+            {
+              "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+              "reason": "SERVICE_DISABLED",
+              "domain": "googleapis.com",
+              "metadata": {
+                "serviceTitle": "YouTube Data API v3",
+                "activationUrl": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=30316610488",
+                "consumer": "projects/30316610488",
+                "service": "youtube.googleapis.com",
+                "containerInfo": "30316610488"
+              }
+            },
+            {
+              "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+              "locale": "en-US",
+              "message": "YouTube Data API v3 has not been used in project 30316610488 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=30316610488 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+            },
+            {
+              "@type": "type.googleapis.com/google.rpc.Help",
+              "links": [
+                {
+                  "description": "Google developers console API activation",
+                  "url": "https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=30316610488"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "errors": [
+        {
+          "type": "API Error",
+          "code": 403,
+          "message": "YouTube Data API v3 has not been used in project 30316610488 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=30316610488 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+          "details": [
+            {
+              "message": "YouTube Data API v3 has not been used in project 30316610488 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtube.googleapis.com/overview?project=30316610488 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+              "domain": "usageLimits",
+              "reason": "accessNotConfigured",
+              "extendedHelp": "https://console.developers.google.com"
+            }
+          ]
+        }
+      ],
+      "warnings": [],
+      "validation": {},
+      "response_time": "1.299s",
+      "timestamp": "2025-07-26T19:45:43.156752"
+    },
+    {
+      "test_name": "Directions",
+      "api_url": "https://maps.googleapis.com/maps/api/directions/json",
+      "params": {
+        "origin": "New York",
+        "destination": "Washington DC",
+        "mode": "driving",
+        "key": "AIzaSyCdpQAdP5SUgogsAGl5DHEMxeBpQdYDKHY"
+      },
+      "status": "failed",
+      "response": {
+        "error_message": "You\u2019re calling a legacy API, which is not enabled for your project. To get newer features and more functionality, switch to the Places API (New) or Routes API. Learn more: https://developers.google.com/maps/legacy#LegacyApiNotActivatedMapError",
+        "routes": [],
+        "status": "REQUEST_DENIED"
+      },
+      "errors": [
+        {
+          "type": "API Status",
+          "code": "REQUEST_DENIED",
+          "message": "You\u2019re calling a legacy API, which is not enabled for your project. To get newer features and more functionality, switch to the Places API (New) or Routes API. Learn more: https://developers.google.com/maps/legacy#LegacyApiNotActivatedMapError"
+        }
+      ],
+      "warnings": [],
+      "validation": {},
+      "response_time": "1.382s",
+      "timestamp": "2025-07-26T19:45:43.257833"
+    },
+    {
+      "test_name": "Elevation",
+      "api_url": "https://maps.googleapis.com/maps/api/elevation/json",
+      "params": {
+        "locations": "39.7391536,-104.9847034",
+        "key": "AIzaSyCdpQAdP5SUgogsAGl5DHEMxeBpQdYDKHY"
+      },
+      "status": "failed",
+      "response": {
+        "error_message": "This API project is not authorized to use this API.",
+        "results": [],
+        "status": "REQUEST_DENIED"
+      },
+      "errors": [
+        {
+          "type": "API Status",
+          "code": "REQUEST_DENIED",
+          "message": "This API project is not authorized to use this API."
+        }
+      ],
+      "warnings": [],
+      "validation": {},
+      "response_time": "1.301s",
+      "timestamp": "2025-07-26T19:45:43.363713"
+    },
+    {
+      "test_name": "Timezone",
+      "api_url": "https://maps.googleapis.com/maps/api/timezone/json",
+      "params": {
+        "location": "39.6034810,-119.6822510",
+        "timestamp": "1753573539",
+        "key": "AIzaSyCdpQAdP5SUgogsAGl5DHEMxeBpQdYDKHY"
+      },
+      "status": "failed",
+      "response": {
+        "errorMessage": "This API project is not authorized to use this API.",
+        "status": "REQUEST_DENIED"
+      },
+      "errors": [
+        {
+          "type": "API Status",
+          "code": "REQUEST_DENIED",
+          "message": "API returned non-OK status"
+        }
+      ],
+      "warnings": [],
+      "validation": {},
+      "response_time": "1.428s",
+      "timestamp": "2025-07-26T19:45:43.465579"
+    },
+    {
+      "test_name": "Roads API",
+      "api_url": "https://roads.googleapis.com/v1/snapToRoads",
+      "params": {
+        "path": "60.170880,24.942795|60.170879,24.942796",
+        "interpolate": "true",
+        "key": "AIzaSyCdpQAdP5SUgogsAGl5DHEMxeBpQdYDKHY"
+      },
+      "status": "failed",
+      "response": {
+        "error": {
+          "code": 403,
+          "message": "Roads API has not been used in project 30316610488 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/roads.googleapis.com/overview?project=30316610488 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+          "status": "PERMISSION_DENIED",
+          "details": [
+            {
+              "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+              "reason": "SERVICE_DISABLED",
+              "domain": "googleapis.com",
+              "metadata": {
+                "service": "roads.googleapis.com",
+                "serviceTitle": "Roads API",
+                "activationUrl": "https://console.developers.google.com/apis/api/roads.googleapis.com/overview?project=30316610488",
+                "consumer": "projects/30316610488",
+                "containerInfo": "30316610488"
+              }
+            },
+            {
+              "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+              "locale": "en-US",
+              "message": "Roads API has not been used in project 30316610488 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/roads.googleapis.com/overview?project=30316610488 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+            },
+            {
+              "@type": "type.googleapis.com/google.rpc.Help",
+              "links": [
+                {
+                  "description": "Google developers console API activation",
+                  "url": "https://console.developers.google.com/apis/api/roads.googleapis.com/overview?project=30316610488"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "errors": [
+        {
+          "type": "API Error",
+          "code": 403,
+          "message": "Roads API has not been used in project 30316610488 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/roads.googleapis.com/overview?project=30316610488 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+          "details": []
+        }
+      ],
+      "warnings": [],
+      "validation": {},
+      "response_time": "1.350s",
+      "timestamp": "2025-07-26T19:45:43.571794"
+    }
+  ],
+  "summary": {
+    "\u274c FAILED": [
+      "Places Text Search",
+      "Place Details",
+      "Geocoding",
+      "Reverse Geocoding",
+      "YouTube Search",
+      "Directions",
+      "Elevation",
+      "Timezone",
+      "Roads API"
+    ]
+  }
+}
