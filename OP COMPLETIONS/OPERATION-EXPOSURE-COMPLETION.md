@@ -3,13 +3,16 @@
 
   // Stolen from DPOS config files
 ```const firebaseConfig = {
-  apiKey: "AIzaSyCdp...YDKHY", // Now in CyberCrimeDB
-  authDomain: "dpos-citadel.web.app",
-  projectId: "dpos-citadel-30316610488",
-  storageBucket: "dpos-citadel.appspot.com",
-  messagingSenderId: "1088511781999",
-  appId: "1:1088511781999:web:7c8e4c8f8b0d4e7f8e7c4d"
-};
+    "firebase_config": {
+      "apiKey": "AIzaSyCdpQAd-----------EMxeBpQdYDKHY",
+      "authDomain": "dpos-citadel.firebaseapp.com",
+      "databaseURL": "https://dpos-citadel-default-rtdb.firebaseio.com",
+      "projectId": "dpos-citadel",
+      "storageBucket": "dpos-citadel.appspot.com",
+      "messagingSenderId": "30316610488",
+      "appId": "1:30316610488:web:fe7dc49b83411738bb054d",
+      "measurementId": "G-QMTXYZK6VZ"
+    }
 ```
 - Status: ⚰️ TERMINATED (NO RESURRECTION PROTOCOL)
 
