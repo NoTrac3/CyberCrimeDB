@@ -26,7 +26,6 @@ counter-intelligence operation resulting in complete organizational compromise.
    ├─ Google API key exposed
    ├─ Physical location triangulated (Brooklyn, NY)
 
-
 █ III. LEGAL RECOMMENDATIONS
 1. Minor welfare checks (NY jurisdiction)
 2. RICO investigation for organized cybercrime
