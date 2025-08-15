@@ -1,0 +1,92 @@
+﻿Spawnism’s Downfall
+Origins of SCS
+Spawnism Countermeasure Security (SCS) began as a small Discord server led by a user named Contro. One of the most active moderators, Yesoma, started a campaign focused on swiftly removing servers related to the Spawnism cult. When Spawnist servers openly showed self-harm content, users could easily report and leave. But when this content was hidden, SCS members made alternate accounts to break Discord’s terms of service inside those servers, causing bans.
+Leadership Change and Early Actions
+After some time, Contro stepped down from leadership. Yesoma was elected leader due to his dedication and successful operations. Shortly after taking charge, Yesoma issued a warning to the Spawnism community, urging members to leave or face consequences. At first, Spawnists ignored the warning. Later, at 6 PM, after the announcement was deleted due to false reports labeling it a raid, mass reports targeted over 100 Spawnism servers. At least 61 servers were confirmed banned.
+The Rise of Fear and Rival Groups
+The bans caused fear among Spawnists. Rival criminal groups such as UTTP took advantage of the confusion by attempting to hijack parts of the Spawnism network. This interference slowed SCS’s operations and progress.
+Key Intelligence and Police Involvement
+A significant event occurred when an SCS member leaked complete information about Chezbles, a major figure in the Spawnism community. SCS reported this to police, leading to multiple raids on Chezbles’ residence. Despite repeated attempts, authorities failed to find solid evidence against Chezbles.
+Expanded Campaign Against Criminal Networks
+Following these events, SCS broadened its focus to dismantling not only Spawnism but also allied criminal groups such as UTTP and 764. The group employed honeypots and remote access trojans to disrupt these networks. Yesoma stated, “If we hold on to Chezble’s computer and important data, we have won against a huge branch and Spawnism will lose half of its power.”
+ASU Rivalry and Collapse
+ASU started as an anti-Spawnism server and an ally but opposed SCS policies and became an enemy. In just seven minutes, ASU lost a large number of members, and within a week, the group collapsed entirely.
+
+
+
+
+
+
+
+
+
+
+
+
+Participants
+Allies
+* S.C.S. (Spawnism Countermeasure Security)
+
+* Independent digital operatives and aligned volunteers
+
+Axis
+   * Spawnism cult
+
+   * UTTP
+
+   * 764
+
+   * A.S.U. (initially an ally, later turned hostile)
+
+________________
+
+
+Commanders and Leaders
+Main Allied Leaders:
+      * Yesoma – Current leader of S.C.S.
+
+      * Contro – Former founder of S.C.S., now in advisory role
+
+      * Pumzi - Documentarian
+
+      * Icee – Lead on documentation and moderation
+
+Main Axis Leaders:
+         * Chezble – Central figure in Spawnism operations
+
+         * General KLAASK – Current head of group 764
+
+         * Various UTTP handlers and unknown cult organizers
+
+         * ASU leadership – Internal collapse, leaders disbanded or silent
+
+________________
+
+
+Casualties and Losses
+Allied Losses:
+            * None confirmed.
+
+S.C.S. maintained operational integrity throughout, with no major account loss, server bans, or compromises.
+
+Axis Losses:
+               * 61+ confirmed Spawnism-related Discord servers banned within 10 hours
+
+               * Additional bans over the following days, possibly exceeding 100
+
+               * Major accounts deactivated, permanently banned, or abandoned
+
+               * A.S.U. suffered full collapse within one week after turning hostile
+
+               * Chezble’s personal data leaked and reported to authorities
+
+               * Several recruitment, manipulation, and propaganda networks shut down
+
+Total Impact on Axis:
+                  * Dozens of major accounts lost
+
+                  * Over 100 servers permanently removed
+
+                  * Infrastructure across multiple platforms critically weakened
+
+                  * Influence operations significantly reduced
