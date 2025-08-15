@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "1340710262168096809",
+    "name": "\uD835\uDDD7\uD835\uDDF2\uD835\uDDF4\uD835\uDDF2\uD835\uDDFB\uD835\uDDF2\uD835\uDDFF\uD835\uDDEE\uD835\uDDF0\uD835\uDE06 \uD835\uDDE3\uD835\uDDFC\uD835\uDDF9\uD835\uDDF6\uD835\uDDF0\uD835\uDDF2 \uD835\uDDE2\uD835\uDDE6",
+    "iconUrl": "https://cdn.discordapp.com/icons/1340710262168096809/a2db2dbec93453bccb1528e60db6178a.png?size=512"
+  },
+  "channel": {
+    "id": "1364230307590443181",
+    "type": "GuildTextChat",
+    "categoryId": "1340747097321902151",
+    "category": "Test Zone",
+    "name": "〚\uD83D\uDC65〛alt-stash",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-06-24T22:07:39.5560948+08:00",
+  "messages": [],
+  "messageCount": 0
+}

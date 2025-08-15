@@ -1,0 +1,1265 @@
+{
+  "guild": {
+    "id": "1340710262168096809",
+    "name": "\uD835\uDDD7\uD835\uDDF2\uD835\uDDF4\uD835\uDDF2\uD835\uDDFB\uD835\uDDF2\uD835\uDDFF\uD835\uDDEE\uD835\uDDF0\uD835\uDE06 \uD835\uDDE3\uD835\uDDFC\uD835\uDDF9\uD835\uDDF6\uD835\uDDF0\uD835\uDDF2 \uD835\uDDE2\uD835\uDDE6",
+    "iconUrl": "https://cdn.discordapp.com/icons/1340710262168096809/a2db2dbec93453bccb1528e60db6178a.png?size=512"
+  },
+  "channel": {
+    "id": "1343295222691659899",
+    "type": "GuildTextChat",
+    "categoryId": "1340712339288363100",
+    "category": "Empire",
+    "name": "〚\uD83E\uDD22〛hall-of-shame",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-06-24T22:06:18.7118059+08:00",
+  "messages": [
+    {
+      "id": "1343295253272334348",
+      "type": "Default",
+      "timestamp": "2025-02-24T02:55:45.599+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1343295253171535963",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1343295253171535963/image.png?ex=685b9d71&is=685a4bf1&hm=bd66a335e9815b72da507307bc250d77c5a84d129c06eeda854c8555244188e4&",
+          "fileName": "image.png",
+          "fileSizeBytes": 124068
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDDFF",
+            "code": "moyai",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f5ff.svg"
+          },
+          "count": 4,
+          "users": [
+            {
+              "id": "1155153092095004732",
+              "name": "manns1444",
+              "discriminator": "0000",
+              "nickname": "Manns",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1155153092095004732/e473ef5b22a42b9d61174b8111c3922d.png?size=512"
+            },
+            {
+              "id": "1254383749681119233",
+              "name": "officersmni",
+              "discriminator": "0000",
+              "nickname": "UTTP/DPOS OFFICER SMNI",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+            },
+            {
+              "id": "1294706310474109010",
+              "name": "robzinrs",
+              "discriminator": "0000",
+              "nickname": "Robzinrs",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1294706310474109010/15cde837f2241bd78017de6446d1173b.png?size=512"
+            },
+            {
+              "id": "1324158222424211486",
+              "name": "tomasthegreatest",
+              "discriminator": "0000",
+              "nickname": "Emperor T",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF77",
+            "code": "wine_glass",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f377.svg"
+          },
+          "count": 4,
+          "users": [
+            {
+              "id": "1155153092095004732",
+              "name": "manns1444",
+              "discriminator": "0000",
+              "nickname": "Manns",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1155153092095004732/e473ef5b22a42b9d61174b8111c3922d.png?size=512"
+            },
+            {
+              "id": "1254383749681119233",
+              "name": "officersmni",
+              "discriminator": "0000",
+              "nickname": "UTTP/DPOS OFFICER SMNI",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+            },
+            {
+              "id": "1294706310474109010",
+              "name": "robzinrs",
+              "discriminator": "0000",
+              "nickname": "Robzinrs",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1294706310474109010/15cde837f2241bd78017de6446d1173b.png?size=512"
+            },
+            {
+              "id": "1324158222424211486",
+              "name": "tomasthegreatest",
+              "discriminator": "0000",
+              "nickname": "Emperor T",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1119715953039655022",
+              "name": "goldenfreds2002",
+              "discriminator": "0000",
+              "nickname": "007n7",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1119715953039655022/439dea75a4b7c681b797c95a611a880d.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1346936316570501220",
+      "type": "Default",
+      "timestamp": "2025-03-06T04:04:02.737+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Rainimator exposed",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1346936315341443104",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1346936315341443104/image.png?ex=685bad72&is=685a5bf2&hm=c9a2dbbbd40caac3e0d65b39b89f64a2da404523af15d4b87f85682f3f3516ce&",
+          "fileName": "image.png",
+          "fileSizeBytes": 95680
+        },
+        {
+          "id": "1346936315630846002",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1346936315630846002/image.png?ex=685bad72&is=685a5bf2&hm=36be9a379bdbae6cf60550057f4402eff17b60c0cd42e036836781cdb4761989&",
+          "fileName": "image.png",
+          "fileSizeBytes": 92257
+        },
+        {
+          "id": "1346936315874382006",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1346936315874382006/Screenshot_20241125-0743442.png?ex=685bad72&is=685a5bf2&hm=2f5eb54721a22e3e80a868dfd26fc48a091450d371d465fa6e94ddd1a5b83add&",
+          "fileName": "Screenshot_20241125-0743442.png",
+          "fileSizeBytes": 90788
+        },
+        {
+          "id": "1346936316113195018",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1346936316113195018/Screenshot_20241125-0744122.png?ex=685bad72&is=685a5bf2&hm=ea65793e94a8eb282e98410cf31408d3d7f6c461ba273ef6c05020aa1a1f0c92&",
+          "fileName": "Screenshot_20241125-0744122.png",
+          "fileSizeBytes": 89588
+        },
+        {
+          "id": "1346936316385820672",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1346936316385820672/Screenshot_20241125-0744122.png?ex=685bad72&is=685a5bf2&hm=22ec2e72ef3bccf62a9273383e217bfe91d7c32b6d7d4154b2e35a24494d3f24&",
+          "fileName": "Screenshot_20241125-0744122.png",
+          "fileSizeBytes": 89588
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1347698496727289876",
+      "type": "Default",
+      "timestamp": "2025-03-08T06:32:40.647+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1347698496517570580",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1347698496517570580/image.png?ex=685bd048&is=685a7ec8&hm=97a1f6248e8ee524860f3a2386da84f32759a741573c9cf688c2f9f5eabfdb2d&",
+          "fileName": "image.png",
+          "fileSizeBytes": 48505
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1348343617516736573",
+      "type": "Default",
+      "timestamp": "2025-03-10T01:16:09.429+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1348343617269268530",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1348343617269268530/image.png?ex=685b8619&is=685a3499&hm=68e7bbc03b469c6cf090e7a3f51b9405a8b5a465184c57a27a197336b91a0e4c&",
+          "fileName": "image.png",
+          "fileSizeBytes": 392778
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC80",
+            "code": "skull",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f480.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1267778608022421585",
+              "name": "uetr.toast",
+              "discriminator": "0000",
+              "nickname": "{ 悔 }「UETR」ᴛᴏᴀꜱᴛ \uD83C\uDDEB\uD83C\uDDEE \uD81A\uDD8F",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1267778608022421585/31e8603fb5b768be53147aecf237146e.png?size=512"
+            },
+            {
+              "id": "1275264076456656909",
+              "name": "falsentrat",
+              "discriminator": "0000",
+              "nickname": "Mbretitkaiser Falsentrat",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1275264076456656909/3c88fb35dceb0ab307bbe8ed0a90400b.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1351657376180342835",
+      "type": "Default",
+      "timestamp": "2025-03-19T04:43:51.061+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "me omw to post my 1285590536980th necrophilia meme \uD83E\uDD40\uD83E\uDEAB",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83E\uDD40",
+          "code": "wilted_rose",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f940.svg"
+        },
+        {
+          "id": "",
+          "name": "\uD83E\uDEAB",
+          "code": "\uD83E\uDEAB",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1faab.svg"
+        }
+      ]
+    },
+    {
+      "id": "1351657479225868289",
+      "type": "Default",
+      "timestamp": "2025-03-19T04:44:15.629+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes I put myself in #〚\uD83E\uDD22〛hall-of-shame because it's straight up nasty",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1361029161858371745",
+      "type": "Default",
+      "timestamp": "2025-04-14T01:23:58.886+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the ceris incident",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1361029161363177742",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1361029161363177742/image.webp?ex=685b87ee&is=685a366e&hm=d624d96726dddb18e03a4166ab3e8f01bebbbbda91373555e81de3b0f0a15668&",
+          "fileName": "image.webp",
+          "fileSizeBytes": 22302
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1370161919457099828",
+      "type": "Default",
+      "timestamp": "2025-05-09T06:14:17.976+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1370161919205310535",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1370161919205310535/image.png?ex=685bcbf9&is=685a7a79&hm=a7b360da15acf53281572d5846f54e68f4fb4af2cf21745c394bf41978be9af3&",
+          "fileName": "image.png",
+          "fileSizeBytes": 181710
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE2D",
+            "code": "sob",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f62d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1322215300787339336",
+              "name": "l1lr4g3",
+              "discriminator": "0000",
+              "nickname": "ཌᖇᗩǤᗴད L1LR4G3「E悔」",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1322215300787339336/150027ab97cdd495fb6b83df6858db33.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDEF5",
+            "code": "\uD83E\uDEF5",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1faf5.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1322215300787339336",
+              "name": "l1lr4g3",
+              "discriminator": "0000",
+              "nickname": "ཌᖇᗩǤᗴད L1LR4G3「E悔」",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1322215300787339336/150027ab97cdd495fb6b83df6858db33.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "1344442007204134922",
+            "name": "trollface",
+            "code": "trollface",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1344442007204134922.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1345311655478951997",
+              "name": "sanguinius_of_baal",
+              "discriminator": "0000",
+              "nickname": "Sanguinius",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1345311655478951997/128c68c0f7a6eb7505bd8bce2fccbfc4.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC8E",
+            "code": "gem",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f48e.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1384384249565810749",
+              "name": "smnigranreturn",
+              "discriminator": "0000",
+              "nickname": "UTTP MAJOR SMNI GRAND RETURN",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1384384249565810749/603d3050eb6fdb6fa804f54aa5074cb5.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1370579504531243089",
+      "type": "Default",
+      "timestamp": "2025-05-10T09:53:38.016+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "least obvious spy",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1370579504228995142",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1370579504228995142/image.png?ex=685bff61&is=685aade1&hm=5172fdb3388a5739e995da4c2cf5e362defa8ac337fef3c6950dd476f06c09e6&",
+          "fileName": "image.png",
+          "fileSizeBytes": 22929
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC80",
+            "code": "skull",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f480.svg"
+          },
+          "count": 5,
+          "users": [
+            {
+              "id": "1105941015644340274",
+              "name": "sensior",
+              "discriminator": "0000",
+              "nickname": "Dave",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1105941015644340274/f3fb652f7ddd50db93ca5586d5a73aa3.png?size=512"
+            },
+            {
+              "id": "1254383749681119233",
+              "name": "officersmni",
+              "discriminator": "0000",
+              "nickname": "UTTP/DPOS OFFICER SMNI",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+            },
+            {
+              "id": "1267822658003795991",
+              "name": "3wte",
+              "discriminator": "0000",
+              "nickname": "tendokiddo",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1267822658003795991/079fbf5a464feef7e19231d9fcc4dcbc.png?size=512"
+            },
+            {
+              "id": "1345311655478951997",
+              "name": "sanguinius_of_baal",
+              "discriminator": "0000",
+              "nickname": "Sanguinius",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1345311655478951997/128c68c0f7a6eb7505bd8bce2fccbfc4.png?size=512"
+            },
+            {
+              "id": "1384384249565810749",
+              "name": "smnigranreturn",
+              "discriminator": "0000",
+              "nickname": "UTTP MAJOR SMNI GRAND RETURN",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1384384249565810749/603d3050eb6fdb6fa804f54aa5074cb5.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1371224226773733577",
+      "type": "Default",
+      "timestamp": "2025-05-12T04:35:31.777+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1371224226320879657",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1371224226320879657/Screenshot_20250511_132659.webp?ex=685bb4d3&is=685a6353&hm=525ef8a5243c544da713195aeaeea6c3a7e07409cfa310004130493a77177163&",
+          "fileName": "Screenshot_20250511_132659.webp",
+          "fileSizeBytes": 27134
+        },
+        {
+          "id": "1371224226547236934",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1371224226547236934/image.png?ex=685bb4d3&is=685a6353&hm=cfac17700c6473598ec4423558b4d40ed54d5e8b6c2b1eb2f4353dd103c4ffb9&",
+          "fileName": "image.png",
+          "fileSizeBytes": 94874
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC8E",
+            "code": "gem",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f48e.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1384384249565810749",
+              "name": "smnigranreturn",
+              "discriminator": "0000",
+              "nickname": "UTTP MAJOR SMNI GRAND RETURN",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1384384249565810749/603d3050eb6fdb6fa804f54aa5074cb5.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1372271740469907466",
+      "type": "Default",
+      "timestamp": "2025-05-15T01:57:58.504+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "POV:\nyou're a **MAN**:",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1372271739823849523",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1372271739823849523/image.png?ex=685b8fe6&is=685a3e66&hm=99008b4244724791e355dfa52c21d45be9a155fe797c0c34daddf917e357cfde&",
+          "fileName": "image.png",
+          "fileSizeBytes": 599167
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "1385704784530636840",
+            "name": "coal",
+            "code": "coal",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1385704784530636840.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1384384249565810749",
+              "name": "smnigranreturn",
+              "discriminator": "0000",
+              "nickname": "UTTP MAJOR SMNI GRAND RETURN",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1384384249565810749/603d3050eb6fdb6fa804f54aa5074cb5.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1372272144515465346",
+      "type": "Default",
+      "timestamp": "2025-05-15T01:59:34.836+08:00",
+      "timestampEdited": "2025-05-15T01:59:41.607+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# sillypau try not to use a voice changer challenge\nhttps://www.youtube.com/watch?v=uA_rgG9aUV8",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "I rigged my game show against her. She WON.",
+          "url": "https://www.youtube.com/watch?v=uA_rgG9aUV8",
+          "timestamp": null,
+          "description": "She has no idea, but the game show I invited her to has impossible questions and opponents reading from scripts. Thank you @silly_pau and @mcmooshroo2974 for helping me Truman Show @arrareai :)\n\nMusic used throughout the video from the Ghost Trick: Phantom Detective soundtrack (copyright Capcom)\n\nJoin my channel to support me and get access to p...",
+          "color": "#FF0000",
+          "author": {
+            "name": "HEYimHeroic",
+            "url": "https://www.youtube.com/channel/UC7QV65Zi3p4OjdVgtBTXWnA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/D22nhHqu1NgJ8Iv24fK7qQ5TXMioz7lnZyzV2jg_Kl0/https/i.ytimg.com/vi/uA_rgG9aUV8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/uA_rgG9aUV8",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "1385704784530636840",
+            "name": "coal",
+            "code": "coal",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1385704784530636840.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1384384249565810749",
+              "name": "smnigranreturn",
+              "discriminator": "0000",
+              "nickname": "UTTP MAJOR SMNI GRAND RETURN",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1384384249565810749/603d3050eb6fdb6fa804f54aa5074cb5.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1377021602209988661",
+      "type": "Default",
+      "timestamp": "2025-05-28T04:32:13.791+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "SILLYPAU IS LITERALLY SCARED OF SHOWERS \nhttps://youtube.com/watch?v=LwQk3ML0WcA",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Irrational Fears of an Autistic Girl",
+          "url": "https://www.youtube.com/watch?v=LwQk3ML0WcA",
+          "timestamp": null,
+          "description": "✎    “the most autistic video ever made”  (apparently)\nIn this bedtime story, Pau looks back at her most irrational fears... including: pool lamps... spoon bags... and showers?!\n\n♡tumblr - https://sillypau.tumblr.com ☀\n♡bluesky - https://bsky.app/profile/sillypau.bsky.social\n♡twitter - https://twitter.com/silly_pau \n♡instagram - ...",
+          "color": "#FF0000",
+          "author": {
+            "name": "SillyPau",
+            "url": "https://www.youtube.com/channel/UCcY_-mkCVSd8LwkOFN-GkPQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/F6N1Et7KnocraNtGUDVC_lwdioKv6JabmB7tA2WYjVM/https/i.ytimg.com/vi/LwQk3ML0WcA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/LwQk3ML0WcA",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "☀",
+              "code": "☀",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2600.svg"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE2D",
+            "code": "sob",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f62d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1214651561356296302",
+              "name": "friedpipis",
+              "discriminator": "0000",
+              "nickname": "Jinty",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1214651561356296302/51eb4549b9a8c57fe11ef1598126defc.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "1385704784530636840",
+            "name": "coal",
+            "code": "coal",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1385704784530636840.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1384384249565810749",
+              "name": "smnigranreturn",
+              "discriminator": "0000",
+              "nickname": "UTTP MAJOR SMNI GRAND RETURN",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1384384249565810749/603d3050eb6fdb6fa804f54aa5074cb5.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1377021618110468106",
+      "type": "Default",
+      "timestamp": "2025-05-28T04:32:17.582+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AINT NO WAY",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378911673665982506",
+      "type": "Default",
+      "timestamp": "2025-06-02T09:42:41.942+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1378911672256696402",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1378911672256696402/Screenshot_20250601-2237352.png?ex=685bfcd1&is=685aab51&hm=06c9e1b67f034317072a6c36363ed19d8483ecaaa21e4b4dc5a83fbc84d5d114&",
+          "fileName": "Screenshot_20250601-2237352.png",
+          "fileSizeBytes": 188599
+        },
+        {
+          "id": "1378911672525394030",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1378911672525394030/Screenshot_20250601-2238352.png?ex=685bfcd1&is=685aab51&hm=aa6dbae6c8b3edf15144c8abfa1dc9ccfa183a88e6833f056a2f9edec1d57c53&",
+          "fileName": "Screenshot_20250601-2238352.png",
+          "fileSizeBytes": 177531
+        },
+        {
+          "id": "1378911672890032139",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1378911672890032139/Screenshot_20250601-2239572.png?ex=685bfcd1&is=685aab51&hm=7ce8855622ae7bfde83472df53edd54c173a3bbabba16032a9cdafc7aeb1ec45&",
+          "fileName": "Screenshot_20250601-2239572.png",
+          "fileSizeBytes": 208693
+        },
+        {
+          "id": "1378911673154539651",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1378911673154539651/Screenshot_20250601-2240182.png?ex=685bfcd1&is=685aab51&hm=956e0f589a65b2498f0ac7503d7f3f43f9ce853b008a7359da82100f01c03aa1&",
+          "fileName": "Screenshot_20250601-2240182.png",
+          "fileSizeBytes": 204655
+        },
+        {
+          "id": "1378911673410125844",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1378911673410125844/Screenshot_20250601-2240492.png?ex=685bfcd1&is=685aab51&hm=844d116e7666c43d6b83f70bc0b3ad3eb15626702f16919bcfd36dea1a6d7a25&",
+          "fileName": "Screenshot_20250601-2240492.png",
+          "fileSizeBytes": 189356
+        },
+        {
+          "id": "1378911673683021834",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1378911673683021834/Screenshot_20250601-2241172.png?ex=685bfcd1&is=685aab51&hm=d98644a366b50886b2f758d070578c3ee833483eea9c82fc5255349a55ddb71e&",
+          "fileName": "Screenshot_20250601-2241172.png",
+          "fileSizeBytes": 182723
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1119715953039655022",
+              "name": "goldenfreds2002",
+              "discriminator": "0000",
+              "nickname": "007n7",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1119715953039655022/439dea75a4b7c681b797c95a611a880d.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1379172238418509845",
+      "type": "Default",
+      "timestamp": "2025-06-03T02:58:05.42+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "EWWWWWWWWWWWWWWWWWWWW",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1379172238250741941",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1379172238250741941/image.png?ex=685b9dfd&is=685a4c7d&hm=c41e81960eb93171850ba058acf4bc43a0452a8b3f4c704701658919e98ead4f&",
+          "fileName": "image.png",
+          "fileSizeBytes": 250483
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1379878224221311116",
+      "type": "Default",
+      "timestamp": "2025-06-05T01:43:25.552+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "JESUS CHRIST",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "1379878224024174673",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1379878224024174673/image.png?ex=685b8c7d&is=685a3afd&hm=9b4b5600b55a8dd710881c7e7074ae8ac1bc2c74bbd85f387b4d124c02cba9a3&",
+          "fileName": "image.png",
+          "fileSizeBytes": 21703
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE2D",
+            "code": "sob",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f62d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1214651561356296302",
+              "name": "friedpipis",
+              "discriminator": "0000",
+              "nickname": "Jinty",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1214651561356296302/51eb4549b9a8c57fe11ef1598126defc.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "1385704784530636840",
+            "name": "coal",
+            "code": "coal",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1385704784530636840.png"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1190015335907196940",
+              "name": "tomasthegreatest7",
+              "discriminator": "0000",
+              "nickname": "Emperor T",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+            },
+            {
+              "id": "1384384249565810749",
+              "name": "smnigranreturn",
+              "discriminator": "0000",
+              "nickname": "UTTP MAJOR SMNI GRAND RETURN",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1384384249565810749/603d3050eb6fdb6fa804f54aa5074cb5.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1379878271810011258",
+      "type": "Default",
+      "timestamp": "2025-06-05T01:43:36.898+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HE ONLY GETS MORE AND MORE DISGUSTING",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386390138946584777",
+      "type": "Default",
+      "timestamp": "2025-06-23T00:59:27.008+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1190015335907196940",
+        "name": "tomasthegreatest7",
+        "discriminator": "0000",
+        "nickname": "Emperor Tomas The Greatest",
+        "color": "#4F0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1342560887692853320",
+            "name": "­",
+            "color": null,
+            "position": 56
+          },
+          {
+            "id": "1340735484271526029",
+            "name": "Emperor",
+            "color": "#4F0000",
+            "position": 55
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1386390138547994644",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1386390138547994644/image.png?ex=685b822e&is=685a30ae&hm=381add6decafd0087cc6c5ba80c2651315da54f1b58fd074aba1a624a54d58df&",
+          "fileName": "image.png",
+          "fileSizeBytes": 36706
+        },
+        {
+          "id": "1386390138786939031",
+          "url": "https://cdn.discordapp.com/attachments/1343295222691659899/1386390138786939031/image.png?ex=685b822e&is=685a30ae&hm=dfb4272d7c54c15467de1da214909507111ad135ef96613cf238c3fb72e9af6d&",
+          "fileName": "image.png",
+          "fileSizeBytes": 40183
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD23",
+            "code": "rofl",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f923.svg"
+          },
+          "count": 4,
+          "users": [
+            {
+              "id": "1190015335907196940",
+              "name": "tomasthegreatest7",
+              "discriminator": "0000",
+              "nickname": "Emperor Tomas The Greatest",
+              "color": "#4F0000",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+            },
+            {
+              "id": "1380247760183492708",
+              "name": "pa1ntdvd",
+              "discriminator": "0000",
+              "nickname": "paintdvd",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1380247760183492708/3b8b56da8b04b0ff85e9944c1b80ddfb.png?size=512"
+            },
+            {
+              "id": "1382340507761377360",
+              "name": ".liamthylaw",
+              "discriminator": "0000",
+              "nickname": "`~ Liam ~`",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1382340507761377360/f8ca557775c044e9fd587f37eda0ebdb.png?size=512"
+            },
+            {
+              "id": "1384384249565810749",
+              "name": "smnigranreturn",
+              "discriminator": "0000",
+              "nickname": "UTTP MAJOR SMNI GRAND RETURN",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1384384249565810749/603d3050eb6fdb6fa804f54aa5074cb5.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 19
+}

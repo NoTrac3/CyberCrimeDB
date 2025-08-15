@@ -1,0 +1,340 @@
+{
+  "guild": {
+    "id": "1340710262168096809",
+    "name": "\uD835\uDDD7\uD835\uDDF2\uD835\uDDF4\uD835\uDDF2\uD835\uDDFB\uD835\uDDF2\uD835\uDDFF\uD835\uDDEE\uD835\uDDF0\uD835\uDE06 \uD835\uDDE3\uD835\uDDFC\uD835\uDDF9\uD835\uDDF6\uD835\uDDF0\uD835\uDDF2 \uD835\uDDE2\uD835\uDDE6",
+    "iconUrl": "https://cdn.discordapp.com/icons/1340710262168096809/a2db2dbec93453bccb1528e60db6178a.png?size=512"
+  },
+  "channel": {
+    "id": "1386087988362088449",
+    "type": "GuildTextChat",
+    "categoryId": "1342596759758569614",
+    "category": "Outside",
+    "name": "〚\uD83C\uDF35〛wasteland",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-06-24T22:00:22.851479+08:00",
+  "messages": [
+    {
+      "id": "1386087997178646628",
+      "type": "Default",
+      "timestamp": "2025-06-22T04:58:50.797+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1380993121189367909",
+        "name": "DPOS-TRON",
+        "discriminator": "7793",
+        "nickname": "DPOS-TRON",
+        "color": "#000095",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1341916464965222430",
+            "name": "DPOS-TRON",
+            "color": "#000095",
+            "position": 53
+          },
+          {
+            "id": "1340720335112241235",
+            "name": "Manager Bot",
+            "color": null,
+            "position": 52
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1380993121189367909/0aec4fa718d9576aaf6210bb5898128d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/b9HShwdui8frwYJEMPqfh9GlYczaMvXErfR96qUC5xA/https/i.postimg.cc/mDD5HWvT/purget.gif",
+            "width": 854,
+            "height": 480
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/b9HShwdui8frwYJEMPqfh9GlYczaMvXErfR96qUC5xA/https/i.postimg.cc/mDD5HWvT/purget.gif",
+              "width": 854,
+              "height": 480
+            }
+          ],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386442358807068773",
+      "type": "Default",
+      "timestamp": "2025-06-23T04:26:57.193+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!ban 1104092379159470181 pathetic attack attempt",
+      "author": {
+        "id": "1190015335907196940",
+        "name": "tomasthegreatest7",
+        "discriminator": "0000",
+        "nickname": "Emperor Tomas The Greatest",
+        "color": "#4F0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1342560887692853320",
+            "name": "­",
+            "color": null,
+            "position": 56
+          },
+          {
+            "id": "1340735484271526029",
+            "name": "Emperor",
+            "color": "#4F0000",
+            "position": 55
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386442368688848968",
+      "type": "Default",
+      "timestamp": "2025-06-23T04:26:59.549+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#00FF00",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1340720335112241235",
+            "name": "Manager Bot",
+            "color": null,
+            "position": 52
+          },
+          {
+            "id": "1340741244346830900",
+            "name": "Bot",
+            "color": "#00FF00",
+            "position": 5
+          },
+          {
+            "id": "1340714726681874558",
+            "name": "Dyno",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***eris118\\_ was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386639135145459724",
+      "type": "Default",
+      "timestamp": "2025-06-23T17:28:52.328+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!ban 1331752394585018475 opposition",
+      "author": {
+        "id": "1190015335907196940",
+        "name": "tomasthegreatest7",
+        "discriminator": "0000",
+        "nickname": "Emperor Tomas The Greatest",
+        "color": "#4F0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1342560887692853320",
+            "name": "­",
+            "color": null,
+            "position": 56
+          },
+          {
+            "id": "1340735484271526029",
+            "name": "Emperor",
+            "color": "#4F0000",
+            "position": 55
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386639141294575639",
+      "type": "Default",
+      "timestamp": "2025-06-23T17:28:53.794+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#00FF00",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1340720335112241235",
+            "name": "Manager Bot",
+            "color": null,
+            "position": 52
+          },
+          {
+            "id": "1340741244346830900",
+            "name": "Bot",
+            "color": "#00FF00",
+            "position": 5
+          },
+          {
+            "id": "1340714726681874558",
+            "name": "Dyno",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": ":dynoSuccess: ***perchance\\_1. was banned.***",
+          "color": "#43B581",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "314691591484866560",
+              "name": "dynoSuccess",
+              "code": "dynoSuccess",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.discordapp.com/emojis/314691591484866560.png"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386784667847495691",
+      "type": "Default",
+      "timestamp": "2025-06-24T03:07:10.028+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Emperor Tomas The Greatest dide the vid got banned and can you send teh school shooting without censors",
+      "author": {
+        "id": "1354682962301685961",
+        "name": "rxcecxrx.",
+        "discriminator": "0000",
+        "nickname": "rxcecxrx",
+        "color": "#A0A0A0",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340716065969143908",
+            "name": "Outsider",
+            "color": "#A0A0A0",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1354682962301685961/1b80840442d7990c355e8201843d7a31.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1190015335907196940",
+          "name": "tomasthegreatest7",
+          "discriminator": "0000",
+          "nickname": "Emperor Tomas The Greatest",
+          "color": "#4F0000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1342560887692853320",
+              "name": "­",
+              "color": null,
+              "position": 56
+            },
+            {
+              "id": "1340735484271526029",
+              "name": "Emperor",
+              "color": "#4F0000",
+              "position": 55
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 6
+}

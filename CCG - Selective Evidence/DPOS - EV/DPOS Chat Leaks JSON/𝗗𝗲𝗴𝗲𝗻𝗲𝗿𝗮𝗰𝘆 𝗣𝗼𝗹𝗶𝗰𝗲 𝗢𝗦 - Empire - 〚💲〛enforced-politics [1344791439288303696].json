@@ -1,0 +1,158 @@
+{
+  "guild": {
+    "id": "1340710262168096809",
+    "name": "\uD835\uDDD7\uD835\uDDF2\uD835\uDDF4\uD835\uDDF2\uD835\uDDFB\uD835\uDDF2\uD835\uDDFF\uD835\uDDEE\uD835\uDDF0\uD835\uDE06 \uD835\uDDE3\uD835\uDDFC\uD835\uDDF9\uD835\uDDF6\uD835\uDDF0\uD835\uDDF2 \uD835\uDDE2\uD835\uDDE6",
+    "iconUrl": "https://cdn.discordapp.com/icons/1340710262168096809/a2db2dbec93453bccb1528e60db6178a.png?size=512"
+  },
+  "channel": {
+    "id": "1344791439288303696",
+    "type": "GuildTextChat",
+    "categoryId": "1340712339288363100",
+    "category": "Empire",
+    "name": "〚\uD83D\uDCB2〛enforced-politics",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-06-24T22:06:42.7836051+08:00",
+  "messages": [
+    {
+      "id": "1386086791131431054",
+      "type": "Default",
+      "timestamp": "2025-06-22T04:54:03.253+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## THESE ARE THE IDEOLOGIES WE ARE ALIGNED WITH ##\n**If you are currently looking for an ideology to follow, we recommend picking one of these**",
+      "author": {
+        "id": "1190015335907196940",
+        "name": "tomasthegreatest7",
+        "discriminator": "0000",
+        "nickname": "Emperor Tomas The Greatest",
+        "color": "#4F0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1342560887692853320",
+            "name": "­",
+            "color": null,
+            "position": 56
+          },
+          {
+            "id": "1340735484271526029",
+            "name": "Emperor",
+            "color": "#4F0000",
+            "position": 55
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1386086790825508895",
+          "url": "https://cdn.discordapp.com/attachments/1344791439288303696/1386086790825508895/image.webp?ex=685bb92b&is=685a67ab&hm=51acf2d0ee7ca459940b9f4e49b4ef243fd3eb4662c28eda9b54e8722c74a8bc&",
+          "fileName": "image.webp",
+          "fileSizeBytes": 317696
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386086851290333254",
+      "type": "Default",
+      "timestamp": "2025-06-22T04:54:17.596+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## THESE ARE THE IDEOLOGIES WE ARE NEUTRAL ON ##\n**If you support any of these, or any similar ideologies, then you may join the server. But you cant promote these ideologies in the server.**",
+      "author": {
+        "id": "1190015335907196940",
+        "name": "tomasthegreatest7",
+        "discriminator": "0000",
+        "nickname": "Emperor Tomas The Greatest",
+        "color": "#4F0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1342560887692853320",
+            "name": "­",
+            "color": null,
+            "position": 56
+          },
+          {
+            "id": "1340735484271526029",
+            "name": "Emperor",
+            "color": "#4F0000",
+            "position": 55
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1386086851005251594",
+          "url": "https://cdn.discordapp.com/attachments/1344791439288303696/1386086851005251594/image.webp?ex=685bb939&is=685a67b9&hm=293161dcbd1c04dfb26ec547c7b4c1e19da886cc29ab372782ba5008d5b50505&",
+          "fileName": "image.webp",
+          "fileSizeBytes": 184538
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386086903115288819",
+      "type": "Default",
+      "timestamp": "2025-06-22T04:54:29.952+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Our enemies:",
+      "author": {
+        "id": "1190015335907196940",
+        "name": "tomasthegreatest7",
+        "discriminator": "0000",
+        "nickname": "Emperor Tomas The Greatest",
+        "color": "#4F0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1342560887692853320",
+            "name": "­",
+            "color": null,
+            "position": 56
+          },
+          {
+            "id": "1340735484271526029",
+            "name": "Emperor",
+            "color": "#4F0000",
+            "position": 55
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1386086903001907361",
+          "url": "https://cdn.discordapp.com/attachments/1344791439288303696/1386086903001907361/Untitled874_20250607165135.webp?ex=685bb945&is=685a67c5&hm=e90483ae14b843d932b5ba9eebc007b585b46ec02bb46cb6e25b3bad6d25f240&",
+          "fileName": "Untitled874_20250607165135.webp",
+          "fileSizeBytes": 312402
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

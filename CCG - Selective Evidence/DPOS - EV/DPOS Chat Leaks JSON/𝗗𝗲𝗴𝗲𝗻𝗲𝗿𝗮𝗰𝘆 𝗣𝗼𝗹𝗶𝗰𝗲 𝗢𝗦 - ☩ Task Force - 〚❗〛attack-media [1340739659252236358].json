@@ -1,0 +1,58 @@
+{
+  "guild": {
+    "id": "1340710262168096809",
+    "name": "\uD835\uDDD7\uD835\uDDF2\uD835\uDDF4\uD835\uDDF2\uD835\uDDFB\uD835\uDDF2\uD835\uDDFF\uD835\uDDEE\uD835\uDDF0\uD835\uDE06 \uD835\uDDE3\uD835\uDDFC\uD835\uDDF9\uD835\uDDF6\uD835\uDDF0\uD835\uDDF2 \uD835\uDDE2\uD835\uDDE6",
+    "iconUrl": "https://cdn.discordapp.com/icons/1340710262168096809/a2db2dbec93453bccb1528e60db6178a.png?size=512"
+  },
+  "channel": {
+    "id": "1340739659252236358",
+    "type": "GuildTextChat",
+    "categoryId": "1342602366142120168",
+    "category": "☩ Task Force",
+    "name": "〚❗〛attack-media",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-06-24T22:01:29.1071648+08:00",
+  "messages": [
+    {
+      "id": "1340755299937812612",
+      "type": "Default",
+      "timestamp": "2025-02-17T02:42:53.534+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://drive.google.com/drive/folders/1AweyYwk0SUC0X_Pqiqr-B5nsQwFOuUHq?usp=drive_link",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://drive.google.com/drive/folders/1AweyYwk0SUC0X_Pqiqr-B5nsQwFOuUHq?usp=drive_link",
+          "timestamp": null,
+          "description": "",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

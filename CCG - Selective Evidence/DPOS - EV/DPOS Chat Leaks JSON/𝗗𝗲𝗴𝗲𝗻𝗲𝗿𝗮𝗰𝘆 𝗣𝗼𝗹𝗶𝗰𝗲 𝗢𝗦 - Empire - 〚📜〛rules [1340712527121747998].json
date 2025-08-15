@@ -1,0 +1,61 @@
+{
+  "guild": {
+    "id": "1340710262168096809",
+    "name": "\uD835\uDDD7\uD835\uDDF2\uD835\uDDF4\uD835\uDDF2\uD835\uDDFB\uD835\uDDF2\uD835\uDDFF\uD835\uDDEE\uD835\uDDF0\uD835\uDE06 \uD835\uDDE3\uD835\uDDFC\uD835\uDDF9\uD835\uDDF6\uD835\uDDF0\uD835\uDDF2 \uD835\uDDE2\uD835\uDDE6",
+    "iconUrl": "https://cdn.discordapp.com/icons/1340710262168096809/a2db2dbec93453bccb1528e60db6178a.png?size=512"
+  },
+  "channel": {
+    "id": "1340712527121747998",
+    "type": "GuildTextChat",
+    "categoryId": "1340712339288363100",
+    "category": "Empire",
+    "name": "〚\uD83D\uDCDC〛rules",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-06-24T22:06:16.2123713+08:00",
+  "messages": [
+    {
+      "id": "1386086158819131483",
+      "type": "Default",
+      "timestamp": "2025-06-22T04:51:32.498+08:00",
+      "timestampEdited": "2025-06-22T13:12:40.091+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No unironic femboy/trans/furry imagery even as a bait and switch meme \nAbsolutely no homo inside the server\nNo other religion than atheism/agnosticism or christianity\nYou wont be banned from being muslim but you are not allowed to promote it here\nABSOLUTELY **NO** ILLEGAL MATERIAL\nNo NSFW/NSFL inside the server\nNo communists\nNo woke dgens\nNo satanists\nNo transgenders\nNo ###os\nNo supporting any of **OUR ENEMIES** in #〚\uD83D\uDCB2〛enforced-politics\nNo ragebaiting fellow citizens\nNo furry art in #〚\uD83D\uDD28〛creations\nNo l##i imagery\nReferring to someone non-binary or transgender with their prefered pronouns will get you banned \n@Outsiders are NOT allowed to advertise\n@Citizens can only advertise in #〚➕〛self-promo",
+      "author": {
+        "id": "1190015335907196940",
+        "name": "tomasthegreatest7",
+        "discriminator": "0000",
+        "nickname": "Emperor Tomas The Greatest",
+        "color": "#4F0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1342560887692853320",
+            "name": "­",
+            "color": null,
+            "position": 56
+          },
+          {
+            "id": "1340735484271526029",
+            "name": "Emperor",
+            "color": "#4F0000",
+            "position": 55
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

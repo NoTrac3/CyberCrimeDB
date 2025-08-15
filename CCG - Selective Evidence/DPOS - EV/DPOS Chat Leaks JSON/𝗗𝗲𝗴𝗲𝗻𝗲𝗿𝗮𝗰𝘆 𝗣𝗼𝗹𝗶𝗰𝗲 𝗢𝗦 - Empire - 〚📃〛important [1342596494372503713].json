@@ -1,0 +1,199 @@
+{
+  "guild": {
+    "id": "1340710262168096809",
+    "name": "\uD835\uDDD7\uD835\uDDF2\uD835\uDDF4\uD835\uDDF2\uD835\uDDFB\uD835\uDDF2\uD835\uDDFF\uD835\uDDEE\uD835\uDDF0\uD835\uDE06 \uD835\uDDE3\uD835\uDDFC\uD835\uDDF9\uD835\uDDF6\uD835\uDDF0\uD835\uDDF2 \uD835\uDDE2\uD835\uDDE6",
+    "iconUrl": "https://cdn.discordapp.com/icons/1340710262168096809/a2db2dbec93453bccb1528e60db6178a.png?size=512"
+  },
+  "channel": {
+    "id": "1342596494372503713",
+    "type": "GuildTextChat",
+    "categoryId": "1340712339288363100",
+    "category": "Empire",
+    "name": "〚\uD83D\uDCC3〛important",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-06-24T22:06:47.5425502+08:00",
+  "messages": [
+    {
+      "id": "1352006717487186072",
+      "type": "Default",
+      "timestamp": "2025-03-20T03:52:00.519+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Use this when arguing with alphabet \"people\"\nhttps://docs.google.com/document/u/0/d/1P4BFGyE0kH4dQnI_yNPy8tdPxEFPI1tRR-7u_CF5ANk/mobilebasic",
+      "author": {
+        "id": "1324158222424211486",
+        "name": "tomasthegreatest",
+        "discriminator": "0000",
+        "nickname": "Emperor T",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Fun Facts About LGBT",
+          "url": "https://docs.google.com/document/u/0/d/1P4BFGyE0kH4dQnI_yNPy8tdPxEFPI1tRR-7u_CF5ANk/mobilebasic",
+          "timestamp": null,
+          "description": "An entire document compiling many facts and sources to be used in debates against the LGBT community. Should not be used to spread hate. This is for education only.\nCopyright © 2022 Dragonary. All rights reserved.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/VkmhNW2b9I-P3pGt5GirNqLpaE0T2R7zbhIl-d8kqX0/https/lh7-us.googleusercontent.com/docs/AHkbwyL6oVP4v2ixdSkcX06p1M0BsAqHpeXpZ3qJU6oR8Kmf1H7_wiLEsQ3bcPouIshHAHZSTAmS57Y4l5UQHe9MK46JivUpFqjr_dLYFPj7j1CYSMA95QF3%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386087012443885588",
+      "type": "Default",
+      "timestamp": "2025-06-22T04:54:56.018+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## Order State model:\nGovernment: Constitutional Monarchy\nEconomy: Minarchy\nAuthority: Totalitarian\nRuled by the National Capitalist Party",
+      "author": {
+        "id": "1190015335907196940",
+        "name": "tomasthegreatest7",
+        "discriminator": "0000",
+        "nickname": "Emperor Tomas The Greatest",
+        "color": "#4F0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1342560887692853320",
+            "name": "­",
+            "color": null,
+            "position": 56
+          },
+          {
+            "id": "1340735484271526029",
+            "name": "Emperor",
+            "color": "#4F0000",
+            "position": 55
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1386087047751536713",
+      "type": "Default",
+      "timestamp": "2025-06-22T04:55:04.436+08:00",
+      "timestampEdited": "2025-06-22T04:55:09.733+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## If you send something toxxable the members must be reacted by it and if you don't fix it (edit) the message will get deleted\n# :plz_censor:\n\n# 4chan style meme rating for the bar:\nUnique, original funny meme: **Gem** \uD83D\uDC8E\nCoomer/shock/degenerate/absurd humor: **Coal** :coal:",
+      "author": {
+        "id": "1190015335907196940",
+        "name": "tomasthegreatest7",
+        "discriminator": "0000",
+        "nickname": "Emperor Tomas The Greatest",
+        "color": "#4F0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1342560887692853320",
+            "name": "­",
+            "color": null,
+            "position": 56
+          },
+          {
+            "id": "1340735484271526029",
+            "name": "Emperor",
+            "color": "#4F0000",
+            "position": 55
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "1384986873105088582",
+          "name": "plz_censor",
+          "code": "plz_censor",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1384986873105088582.png"
+        },
+        {
+          "id": "",
+          "name": "\uD83D\uDC8E",
+          "code": "gem",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f48e.svg"
+        },
+        {
+          "id": "1385704784530636840",
+          "name": "coal",
+          "code": "coal",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1385704784530636840.png"
+        }
+      ]
+    },
+    {
+      "id": "1386089170979520675",
+      "type": "Default",
+      "timestamp": "2025-06-22T05:03:30.653+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Opportunity:\nIF YOUR SERVER IS BIG AND HEAVILY INSPIRED IN DPOS, LIKE RAGESEC AND U###-BR, YOU SHOULD UNITE WITH US PERMANENTLY AND BE REWARDED\nUNITING MEANS MAKING YOUR SERVER A GATEAWAY TO MINE, DEPENDING ON HOW BIG AND STRONG IT IS YOU SHALL GET A HIGHER ROLE",
+      "author": {
+        "id": "1190015335907196940",
+        "name": "tomasthegreatest7",
+        "discriminator": "0000",
+        "nickname": "Emperor Tomas The Greatest",
+        "color": "#4F0000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1342560887692853320",
+            "name": "­",
+            "color": null,
+            "position": 56
+          },
+          {
+            "id": "1340735484271526029",
+            "name": "Emperor",
+            "color": "#4F0000",
+            "position": 55
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1190015335907196940/2db0aca855776b84eddf2a3daae4399a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}
