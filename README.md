@@ -2,8 +2,8 @@
 This repository will be one of few receiving continued updates. 
 FOR COMPLETE EVIDENCE REQUEST: Please reach us through our website or join our Discord server:  [```DISCORD COMMUNITY SERVER```](https://discord.gg/GEpEzNjAUh)
 
-## OPERATION UNMASK: TARGET GROUP COMISSION REPORT
+## OPERATION NIGHTFALL: TARGET GROUP COMISSION REPORT
 __DATE: 2025-08-15 | SOURCE:__ `COVENANT INTEL DIVISION`
 
-**GROUP DESIGNATION: HL (Hunt3r L3gacy)**
+**GROUP DESIGNATION: (12AM COLLECTIVE & GAMBINO NETWORK)**
 
