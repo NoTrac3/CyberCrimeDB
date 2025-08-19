@@ -90,8 +90,7 @@ Citizens should:
 V. STATUS UPDATE  
 --------------------------------------------------------------------------------
 
-This operation remains ongoing. No further details are available for public release at this time.
-
-This document contains no classified or sensitive operational details.
-Report cyber incidents to appropriate law enforcement authorities.
+- This operation remains ongoing. No further details are available for public release at this time.
+- This document contains no classified or sensitive operational details.
+- Report cyber incidents to appropriate law enforcement authorities.
 
