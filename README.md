@@ -5,11 +5,45 @@ FOR COMPLETE EVIDENCE REQUEST: Please reach us through our website or join our D
 ## OPERATION IRONFALL: TARGET GROUP COMISSION REPORT
 __DATE: 2025-08-09  | SOURCE:__ `COVENANT INTEL DIVISION`
 
-**GROUP DESIGNATION: (IRONFALL)**
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+The NoTrac3 Covenant has uncovered a sophisticated multi-server extremist network 
+operating across Discord and affiliated platforms. Designated "Operation Ironfall," 
+this investigation reveals a coordinated ecosystem of anti-social groups engaged in 
+illegal activities including distribution of child abuse material, hate speech, 
+and organized cyber harassment campaigns.
 
-=========================================
-        𝕻𝖚𝖇𝖑𝖎𝖈 𝕱𝖆𝖈𝖎𝖓𝖌 𝕴𝖓𝖙𝖊𝖑𝖑𝖎𝖌𝖊𝖓𝖈𝖊 𝕹𝖔𝖙𝖎𝖈𝖊
-=========================================
+PRIMARY GROUPS IDENTIFIED:
+
+1. THE NEW MILITIA (TNM) [CORE NODE]
+   - Server ID: 1393298755931082975
+   - Member Count: 215+ 
+   - Creation: July 2025
+   - Key Finding: Infant abuse imagery confirmed
+   - Subsidiaries: Multiple linked servers (84bKSGhQe8, Ru7hmrVh, zZGHC9XWEd)
+
+2. UNIVERSAL UNION (ꕺ𒀖) [TECHNICAL HUB]  
+   - Server ID: 1333700955648032808
+   - Member Count: 731+
+   - Creation: January 2025
+   - Capabilities: OSINT tools, DDoS, botnets, encryption, raid coordination
+   - Ideology: Technocratic assimilation ("UAP" doctrine: Unite, Assimilate, Progress)
+
+3. HAISTER (壊滅) [AGGRESSIVE ARM]
+   - Server ID: (Pending full enumeration) 
+   - Member Count: 577+
+   - Stated Purpose: "Absolute degeneracy hunting"
+   - Targeting: LGBTQ+, furries, satanists, "enemies"
+   - Tactics: Doxxing, leaking, raiding, spam bots
+
+4. 148 NETWORK [ALLY]
+   - Server ID: 1401665256836563105  
+   - Member Count: 55+ exported users
+   - Function: Recruitment funnel to larger network
+
+=====================================
+        𝕻𝖚𝖇𝖑𝖎𝖈  𝕴𝖓𝖙𝖊𝖑𝖑𝖎𝖌𝖊𝖓𝖈𝖊 𝕹𝖔𝖙𝖎𝖈𝖊
+=====================================
 
 REPORT ID: NT3-PUBLIC-20250809  
 CLASSIFICATION: UNCLASSIFIED//FOR PUBLIC RELEASE
