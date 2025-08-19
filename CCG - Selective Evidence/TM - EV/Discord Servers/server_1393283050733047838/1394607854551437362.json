@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "created": "2025-08-19T07:41:07.042058",
+    "updated": "2025-08-19T07:41:07.176662",
+    "sources": [],
+    "tracking": false,
+    "last_merged": "2025-08-19T07:41:07.176662",
+    "message_count": 3,
+    "server_count": 0
+  },
+  "profile": {
+    "username": "",
+    "user_id": "1394607854551437362",
+    "avatar": "",
+    "created_at": "",
+    "bot": false,
+    "known_aliases": []
+  },
+  "messages": [
+    {
+      "id": "1400183205419683840",
+      "content": "Check it",
+      "author": "1394607854551437362",
+      "author_info": {
+        "name": "brendon07745#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1394607854551437362/027d77f121632e4beb2c20665db5b5b5.png?size=1024",
+        "created_at": "2025-07-15T09:13:43.086000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "brendon07745"
+      },
+      "timestamp": "2025-07-30T18:28:10.318000+00:00",
+      "channel": {
+        "id": "1393283052343656540",
+        "name": "》▏ɢᴇɴᴇʀᴀʟ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1393283050733047838",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅 ᶜᴴᴬᴿᴸᴵᴱ",
+        "member_count": 43
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1400146042124763287",
+      "content": "@​everyone",
+      "author": "1394607854551437362",
+      "author_info": {
+        "name": "brendon07745#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1394607854551437362/027d77f121632e4beb2c20665db5b5b5.png?size=1024",
+        "created_at": "2025-07-15T09:13:43.086000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "brendon07745"
+      },
+      "timestamp": "2025-07-30T16:00:29.898000+00:00",
+      "channel": {
+        "id": "1393283052343656540",
+        "name": "》▏ɢᴇɴᴇʀᴀʟ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1393283050733047838",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅 ᶜᴴᴬᴿᴸᴵᴱ",
+        "member_count": 43
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1400145897215754343",
+      "content": "[MonYgs1c.mp4](https://files.catbox.moe/bk2riz.mp4)",
+      "author": "1394607854551437362",
+      "author_info": {
+        "name": "brendon07745#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1394607854551437362/027d77f121632e4beb2c20665db5b5b5.png?size=1024",
+        "created_at": "2025-07-15T09:13:43.086000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "brendon07745"
+      },
+      "timestamp": "2025-07-30T15:59:55.349000+00:00",
+      "channel": {
+        "id": "1393283052343656540",
+        "name": "》▏ɢᴇɴᴇʀᴀʟ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1393283050733047838",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅 ᶜᴴᴬᴿᴸᴵᴱ",
+        "member_count": 43
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "files": [
+          {
+            "name": "MonYgs1c.mp4",
+            "source": "content"
+          },
+          {
+            "name": "bk2riz.mp4",
+            "source": "content"
+          }
+        ]
+      }
+    }
+  ],
+  "artifacts": {
+    "invites": [],
+    "links": [],
+    "files": [
+      {
+        "name": "MonYgs1c.mp4",
+        "source": "content"
+      },
+      {
+        "name": "bk2riz.mp4",
+        "source": "content"
+      }
+    ],
+    "sensitive_terms": [],
+    "reactions": []
+  },
+  "statistics": {
+    "activity": {},
+    "communication": {},
+    "risk_indicators": {}
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "created": "2025-08-19T07:41:05.505628",
+    "updated": "2025-08-19T07:41:05.505673",
+    "sources": [],
+    "tracking": false,
+    "last_merged": "2025-08-19T07:41:05.505673",
+    "message_count": 1,
+    "server_count": 0
+  },
+  "profile": {
+    "username": "",
+    "user_id": "1386048155870564365",
+    "avatar": "",
+    "created_at": "",
+    "bot": false,
+    "known_aliases": []
+  },
+  "messages": [
+    {
+      "id": "1393300477491544124",
+      "content": "https://discord.gg/jVHYKNC46m",
+      "author": "1386048155870564365",
+      "author_info": {
+        "name": "valak88.fbi#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1386048155870564365/5f7465f8a7431d81b6a7a9b7e56859e3.png?size=1024",
+        "created_at": "2025-06-21T18:20:31.889000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "valak88.fbi"
+      },
+      "timestamp": "2025-07-11T18:38:40.105000+00:00",
+      "channel": {
+        "id": "1393300355697348880",
+        "name": "network",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 48,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1393283050733047838",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅 ᶜᴴᴬᴿᴸᴵᴱ",
+        "member_count": 43
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/jVHYKNC46m"
+        ]
+      }
+    }
+  ],
+  "artifacts": {
+    "invites": [
+      "discord.gg/jVHYKNC46m"
+    ],
+    "links": [],
+    "files": [],
+    "sensitive_terms": [],
+    "reactions": []
+  },
+  "statistics": {
+    "activity": {},
+    "communication": {},
+    "risk_indicators": {}
+  }
+}

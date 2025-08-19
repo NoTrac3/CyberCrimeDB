@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "created": "2025-08-19T07:41:11.601639",
+    "updated": "2025-08-19T07:41:11.601681",
+    "sources": [],
+    "tracking": false,
+    "last_merged": "2025-08-19T07:41:11.601681",
+    "message_count": 1,
+    "server_count": 0
+  },
+  "profile": {
+    "username": "",
+    "user_id": "1384888780279775302",
+    "avatar": "",
+    "created_at": "",
+    "bot": false,
+    "known_aliases": []
+  },
+  "messages": [
+    {
+      "id": "1393050191736606720",
+      "content": "tnm on top",
+      "author": "1384888780279775302",
+      "author_info": {
+        "name": "5hf6#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1384888780279775302/ff031f515da88c742dfe8f8fff1d1ed4.png?size=1024",
+        "created_at": "2025-06-18T13:33:35.208000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "5hf6"
+      },
+      "timestamp": "2025-07-11T02:04:07.331000+00:00",
+      "channel": {
+        "id": "1392989653870579883",
+        "name": "》▏ʙᴏᴛ-ᴄᴏᴍᴍᴀɴᴅs",
+        "category": "🎖❘ 𝗕𝗼𝘁 ✠ 𝗦𝗲𝗰𝘁𝗼𝗿 ❘🎖",
+        "position": 25,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    }
+  ],
+  "artifacts": {
+    "invites": [],
+    "links": [],
+    "files": [],
+    "sensitive_terms": [],
+    "reactions": []
+  },
+  "statistics": {
+    "activity": {},
+    "communication": {},
+    "risk_indicators": {}
+  }
+}

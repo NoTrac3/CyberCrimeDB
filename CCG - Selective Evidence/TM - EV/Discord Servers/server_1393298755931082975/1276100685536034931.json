@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "created": "2025-08-19T07:41:09.149419",
+    "updated": "2025-08-19T07:41:09.149460",
+    "sources": [],
+    "tracking": false,
+    "last_merged": "2025-08-19T07:41:09.149460",
+    "message_count": 1,
+    "server_count": 0
+  },
+  "profile": {
+    "username": "",
+    "user_id": "1276100685536034931",
+    "avatar": "",
+    "created_at": "",
+    "bot": false,
+    "known_aliases": []
+  },
+  "messages": [
+    {
+      "id": "1400652055424798910",
+      "content": "* You have to have been in TNM for more then 2 days\n\n* You cannot rig the election\n\n* Keep everything civil\n\n* Your allowed to ask people to vote but not ask people to ask others to vote for you\n\n* You can’t Allie with people, but you can drop out and choose who gets your votes\n\n* If absolutely necessary I can disqualify you from the election\n\n* Do not make hate speech\n\n* You cant have other people asking people to vote for you if they are not, and were not in the election\n\n* generally only wardens are able to be candidates in prime elections, however oracles can also join the election but for them to win, they'd need MAJORITY (50%) vote to win. if an oracle get lets say 48% (which would still be winning in a sense), its not majority, so prime would be given to the next highest candidate if the next highest candidate isnt an oracle.\n\n* you have to be in the main TNM server to vote\n@​everyone",
+      "author": "1276100685536034931",
+      "author_info": {
+        "name": "jonesmare24#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1276100685536034931/1f82047dc50c2907b07d21ab09e5e9e9.png?size=1024",
+        "created_at": "2024-08-22T08:48:32.236000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "jonesmare24"
+      },
+      "timestamp": "2025-08-01T01:31:12.870000+00:00",
+      "channel": {
+        "id": "1400378473822032025",
+        "name": "election-rules",
+        "category": "Elections - temporarily hidden while out of use",
+        "position": 6,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1393298755931082975",
+        "name": "╠𝚃𝙽𝙼╣ Militia Network (currently limited)",
+        "member_count": 216
+      },
+      "attachments": [],
+      "edited": true,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "reactions": [
+          {
+            "count": 19,
+            "emoji": {
+              "name": "❤️",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 16,
+            "emoji": {
+              "name": "💯",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 13,
+            "emoji": {
+              "name": "👍",
+              "id": null,
+              "custom": false
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "artifacts": {
+    "invites": [],
+    "links": [],
+    "files": [],
+    "sensitive_terms": [],
+    "reactions": [
+      {
+        "count": 19,
+        "emoji": {
+          "name": "❤️",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 16,
+        "emoji": {
+          "name": "💯",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 13,
+        "emoji": {
+          "name": "👍",
+          "id": null,
+          "custom": false
+        }
+      }
+    ]
+  },
+  "statistics": {
+    "activity": {},
+    "communication": {},
+    "risk_indicators": {}
+  }
+}

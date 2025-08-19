@@ -1,0 +1,1599 @@
+{
+  "metadata": {
+    "created": "2025-08-19T07:41:10.062711",
+    "updated": "2025-08-19T07:41:15.006660",
+    "sources": [],
+    "tracking": false,
+    "last_merged": "2025-08-19T07:41:15.006660",
+    "message_count": 33,
+    "server_count": 0
+  },
+  "profile": {
+    "username": "",
+    "user_id": "1392548637535375541",
+    "avatar": "",
+    "created_at": "",
+    "bot": false,
+    "known_aliases": []
+  },
+  "messages": [
+    {
+      "id": "1393034924734287893",
+      "content": "@debator12. add marriage bot",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T01:03:27.394000+00:00",
+      "channel": {
+        "id": "1392989653275246593",
+        "name": "》▏ᴠᴇʀꜱᴇ-ᴏꜰ-ᴛʜᴇ-ᴅᴀʏ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 9,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "reactions": [
+          {
+            "count": 3,
+            "emoji": {
+              "name": "AUGHH",
+              "id": "1393029147277660250",
+              "animated": false,
+              "custom": true,
+              "url": "https://cdn.discordapp.com/emojis/1393029147277660250.png"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1393305576888336457",
+      "content": "@​here migrate to https://discord.gg/yVQQFb4QcX",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T18:58:55.896000+00:00",
+      "channel": {
+        "id": "1392989653677637815",
+        "name": "》▏ᴍᴇᴍᴇꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 18,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/yVQQFb4QcX"
+        ]
+      }
+    },
+    {
+      "id": "1393305503110795276",
+      "content": "?lock",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T18:58:38.306000+00:00",
+      "channel": {
+        "id": "1392989653677637815",
+        "name": "》▏ᴍᴇᴍᴇꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 18,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393081186280276089",
+      "content": "Question of The Day - @​here\n------------------------------\n#2 | Describe your dream house in exactly 27 words.\nAnswer in #aotd",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T04:07:17.006000+00:00",
+      "channel": {
+        "id": "1392989653677637817",
+        "name": "qotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 20,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "reactions": [
+          {
+            "count": 1,
+            "emoji": {
+              "name": "✅",
+              "id": null,
+              "custom": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1393080973964480704",
+      "content": "Question of The Day - @​here\n------------------------------\n#1 | Is Baron a Jew for wanting to delete TM?\nAnswer in #aotd",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T04:06:26.386000+00:00",
+      "channel": {
+        "id": "1392989653677637817",
+        "name": "qotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 20,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "reactions": [
+          {
+            "count": 1,
+            "emoji": {
+              "name": "✅",
+              "id": null,
+              "custom": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1393029122296512575",
+      "content": "@​here fail",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T00:40:23.985000+00:00",
+      "channel": {
+        "id": "1392989653275246598",
+        "name": "》▏ʜᴀʟʟ-ᴏꜰ-ꜱʜᴀᴍᴇ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗕𝗶𝗹𝗹𝗯𝗼𝗮𝗿𝗱 ❘🎖",
+        "position": 13,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [
+        {
+          "id": "1393029122091122779",
+          "filename": "mzqO14Z.png",
+          "url": "https://cdn.discordapp.com/attachments/1392989653275246598/1393029122091122779/mzqO14Z.png?ex=68a51977&is=68a3c7f7&hm=f67fdf30d007957a01d1fb0fb48a05ef89fcbc2c81f83b234030dcff2fdd83bc&",
+          "proxy_url": "https://media.discordapp.net/attachments/1392989653275246598/1393029122091122779/mzqO14Z.png?ex=68a51977&is=68a3c7f7&hm=f67fdf30d007957a01d1fb0fb48a05ef89fcbc2c81f83b234030dcff2fdd83bc&",
+          "size": 76200,
+          "height": 532,
+          "width": 727,
+          "content_type": "image/png",
+          "is_spoiler": false,
+          "duration_sec": null,
+          "waveform": null
+        }
+      ],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "files": [
+          {
+            "name": "mzqO14Z.png",
+            "url": "https://cdn.discordapp.com/attachments/1392989653275246598/1393029122091122779/mzqO14Z.png?ex=68a51977&is=68a3c7f7&hm=f67fdf30d007957a01d1fb0fb48a05ef89fcbc2c81f83b234030dcff2fdd83bc&",
+            "size": 76200,
+            "type": "image/png",
+            "source": "attachment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1393080490403303525",
+      "content": "heil tnm",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T04:04:31.096000+00:00",
+      "channel": {
+        "id": "1392989653275246597",
+        "name": "》▏ʜᴀʟʟ-ᴏꜰ-ꜰᴀᴍᴇ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗕𝗶𝗹𝗹𝗯𝗼𝗮𝗿𝗱 ❘🎖",
+        "position": 12,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [
+        {
+          "id": "1393080490117824542",
+          "filename": "image.png",
+          "url": "https://cdn.discordapp.com/attachments/1392989653275246597/1393080490117824542/image.png?ex=68a5494f&is=68a3f7cf&hm=afaf27341246e4ee062491ce36a77a641d8dea0eb2a21657bea5942a5c23cca2&",
+          "proxy_url": "https://media.discordapp.net/attachments/1392989653275246597/1393080490117824542/image.png?ex=68a5494f&is=68a3f7cf&hm=afaf27341246e4ee062491ce36a77a641d8dea0eb2a21657bea5942a5c23cca2&",
+          "size": 93673,
+          "height": 931,
+          "width": 317,
+          "content_type": "image/png",
+          "is_spoiler": false,
+          "duration_sec": null,
+          "waveform": null
+        }
+      ],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "files": [
+          {
+            "name": "image.png",
+            "url": "https://cdn.discordapp.com/attachments/1392989653275246597/1393080490117824542/image.png?ex=68a5494f&is=68a3f7cf&hm=afaf27341246e4ee062491ce36a77a641d8dea0eb2a21657bea5942a5c23cca2&",
+            "size": 93673,
+            "type": "image/png",
+            "source": "attachment"
+          }
+        ],
+        "reactions": [
+          {
+            "count": 8,
+            "emoji": {
+              "name": "🔥",
+              "id": null,
+              "custom": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1393304207414661141",
+      "content": "organize you all",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T18:53:29.388000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393304195700101190",
+      "content": "i will",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T18:53:26.595000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393304190444507136",
+      "content": "dm me",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T18:53:25.342000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393304186501988452",
+      "content": "those that can generate edits or graphics or literally anything for us",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T18:53:24.402000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393304134802735282",
+      "content": "i now want to create a propaganda department",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T18:53:12.076000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393304004703944714",
+      "content": "credits to @5hf6 for making these for us",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T18:52:41.058000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393303973502517448",
+      "content": "@​here https://instagram.com/the_new_militia",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T18:52:33.619000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393303944343720148",
+      "content": "@​here https://youtube.com/@thenewmilitia",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T18:52:26.667000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393301765608439848",
+      "content": "@​everyone find our network of servers here:\n\nhttps://discord.gg/jVHYKNC46m\n\nWe will now all migrate to beta (due to being limited) which you can join below:\nhttps://discord.gg/yVQQFb4QcX",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T18:43:47.216000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/jVHYKNC46m",
+          "discord.gg/yVQQFb4QcX"
+        ]
+      }
+    },
+    {
+      "id": "1393280219011354745",
+      "content": "yes",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T17:18:10.107000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393279771110019265",
+      "content": "so",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T17:16:23.319000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393279768304160819",
+      "content": "making this happen",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T17:16:22.650000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393279757080203357",
+      "content": "we are currently",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T17:16:19.974000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393278384620048475",
+      "content": "@​here due to us being limited me has new idea.\n\nwe make 3 TNM servers that are essentially the same thing. We will migrate between them when one or the other get limited. I will try my best to sync your roles on each server.\n\nIf you think this is a good idea react w checkmark, and vice versa, react wit x if u think me has bad idea.",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T17:10:52.754000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "reactions": [
+          {
+            "count": 10,
+            "emoji": {
+              "name": "✅",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 1,
+            "emoji": {
+              "name": "🇳",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 1,
+            "emoji": {
+              "name": "🇦",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 1,
+            "emoji": {
+              "name": "🇮",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 1,
+            "emoji": {
+              "name": "🇬",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 1,
+            "emoji": {
+              "name": "↪️",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 1,
+            "emoji": {
+              "name": "🇪",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 1,
+            "emoji": {
+              "name": "🇷",
+              "id": null,
+              "custom": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1393275273683931288",
+      "content": "i will do something about this later",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T16:58:31.049000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393275252964065340",
+      "content": "ermmm",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T16:58:26.109000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393275237755392134",
+      "content": "@​here tnm is limited",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T16:58:22.483000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "reactions": [
+          {
+            "count": 4,
+            "emoji": {
+              "name": "💀",
+              "id": null,
+              "custom": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1393269434801455125",
+      "content": "😂",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T16:35:18.951000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393269429147668612",
+      "content": "@​here tm gets nuked by tnm and da claims victory",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T16:35:17.603000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "reactions": [
+          {
+            "count": 9,
+            "emoji": {
+              "name": "💀",
+              "id": null,
+              "custom": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1393269414043848908",
+      "content": "",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T16:35:14.002000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393305585340121290",
+      "content": "@​here migrate to https://discord.gg/yVQQFb4QcX",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T18:58:57.911000+00:00",
+      "channel": {
+        "id": "1392989653677637816",
+        "name": "》▏ᴍᴇᴅɪᴀ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 19,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/yVQQFb4QcX"
+        ]
+      }
+    },
+    {
+      "id": "1393305513437171743",
+      "content": "?lock",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T18:58:40.768000+00:00",
+      "channel": {
+        "id": "1392989653677637816",
+        "name": "》▏ᴍᴇᴅɪᴀ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 19,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393305566805495818",
+      "content": "@​here migrate to https://discord.gg/yVQQFb4QcX",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T18:58:53.492000+00:00",
+      "channel": {
+        "id": "1392989653677637814",
+        "name": "》▏ɢᴇɴᴇʀᴀʟ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 17,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/yVQQFb4QcX"
+        ]
+      }
+    },
+    {
+      "id": "1393305484546670714",
+      "content": "?lock",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T18:58:33.880000+00:00",
+      "channel": {
+        "id": "1392989653677637814",
+        "name": "》▏ɢᴇɴᴇʀᴀʟ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 17,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393273311055843378",
+      "content": "@​everyone vote for new r4id bot name:\n\n1️⃣ Jeffrey Epstein\n2️⃣ Ares\n3️⃣ Angel of Death\n4️⃣ The New Angel\n5️⃣ Trinity\n6️⃣ Diddy",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-11T16:50:43.122000+00:00",
+      "channel": {
+        "id": "1392989653275246599",
+        "name": "》▏ᴘᴏʟʟꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗕𝗶𝗹𝗹𝗯𝗼𝗮𝗿𝗱 ❘🎖",
+        "position": 14,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "reactions": [
+          {
+            "count": 16,
+            "emoji": {
+              "name": "1️⃣",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 11,
+            "emoji": {
+              "name": "3️⃣",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 3,
+            "emoji": {
+              "name": "5️⃣",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 2,
+            "emoji": {
+              "name": "2️⃣",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 1,
+            "emoji": {
+              "name": "4️⃣",
+              "id": null,
+              "custom": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1392995353493639179",
+      "content": "@​everyone TNM or NM?\n\n1️⃣  TNM - The New Militia\n2️⃣  NM - New Militia",
+      "author": "1392548637535375541",
+      "author_info": {
+        "name": "sqlxq#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392548637535375541/87eca62f32e2c424b0ae43b90be1a025.png?size=1024",
+        "created_at": "2025-07-09T16:51:07.491000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sqlxq"
+      },
+      "timestamp": "2025-07-10T22:26:12.875000+00:00",
+      "channel": {
+        "id": "1392989653275246599",
+        "name": "》▏ᴘᴏʟʟꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗕𝗶𝗹𝗹𝗯𝗼𝗮𝗿𝗱 ❘🎖",
+        "position": 14,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "reactions": [
+          {
+            "count": 20,
+            "emoji": {
+              "name": "1️⃣",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 5,
+            "emoji": {
+              "name": "2️⃣",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 2,
+            "emoji": {
+              "name": "🇨",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 2,
+            "emoji": {
+              "name": "🇹",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 2,
+            "emoji": {
+              "name": "🇬",
+              "id": null,
+              "custom": false
+            }
+          },
+          {
+            "count": 3,
+            "emoji": {
+              "name": "troll",
+              "id": "1393051274848768090",
+              "animated": false,
+              "custom": true,
+              "url": "https://cdn.discordapp.com/emojis/1393051274848768090.png"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "artifacts": {
+    "invites": [
+      "discord.gg/yVQQFb4QcX",
+      "discord.gg/jVHYKNC46m"
+    ],
+    "links": [],
+    "files": [
+      {
+        "name": "mzqO14Z.png",
+        "url": "https://cdn.discordapp.com/attachments/1392989653275246598/1393029122091122779/mzqO14Z.png?ex=68a51977&is=68a3c7f7&hm=f67fdf30d007957a01d1fb0fb48a05ef89fcbc2c81f83b234030dcff2fdd83bc&",
+        "size": 76200,
+        "type": "image/png",
+        "source": "attachment"
+      },
+      {
+        "name": "image.png",
+        "url": "https://cdn.discordapp.com/attachments/1392989653275246597/1393080490117824542/image.png?ex=68a5494f&is=68a3f7cf&hm=afaf27341246e4ee062491ce36a77a641d8dea0eb2a21657bea5942a5c23cca2&",
+        "size": 93673,
+        "type": "image/png",
+        "source": "attachment"
+      }
+    ],
+    "sensitive_terms": [],
+    "reactions": [
+      {
+        "count": 3,
+        "emoji": {
+          "name": "AUGHH",
+          "id": "1393029147277660250",
+          "animated": false,
+          "custom": true,
+          "url": "https://cdn.discordapp.com/emojis/1393029147277660250.png"
+        }
+      },
+      {
+        "count": 1,
+        "emoji": {
+          "name": "✅",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 8,
+        "emoji": {
+          "name": "🔥",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 10,
+        "emoji": {
+          "name": "✅",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 1,
+        "emoji": {
+          "name": "🇳",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 1,
+        "emoji": {
+          "name": "🇦",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 1,
+        "emoji": {
+          "name": "🇮",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 1,
+        "emoji": {
+          "name": "🇬",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 1,
+        "emoji": {
+          "name": "↪️",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 1,
+        "emoji": {
+          "name": "🇪",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 1,
+        "emoji": {
+          "name": "🇷",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 4,
+        "emoji": {
+          "name": "💀",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 9,
+        "emoji": {
+          "name": "💀",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 16,
+        "emoji": {
+          "name": "1️⃣",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 11,
+        "emoji": {
+          "name": "3️⃣",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 3,
+        "emoji": {
+          "name": "5️⃣",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 2,
+        "emoji": {
+          "name": "2️⃣",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 1,
+        "emoji": {
+          "name": "4️⃣",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 20,
+        "emoji": {
+          "name": "1️⃣",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 5,
+        "emoji": {
+          "name": "2️⃣",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 2,
+        "emoji": {
+          "name": "🇨",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 2,
+        "emoji": {
+          "name": "🇹",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 2,
+        "emoji": {
+          "name": "🇬",
+          "id": null,
+          "custom": false
+        }
+      },
+      {
+        "count": 3,
+        "emoji": {
+          "name": "troll",
+          "id": "1393051274848768090",
+          "animated": false,
+          "custom": true,
+          "url": "https://cdn.discordapp.com/emojis/1393051274848768090.png"
+        }
+      }
+    ]
+  },
+  "statistics": {
+    "activity": {},
+    "communication": {},
+    "risk_indicators": {}
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "created": "2025-08-19T07:41:12.815547",
+    "updated": "2025-08-19T07:41:16.654763",
+    "sources": [],
+    "tracking": false,
+    "last_merged": "2025-08-19T07:41:16.654763",
+    "message_count": 4,
+    "server_count": 0
+  },
+  "profile": {
+    "username": "",
+    "user_id": "1393037755931693268",
+    "avatar": "",
+    "created_at": "",
+    "bot": false,
+    "known_aliases": []
+  },
+  "messages": [
+    {
+      "id": "1393285838141653114",
+      "content": "Fire",
+      "author": "1393037755931693268",
+      "author_info": {
+        "name": "the.ikea_dinningtable7tnm#0",
+        "avatar": null,
+        "created_at": "2025-07-11T01:14:42.404000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "the.ikea_dinningtable7tnm"
+      },
+      "timestamp": "2025-07-11T17:40:29.812000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": true,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393377097761947779",
+      "content": "<:troll:1393051274848768090>",
+      "author": "1393037755931693268",
+      "author_info": {
+        "name": "the.ikea_dinningtable7tnm#0",
+        "avatar": null,
+        "created_at": "2025-07-11T01:14:42.404000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "the.ikea_dinningtable7tnm"
+      },
+      "timestamp": "2025-07-11T23:43:07.801000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393377072319168614",
+      "content": "YOU CANT STOP MEE",
+      "author": "1393037755931693268",
+      "author_info": {
+        "name": "the.ikea_dinningtable7tnm#0",
+        "avatar": null,
+        "created_at": "2025-07-11T01:14:42.404000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "the.ikea_dinningtable7tnm"
+      },
+      "timestamp": "2025-07-11T23:43:01.735000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393377048403116163",
+      "content": "I can still say stuff",
+      "author": "1393037755931693268",
+      "author_info": {
+        "name": "the.ikea_dinningtable7tnm#0",
+        "avatar": null,
+        "created_at": "2025-07-11T01:14:42.404000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "the.ikea_dinningtable7tnm"
+      },
+      "timestamp": "2025-07-11T23:42:56.033000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    }
+  ],
+  "artifacts": {
+    "invites": [],
+    "links": [],
+    "files": [],
+    "sensitive_terms": [],
+    "reactions": []
+  },
+  "statistics": {
+    "activity": {},
+    "communication": {},
+    "risk_indicators": {}
+  }
+}

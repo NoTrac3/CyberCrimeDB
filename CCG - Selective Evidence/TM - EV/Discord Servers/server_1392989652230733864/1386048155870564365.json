@@ -1,0 +1,357 @@
+{
+  "metadata": {
+    "created": "2025-08-19T07:41:10.549466",
+    "updated": "2025-08-19T07:41:14.656662",
+    "sources": [],
+    "tracking": false,
+    "last_merged": "2025-08-19T07:41:14.656662",
+    "message_count": 8,
+    "server_count": 0
+  },
+  "profile": {
+    "username": "",
+    "user_id": "1386048155870564365",
+    "avatar": "",
+    "created_at": "",
+    "bot": false,
+    "known_aliases": []
+  },
+  "messages": [
+    {
+      "id": "1393236610384134154",
+      "content": "Question of The Day - @​everyone \n------------------------------\n#3 what do we name the bot?\nAwnser in #aotd",
+      "author": "1386048155870564365",
+      "author_info": {
+        "name": "valak88.fbi#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1386048155870564365/5f7465f8a7431d81b6a7a9b7e56859e3.png?size=1024",
+        "created_at": "2025-06-21T18:20:31.889000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "╠𝚃𝙽𝙼╣ OogwayChad"
+      },
+      "timestamp": "2025-07-11T14:24:53+00:00",
+      "channel": {
+        "id": "1392989653677637817",
+        "name": "qotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 20,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "reactions": [
+          {
+            "count": 3,
+            "emoji": {
+              "name": "✅",
+              "id": null,
+              "custom": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1393289088546898110",
+      "content": "Here’s the backup",
+      "author": "1386048155870564365",
+      "author_info": {
+        "name": "valak88.fbi#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1386048155870564365/5f7465f8a7431d81b6a7a9b7e56859e3.png?size=1024",
+        "created_at": "2025-06-21T18:20:31.889000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "╠𝚃𝙽𝙼╣ OogwayChad"
+      },
+      "timestamp": "2025-07-11T17:53:24.769000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393289068762239057",
+      "content": "https://discord.gg/9Fb8gWuh @​everyone",
+      "author": "1386048155870564365",
+      "author_info": {
+        "name": "valak88.fbi#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1386048155870564365/5f7465f8a7431d81b6a7a9b7e56859e3.png?size=1024",
+        "created_at": "2025-06-21T18:20:31.889000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "╠𝚃𝙽𝙼╣ OogwayChad"
+      },
+      "timestamp": "2025-07-11T17:53:20.052000+00:00",
+      "channel": {
+        "id": "1392989653019398220",
+        "name": "》▏ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 4,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": true,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/9Fb8gWuh"
+        ]
+      }
+    },
+    {
+      "id": "1393300648950497310",
+      "content": "https://discord.gg/jVHYKNC46m",
+      "author": "1386048155870564365",
+      "author_info": {
+        "name": "valak88.fbi#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1386048155870564365/5f7465f8a7431d81b6a7a9b7e56859e3.png?size=1024",
+        "created_at": "2025-06-21T18:20:31.889000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "╠𝚃𝙽𝙼╣ OogwayChad"
+      },
+      "timestamp": "2025-07-11T18:39:20.984000+00:00",
+      "channel": {
+        "id": "1393300176818671697",
+        "name": "》▏ɴᴇᴛᴡᴏʀᴋ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 36,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/jVHYKNC46m"
+        ]
+      }
+    },
+    {
+      "id": "1393240830256353280",
+      "content": "Join [UKK](https://www.discord.gg/ukk) now!\nUKK aka united kingnites of the krown was revived by Valak on July 4th 2025\n———————————————————————\nWe are a anti degen discord server that does ekuns and diars atleast 4 times a week (after we reach 65 members)\n———————————————————————",
+      "author": "1386048155870564365",
+      "author_info": {
+        "name": "valak88.fbi#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1386048155870564365/5f7465f8a7431d81b6a7a9b7e56859e3.png?size=1024",
+        "created_at": "2025-06-21T18:20:31.889000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "╠𝚃𝙽𝙼╣ OogwayChad"
+      },
+      "timestamp": "2025-07-11T14:41:39.096000+00:00",
+      "channel": {
+        "id": "1392989653275246592",
+        "name": "》▏ᴀʟʟɪᴇꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 ❘🎖",
+        "position": 8,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/ukk"
+        ]
+      }
+    },
+    {
+      "id": "1396615323909750824",
+      "content": "What is ts",
+      "author": "1386048155870564365",
+      "author_info": {
+        "name": "valak88.fbi#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1386048155870564365/5f7465f8a7431d81b6a7a9b7e56859e3.png?size=1024",
+        "created_at": "2025-06-21T18:20:31.889000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "╠𝚃𝙽𝙼╣ OogwayChad"
+      },
+      "timestamp": "2025-07-20T22:10:41.078000+00:00",
+      "channel": {
+        "id": "1392989653677637814",
+        "name": "》▏ɢᴇɴᴇʀᴀʟ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 17,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [
+        {
+          "id": "1396615323637256222",
+          "filename": "IMG_2231.png",
+          "url": "https://cdn.discordapp.com/attachments/1392989653677637814/1396615323637256222/IMG_2231.png?ex=68a59f21&is=68a44da1&hm=54a63e77ad55aa45df96fdf0310673e8a0512054c80f622c472ad019787b0f75&",
+          "proxy_url": "https://media.discordapp.net/attachments/1392989653677637814/1396615323637256222/IMG_2231.png?ex=68a59f21&is=68a44da1&hm=54a63e77ad55aa45df96fdf0310673e8a0512054c80f622c472ad019787b0f75&",
+          "size": 260471,
+          "height": 1334,
+          "width": 750,
+          "content_type": "image/jpeg",
+          "is_spoiler": false,
+          "duration_sec": null,
+          "waveform": null
+        }
+      ],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "files": [
+          {
+            "name": "IMG_2231.png",
+            "url": "https://cdn.discordapp.com/attachments/1392989653677637814/1396615323637256222/IMG_2231.png?ex=68a59f21&is=68a44da1&hm=54a63e77ad55aa45df96fdf0310673e8a0512054c80f622c472ad019787b0f75&",
+            "size": 260471,
+            "type": "image/jpeg",
+            "source": "attachment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1393569509159206955",
+      "content": "Wsg karma",
+      "author": "1386048155870564365",
+      "author_info": {
+        "name": "valak88.fbi#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1386048155870564365/5f7465f8a7431d81b6a7a9b7e56859e3.png?size=1024",
+        "created_at": "2025-06-21T18:20:31.889000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "╠𝚃𝙽𝙼╣ OogwayChad"
+      },
+      "timestamp": "2025-07-12T12:27:42.253000+00:00",
+      "channel": {
+        "id": "1392989653677637814",
+        "name": "》▏ɢᴇɴᴇʀᴀʟ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 17,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393569499525156926",
+      "content": "@╠𝚃𝙽𝙼╣ Karma",
+      "author": "1386048155870564365",
+      "author_info": {
+        "name": "valak88.fbi#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1386048155870564365/5f7465f8a7431d81b6a7a9b7e56859e3.png?size=1024",
+        "created_at": "2025-06-21T18:20:31.889000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "╠𝚃𝙽𝙼╣ OogwayChad"
+      },
+      "timestamp": "2025-07-12T12:27:39.956000+00:00",
+      "channel": {
+        "id": "1392989653677637814",
+        "name": "》▏ɢᴇɴᴇʀᴀʟ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 17,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    }
+  ],
+  "artifacts": {
+    "invites": [
+      "discord.gg/9Fb8gWuh",
+      "discord.gg/jVHYKNC46m",
+      "discord.gg/ukk"
+    ],
+    "links": [],
+    "files": [
+      {
+        "name": "IMG_2231.png",
+        "url": "https://cdn.discordapp.com/attachments/1392989653677637814/1396615323637256222/IMG_2231.png?ex=68a59f21&is=68a44da1&hm=54a63e77ad55aa45df96fdf0310673e8a0512054c80f622c472ad019787b0f75&",
+        "size": 260471,
+        "type": "image/jpeg",
+        "source": "attachment"
+      }
+    ],
+    "sensitive_terms": [],
+    "reactions": [
+      {
+        "count": 3,
+        "emoji": {
+          "name": "✅",
+          "id": null,
+          "custom": false
+        }
+      }
+    ]
+  },
+  "statistics": {
+    "activity": {},
+    "communication": {},
+    "risk_indicators": {}
+  }
+}

@@ -1,0 +1,667 @@
+{
+  "metadata": {
+    "created": "2025-08-19T07:41:09.541552",
+    "updated": "2025-08-19T07:41:16.282832",
+    "sources": [],
+    "tracking": false,
+    "last_merged": "2025-08-19T07:41:16.282832",
+    "message_count": 18,
+    "server_count": 0
+  },
+  "profile": {
+    "username": "",
+    "user_id": "1401389195662200943",
+    "avatar": "",
+    "created_at": "",
+    "bot": false,
+    "known_aliases": []
+  },
+  "messages": [
+    {
+      "id": "1406570420542378114",
+      "content": "@[𝗜𝗜] 𝐕𝐈𝐏 @[𝗜] 𝐄𝐧𝐥𝐢𝐬𝐭𝐞𝐝  @​everyone https://discord.gg/ET6m68jb",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-17T09:28:41.072000+00:00",
+      "channel": {
+        "id": "1392989653677637820",
+        "name": "》▏ʙᴜᴍᴘ",
+        "category": "🎖❘ 𝗕𝗼𝘁 ✠ 𝗦𝗲𝗰𝘁𝗼𝗿 ❘🎖",
+        "position": 22,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/ET6m68jb"
+        ]
+      }
+    },
+    {
+      "id": "1406570410367254581",
+      "content": "@[𝗜𝗜] 𝐕𝐈𝐏 @[𝗜] 𝐄𝐧𝐥𝐢𝐬𝐭𝐞𝐝  @​everyone https://discord.gg/ET6m68jb",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-17T09:28:38.646000+00:00",
+      "channel": {
+        "id": "1392989653677637820",
+        "name": "》▏ʙᴜᴍᴘ",
+        "category": "🎖❘ 𝗕𝗼𝘁 ✠ 𝗦𝗲𝗰𝘁𝗼𝗿 ❘🎖",
+        "position": 22,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/ET6m68jb"
+        ]
+      }
+    },
+    {
+      "id": "1406570400090947755",
+      "content": "@[𝗜𝗜] 𝐕𝐈𝐏 @[𝗜] 𝐄𝐧𝐥𝐢𝐬𝐭𝐞𝐝  @​everyone https://discord.gg/ET6m68jb",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-17T09:28:36.196000+00:00",
+      "channel": {
+        "id": "1392989653677637820",
+        "name": "》▏ʙᴜᴍᴘ",
+        "category": "🎖❘ 𝗕𝗼𝘁 ✠ 𝗦𝗲𝗰𝘁𝗼𝗿 ❘🎖",
+        "position": 22,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/ET6m68jb"
+        ]
+      }
+    },
+    {
+      "id": "1406570391253684335",
+      "content": "@[𝗜𝗜] 𝐕𝐈𝐏 @[𝗜] 𝐄𝐧𝐥𝐢𝐬𝐭𝐞𝐝  @​everyone https://discord.gg/ET6m68jb",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-17T09:28:34.089000+00:00",
+      "channel": {
+        "id": "1392989653677637820",
+        "name": "》▏ʙᴜᴍᴘ",
+        "category": "🎖❘ 𝗕𝗼𝘁 ✠ 𝗦𝗲𝗰𝘁𝗼𝗿 ❘🎖",
+        "position": 22,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/ET6m68jb"
+        ]
+      }
+    },
+    {
+      "id": "1406570224660123699",
+      "content": "https://discord.gg/ET6m68jb",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-17T09:27:54.370000+00:00",
+      "channel": {
+        "id": "1392989653677637820",
+        "name": "》▏ʙᴜᴍᴘ",
+        "category": "🎖❘ 𝗕𝗼𝘁 ✠ 𝗦𝗲𝗰𝘁𝗼𝗿 ❘🎖",
+        "position": 22,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/ET6m68jb"
+        ]
+      }
+    },
+    {
+      "id": "1406569916794142780",
+      "content": "MOVE TO https://discord.gg/ET6m68jb",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-17T09:26:40.969000+00:00",
+      "channel": {
+        "id": "1392989653677637815",
+        "name": "》▏ᴍᴇᴍᴇꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 18,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/ET6m68jb"
+        ]
+      }
+    },
+    {
+      "id": "1406569879607185408",
+      "content": "MIGRATE TO https://discord.gg/ET6m68jb",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-17T09:26:32.103000+00:00",
+      "channel": {
+        "id": "1392989653677637815",
+        "name": "》▏ᴍᴇᴍᴇꜱ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 18,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/ET6m68jb"
+        ]
+      }
+    },
+    {
+      "id": "1406570174932586547",
+      "content": "https://discord.gg/ET6m68jb TNM",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-17T09:27:42.514000+00:00",
+      "channel": {
+        "id": "1392989653677637817",
+        "name": "qotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 20,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/ET6m68jb"
+        ]
+      }
+    },
+    {
+      "id": "1406570631276794018",
+      "content": "@[𝗜𝗜] 𝐕𝐈𝐏 @[𝗜] 𝐄𝐧𝐥𝐢𝐬𝐭𝐞𝐝  @​everyone https://discord.gg/ET6m68jb",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-17T09:29:31.315000+00:00",
+      "channel": {
+        "id": "1392989653870579883",
+        "name": "》▏ʙᴏᴛ-ᴄᴏᴍᴍᴀɴᴅs",
+        "category": "🎖❘ 𝗕𝗼𝘁 ✠ 𝗦𝗲𝗰𝘁𝗼𝗿 ❘🎖",
+        "position": 25,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/ET6m68jb"
+        ]
+      }
+    },
+    {
+      "id": "1406570622867341313",
+      "content": "@[𝗜𝗜] 𝐕𝐈𝐏 @[𝗜] 𝐄𝐧𝐥𝐢𝐬𝐭𝐞𝐝  @​everyone https://discord.gg/ET6m68jb",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-17T09:29:29.310000+00:00",
+      "channel": {
+        "id": "1392989653870579883",
+        "name": "》▏ʙᴏᴛ-ᴄᴏᴍᴍᴀɴᴅs",
+        "category": "🎖❘ 𝗕𝗼𝘁 ✠ 𝗦𝗲𝗰𝘁𝗼𝗿 ❘🎖",
+        "position": 25,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/ET6m68jb"
+        ]
+      }
+    },
+    {
+      "id": "1406570123489181766",
+      "content": "move to it",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-17T09:27:30.249000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1406570102274658305",
+      "content": "https://discord.gg/ET6m68jb",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-17T09:27:25.191000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/ET6m68jb"
+        ]
+      }
+    },
+    {
+      "id": "1406570091948281856",
+      "content": "https://discord.gg/ET6m68jb",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-17T09:27:22.729000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/ET6m68jb"
+        ]
+      }
+    },
+    {
+      "id": "1406570083685503047",
+      "content": "https://discord.gg/ET6m68jb",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-17T09:27:20.759000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/ET6m68jb"
+        ]
+      }
+    },
+    {
+      "id": "1406570072230727680",
+      "content": "https://discord.gg/ET6m68jb",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-17T09:27:18.028000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/ET6m68jb"
+        ]
+      }
+    },
+    {
+      "id": "1405028916472582266",
+      "content": "no ine has perms bro",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-13T03:23:17.862000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1405028106284040333",
+      "content": "who tf has perms in beta",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-13T03:20:04.698000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1405028083727073323",
+      "content": "@debator12. do we switch to trhis no",
+      "author": "1401389195662200943",
+      "author_info": {
+        "name": "qq.xan#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1401389195662200943/ce5e9dba95affc2671477e03119a9203.png?size=1024",
+        "created_at": "2025-08-03T02:20:20.798000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "qq.xan"
+      },
+      "timestamp": "2025-08-13T03:19:59.320000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    }
+  ],
+  "artifacts": {
+    "invites": [
+      "discord.gg/ET6m68jb"
+    ],
+    "links": [],
+    "files": [],
+    "sensitive_terms": [],
+    "reactions": []
+  },
+  "statistics": {
+    "activity": {},
+    "communication": {},
+    "risk_indicators": {}
+  }
+}

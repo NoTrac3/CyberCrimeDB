@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "created": "2025-08-19T07:41:09.217485",
+    "updated": "2025-08-19T07:41:09.351726",
+    "sources": [],
+    "tracking": false,
+    "last_merged": "2025-08-19T07:41:09.351726",
+    "message_count": 4,
+    "server_count": 0
+  },
+  "profile": {
+    "username": "",
+    "user_id": "1392696207280963636",
+    "avatar": "",
+    "created_at": "",
+    "bot": false,
+    "known_aliases": []
+  },
+  "messages": [
+    {
+      "id": "1405049010921668609",
+      "content": "Permanent invite",
+      "author": "1392696207280963636",
+      "author_info": {
+        "name": "debator12.#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392696207280963636/190980e9356d5f2387fb60c2e31f112a.png?size=1024",
+        "created_at": "2025-07-10T02:37:30.860000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "debator12."
+      },
+      "timestamp": "2025-08-13T04:43:08.752000+00:00",
+      "channel": {
+        "id": "1393298755931082978",
+        "name": "join-tnm",
+        "category": "<< NETWORK >>",
+        "position": 0,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1393298755931082975",
+        "name": "╠𝚃𝙽𝙼╣ Militia Network (currently limited)",
+        "member_count": 216
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1405048998590677055",
+      "content": "https://discord.gg/NHQYFGRg4D",
+      "author": "1392696207280963636",
+      "author_info": {
+        "name": "debator12.#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392696207280963636/190980e9356d5f2387fb60c2e31f112a.png?size=1024",
+        "created_at": "2025-07-10T02:37:30.860000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "debator12."
+      },
+      "timestamp": "2025-08-13T04:43:05.812000+00:00",
+      "channel": {
+        "id": "1393298755931082978",
+        "name": "join-tnm",
+        "category": "<< NETWORK >>",
+        "position": 0,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1393298755931082975",
+        "name": "╠𝚃𝙽𝙼╣ Militia Network (currently limited)",
+        "member_count": 216
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/NHQYFGRg4D"
+        ]
+      }
+    },
+    {
+      "id": "1405043392953712641",
+      "content": "Join fr",
+      "author": "1392696207280963636",
+      "author_info": {
+        "name": "debator12.#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392696207280963636/190980e9356d5f2387fb60c2e31f112a.png?size=1024",
+        "created_at": "2025-07-10T02:37:30.860000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "debator12."
+      },
+      "timestamp": "2025-08-13T04:20:49.324000+00:00",
+      "channel": {
+        "id": "1393298755931082978",
+        "name": "join-tnm",
+        "category": "<< NETWORK >>",
+        "position": 0,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1393298755931082975",
+        "name": "╠𝚃𝙽𝙼╣ Militia Network (currently limited)",
+        "member_count": 216
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1405043338398142514",
+      "content": "@​everyone https://discord.gg/sFANhNnx",
+      "author": "1392696207280963636",
+      "author_info": {
+        "name": "debator12.#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392696207280963636/190980e9356d5f2387fb60c2e31f112a.png?size=1024",
+        "created_at": "2025-07-10T02:37:30.860000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "debator12."
+      },
+      "timestamp": "2025-08-13T04:20:36.317000+00:00",
+      "channel": {
+        "id": "1393298755931082978",
+        "name": "join-tnm",
+        "category": "<< NETWORK >>",
+        "position": 0,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1393298755931082975",
+        "name": "╠𝚃𝙽𝙼╣ Militia Network (currently limited)",
+        "member_count": 216
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/sFANhNnx"
+        ]
+      }
+    }
+  ],
+  "artifacts": {
+    "invites": [
+      "discord.gg/NHQYFGRg4D",
+      "discord.gg/sFANhNnx"
+    ],
+    "links": [],
+    "files": [],
+    "sensitive_terms": [],
+    "reactions": []
+  },
+  "statistics": {
+    "activity": {},
+    "communication": {},
+    "risk_indicators": {}
+  }
+}

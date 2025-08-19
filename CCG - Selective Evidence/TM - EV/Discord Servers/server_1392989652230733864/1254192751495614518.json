@@ -1,0 +1,385 @@
+{
+  "metadata": {
+    "created": "2025-08-19T07:41:15.392522",
+    "updated": "2025-08-19T07:41:15.977314",
+    "sources": [],
+    "tracking": false,
+    "last_merged": "2025-08-19T07:41:15.977314",
+    "message_count": 11,
+    "server_count": 0
+  },
+  "profile": {
+    "username": "",
+    "user_id": "1254192751495614518",
+    "avatar": "",
+    "created_at": "",
+    "bot": false,
+    "known_aliases": []
+  },
+  "messages": [
+    {
+      "id": "1405029980026441819",
+      "content": "Goodnight chat",
+      "author": "1254192751495614518",
+      "author_info": {
+        "name": "ikea.dinningtable#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1254192751495614518/d5edab247932ecae2c0d96cf29079e0d.png?size=1024",
+        "created_at": "2024-06-22T21:54:13.731000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "ikea.dinningtable"
+      },
+      "timestamp": "2025-08-13T03:27:31.433000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1405029959692456069",
+      "content": "Ima go to bed aswell",
+      "author": "1254192751495614518",
+      "author_info": {
+        "name": "ikea.dinningtable#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1254192751495614518/d5edab247932ecae2c0d96cf29079e0d.png?size=1024",
+        "created_at": "2024-06-22T21:54:13.731000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "ikea.dinningtable"
+      },
+      "timestamp": "2025-08-13T03:27:26.585000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1405029923915300985",
+      "content": "My phone is at 1 percent",
+      "author": "1254192751495614518",
+      "author_info": {
+        "name": "ikea.dinningtable#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1254192751495614518/d5edab247932ecae2c0d96cf29079e0d.png?size=1024",
+        "created_at": "2024-06-22T21:54:13.731000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "ikea.dinningtable"
+      },
+      "timestamp": "2025-08-13T03:27:18.055000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1405029681408901221",
+      "content": "All are different users",
+      "author": "1254192751495614518",
+      "author_info": {
+        "name": "ikea.dinningtable#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1254192751495614518/d5edab247932ecae2c0d96cf29079e0d.png?size=1024",
+        "created_at": "2024-06-22T21:54:13.731000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "ikea.dinningtable"
+      },
+      "timestamp": "2025-08-13T03:26:20.237000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1405029625339445409",
+      "content": "@ikea.dinningtable6",
+      "author": "1254192751495614518",
+      "author_info": {
+        "name": "ikea.dinningtable#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1254192751495614518/d5edab247932ecae2c0d96cf29079e0d.png?size=1024",
+        "created_at": "2024-06-22T21:54:13.731000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "ikea.dinningtable"
+      },
+      "timestamp": "2025-08-13T03:26:06.869000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1405029605961895946",
+      "content": "@ikea.dinningtable",
+      "author": "1254192751495614518",
+      "author_info": {
+        "name": "ikea.dinningtable#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1254192751495614518/d5edab247932ecae2c0d96cf29079e0d.png?size=1024",
+        "created_at": "2024-06-22T21:54:13.731000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "ikea.dinningtable"
+      },
+      "timestamp": "2025-08-13T03:26:02.249000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1405029592502374584",
+      "content": "@the.ikea_dinningtable7tnm",
+      "author": "1254192751495614518",
+      "author_info": {
+        "name": "ikea.dinningtable#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1254192751495614518/d5edab247932ecae2c0d96cf29079e0d.png?size=1024",
+        "created_at": "2024-06-22T21:54:13.731000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "ikea.dinningtable"
+      },
+      "timestamp": "2025-08-13T03:25:59.040000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1405029475803988038",
+      "content": "Like yalls roles",
+      "author": "1254192751495614518",
+      "author_info": {
+        "name": "ikea.dinningtable#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1254192751495614518/d5edab247932ecae2c0d96cf29079e0d.png?size=1024",
+        "created_at": "2024-06-22T21:54:13.731000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "ikea.dinningtable"
+      },
+      "timestamp": "2025-08-13T03:25:31.217000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1405029451279892541",
+      "content": "Then ill handle everything else",
+      "author": "1254192751495614518",
+      "author_info": {
+        "name": "ikea.dinningtable#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1254192751495614518/d5edab247932ecae2c0d96cf29079e0d.png?size=1024",
+        "created_at": "2024-06-22T21:54:13.731000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "ikea.dinningtable"
+      },
+      "timestamp": "2025-08-13T03:25:25.370000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1405029404094107719",
+      "content": "Im asking debator for my roles",
+      "author": "1254192751495614518",
+      "author_info": {
+        "name": "ikea.dinningtable#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1254192751495614518/d5edab247932ecae2c0d96cf29079e0d.png?size=1024",
+        "created_at": "2024-06-22T21:54:13.731000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "ikea.dinningtable"
+      },
+      "timestamp": "2025-08-13T03:25:14.120000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1405029064359674052",
+      "content": "Hello chat",
+      "author": "1254192751495614518",
+      "author_info": {
+        "name": "ikea.dinningtable#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1254192751495614518/d5edab247932ecae2c0d96cf29079e0d.png?size=1024",
+        "created_at": "2024-06-22T21:54:13.731000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "ikea.dinningtable"
+      },
+      "timestamp": "2025-08-13T03:23:53.121000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    }
+  ],
+  "artifacts": {
+    "invites": [],
+    "links": [],
+    "files": [],
+    "sensitive_terms": [],
+    "reactions": []
+  },
+  "statistics": {
+    "activity": {},
+    "communication": {},
+    "risk_indicators": {}
+  }
+}

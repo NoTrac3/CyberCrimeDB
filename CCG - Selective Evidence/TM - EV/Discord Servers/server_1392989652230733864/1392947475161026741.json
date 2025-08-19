@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "created": "2025-08-19T07:41:10.990928",
+    "updated": "2025-08-19T07:41:11.807495",
+    "sources": [],
+    "tracking": false,
+    "last_merged": "2025-08-19T07:41:11.807495",
+    "message_count": 3,
+    "server_count": 0
+  },
+  "profile": {
+    "username": "",
+    "user_id": "1392947475161026741",
+    "avatar": "",
+    "created_at": "",
+    "bot": false,
+    "known_aliases": []
+  },
+  "messages": [
+    {
+      "id": "1393063859111071804",
+      "content": "@​here whats wrong with the announcrment lmfaoo",
+      "author": "1392947475161026741",
+      "author_info": {
+        "name": "uetr_enclave#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392947475161026741/0d4980e2b5239d45472f61083458e5ff.png?size=1024",
+        "created_at": "2025-07-10T19:15:57.791000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "uetr_enclave"
+      },
+      "timestamp": "2025-07-11T02:58:25.887000+00:00",
+      "channel": {
+        "id": "1392989653275246598",
+        "name": "》▏ʜᴀʟʟ-ᴏꜰ-ꜱʜᴀᴍᴇ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗕𝗶𝗹𝗹𝗯𝗼𝗮𝗿𝗱 ❘🎖",
+        "position": 13,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [
+        {
+          "id": "1393063858708680916",
+          "filename": "IMG_6849.png",
+          "url": "https://cdn.discordapp.com/attachments/1392989653275246598/1393063858708680916/IMG_6849.png?ex=68a539d1&is=68a3e851&hm=1c71153f6c8e98f5c0a857d14ab93580de46cb3a08dcb70ca76b739df9d0b365&",
+          "proxy_url": "https://media.discordapp.net/attachments/1392989653275246598/1393063858708680916/IMG_6849.png?ex=68a539d1&is=68a3e851&hm=1c71153f6c8e98f5c0a857d14ab93580de46cb3a08dcb70ca76b739df9d0b365&",
+          "size": 494626,
+          "height": 2532,
+          "width": 1170,
+          "content_type": "image/jpeg",
+          "is_spoiler": false,
+          "duration_sec": null,
+          "waveform": null
+        }
+      ],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "files": [
+          {
+            "name": "IMG_6849.png",
+            "url": "https://cdn.discordapp.com/attachments/1392989653275246598/1393063858708680916/IMG_6849.png?ex=68a539d1&is=68a3e851&hm=1c71153f6c8e98f5c0a857d14ab93580de46cb3a08dcb70ca76b739df9d0b365&",
+            "size": 494626,
+            "type": "image/jpeg",
+            "source": "attachment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1393082680333172838",
+      "content": "be thankful i got u lots of members",
+      "author": "1392947475161026741",
+      "author_info": {
+        "name": "uetr_enclave#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392947475161026741/0d4980e2b5239d45472f61083458e5ff.png?size=1024",
+        "created_at": "2025-07-10T19:15:57.791000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "uetr_enclave"
+      },
+      "timestamp": "2025-07-11T04:13:13.216000+00:00",
+      "channel": {
+        "id": "1392989653275246597",
+        "name": "》▏ʜᴀʟʟ-ᴏꜰ-ꜰᴀᴍᴇ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗕𝗶𝗹𝗹𝗯𝗼𝗮𝗿𝗱 ❘🎖",
+        "position": 12,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1392999104958955601",
+      "content": "",
+      "author": "1392947475161026741",
+      "author_info": {
+        "name": "uetr_enclave#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1392947475161026741/0d4980e2b5239d45472f61083458e5ff.png?size=1024",
+        "created_at": "2025-07-10T19:15:57.791000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "uetr_enclave"
+      },
+      "timestamp": "2025-07-10T22:41:07.294000+00:00",
+      "channel": {
+        "id": "1392989653275246597",
+        "name": "》▏ʜᴀʟʟ-ᴏꜰ-ꜰᴀᴍᴇ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗕𝗶𝗹𝗹𝗯𝗼𝗮𝗿𝗱 ❘🎖",
+        "position": 12,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [
+        {
+          "id": "1392999104564564059",
+          "filename": "voice-message.ogg",
+          "url": "https://cdn.discordapp.com/attachments/1392989653275246597/1392999104564564059/voice-message.ogg?ex=68a4fd83&is=68a3ac03&hm=5afd36472a956ed0c01695c904a1570e025467c88bee85372a035d96f46063b4&",
+          "proxy_url": "https://media.discordapp.net/attachments/1392989653275246597/1392999104564564059/voice-message.ogg?ex=68a4fd83&is=68a3ac03&hm=5afd36472a956ed0c01695c904a1570e025467c88bee85372a035d96f46063b4&",
+          "size": 32287,
+          "height": null,
+          "width": null,
+          "content_type": "audio/ogg",
+          "is_spoiler": false,
+          "duration_sec": null,
+          "waveform": null
+        }
+      ],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "files": [
+          {
+            "name": "voice-message.ogg",
+            "url": "https://cdn.discordapp.com/attachments/1392989653275246597/1392999104564564059/voice-message.ogg?ex=68a4fd83&is=68a3ac03&hm=5afd36472a956ed0c01695c904a1570e025467c88bee85372a035d96f46063b4&",
+            "size": 32287,
+            "type": "audio/ogg",
+            "source": "attachment"
+          }
+        ],
+        "reactions": [
+          {
+            "count": 2,
+            "emoji": {
+              "name": "🔥",
+              "id": null,
+              "custom": false
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "artifacts": {
+    "invites": [],
+    "links": [],
+    "files": [
+      {
+        "name": "IMG_6849.png",
+        "url": "https://cdn.discordapp.com/attachments/1392989653275246598/1393063858708680916/IMG_6849.png?ex=68a539d1&is=68a3e851&hm=1c71153f6c8e98f5c0a857d14ab93580de46cb3a08dcb70ca76b739df9d0b365&",
+        "size": 494626,
+        "type": "image/jpeg",
+        "source": "attachment"
+      },
+      {
+        "name": "voice-message.ogg",
+        "url": "https://cdn.discordapp.com/attachments/1392989653275246597/1392999104564564059/voice-message.ogg?ex=68a4fd83&is=68a3ac03&hm=5afd36472a956ed0c01695c904a1570e025467c88bee85372a035d96f46063b4&",
+        "size": 32287,
+        "type": "audio/ogg",
+        "source": "attachment"
+      }
+    ],
+    "sensitive_terms": [],
+    "reactions": [
+      {
+        "count": 2,
+        "emoji": {
+          "name": "🔥",
+          "id": null,
+          "custom": false
+        }
+      }
+    ]
+  },
+  "statistics": {
+    "activity": {},
+    "communication": {},
+    "risk_indicators": {}
+  }
+}

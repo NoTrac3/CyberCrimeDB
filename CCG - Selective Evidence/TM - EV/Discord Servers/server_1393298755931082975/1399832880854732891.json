@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "created": "2025-08-19T07:41:09.433420",
+    "updated": "2025-08-19T07:41:09.433464",
+    "sources": [],
+    "tracking": false,
+    "last_merged": "2025-08-19T07:41:09.433464",
+    "message_count": 1,
+    "server_count": 0
+  },
+  "profile": {
+    "username": "",
+    "user_id": "1399832880854732891",
+    "avatar": "",
+    "created_at": "",
+    "bot": false,
+    "known_aliases": []
+  },
+  "messages": [
+    {
+      "id": "1402492524035309703",
+      "content": "@​everyone|@​here\n```diff\n- #Welcome to the universal union\n```\n\n```ansi\n\u001b[2;40m# History\u001b[0m\n\u001b[2;40m__\u001b[0m\n\u001b[2;31mThe Universal Union brought to the world thanks to the benefactors of the Citadel of RSC.\u001b[0m\n\n\u001b[2;40m# Purpose\u001b[0m\n\u001b[2;40m__\u001b[0m\n\u001b[2;31m-We are a united group with the focus of uniting humanity or the largest amount of human/thinking beings.\n-Our purpose, the purpose of the Universal Union can be described as UAP\n-\n-#Unite: to unite the largest amount of factions and individuals to the Universal Union\n-\n-#Assimilate: to make everything a part of us, places, websites, people, resources, technology, software, knowledge, etc.\n-\n-#Progress: this is the main focus of the Universal Union and the Citadel, with this we mean progress in the development of new technologies and programs as well as mutual support for the species and the point of our history to our borders and territories.\n\nWhat we offer\u001b[0m\n\u001b[2;40m------------------------\u001b[0m\n\u001b[2;31mWe offer\n\nprivileged information such as databases, doxes, classified documents, leaks, etc.\n\nTechnology, our technology has never had limitations since its creation, in addition to innovation.\ntypes of software created, OSINT, DDOS, IP HIDDING, BOTNET, ENCRYPTATION, RAIDS, SELFBOTS among others\n\nsupport of attacks, we among all the groups have more than 200 members who are willing to be commanded in raids or attacks.\u001b[0m\n```\n----------------------------------------------\n\nUniversal Union the only true path to the path of progress and union\nbecause everything is governed by logical thinking and we are that\n\ncognito ergo sum- I think therefore I am\nastra per aspera\ndiscord ꕺ𒀖[Universal union server](https://discord.gg/qyzQB7UB5h)\nꕺ𒀖[Universal Union website](https://rsc-site.neocities.org)\nꕺ𒀖[Universal Union telegram](https://t.me/UniversalUnionGroup/)",
+      "author": "1399832880854732891",
+      "author_info": {
+        "name": "debator.tnm#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1399832880854732891/190980e9356d5f2387fb60c2e31f112a.png?size=1024",
+        "created_at": "2025-07-29T19:16:06.433000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "debator.tnm"
+      },
+      "timestamp": "2025-08-06T03:24:34.781000+00:00",
+      "channel": {
+        "id": "1402492254589030420",
+        "name": "⟬universal-union⟭-⟬ꕺ𒀖⟭",
+        "category": "<< Memberstates",
+        "position": 9,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1393298755931082975",
+        "name": "╠𝚃𝙽𝙼╣ Militia Network (currently limited)",
+        "member_count": 216
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {
+        "invites": [
+          "discord.gg/qyzQB7UB5h"
+        ]
+      }
+    }
+  ],
+  "artifacts": {
+    "invites": [
+      "discord.gg/qyzQB7UB5h"
+    ],
+    "links": [],
+    "files": [],
+    "sensitive_terms": [],
+    "reactions": []
+  },
+  "statistics": {
+    "activity": {},
+    "communication": {},
+    "risk_indicators": {}
+  }
+}

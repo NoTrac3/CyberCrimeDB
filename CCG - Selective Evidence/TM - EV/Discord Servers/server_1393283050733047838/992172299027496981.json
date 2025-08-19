@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "created": "2025-08-19T07:41:07.295166",
+    "updated": "2025-08-19T07:41:08.370157",
+    "sources": [],
+    "tracking": false,
+    "last_merged": "2025-08-19T07:41:08.370157",
+    "message_count": 2,
+    "server_count": 0
+  },
+  "profile": {
+    "username": "",
+    "user_id": "992172299027496981",
+    "avatar": "",
+    "created_at": "",
+    "bot": false,
+    "known_aliases": []
+  },
+  "messages": [
+    {
+      "id": "1394380088770035905",
+      "content": "um",
+      "author": "992172299027496981",
+      "author_info": {
+        "name": "sanityth12#0",
+        "avatar": "https://cdn.discordapp.com/avatars/992172299027496981/0bb0659f0ad48ad8cc2ee6b278350710.png?size=1024",
+        "created_at": "2022-06-30T20:58:29.758000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sanityth12"
+      },
+      "timestamp": "2025-07-14T18:08:39.492000+00:00",
+      "channel": {
+        "id": "1393283052343656540",
+        "name": "》▏ɢᴇɴᴇʀᴀʟ",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1393283050733047838",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅 ᶜᴴᴬᴿᴸᴵᴱ",
+        "member_count": 43
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1394404532217184366",
+      "content": "😭 ??",
+      "author": "992172299027496981",
+      "author_info": {
+        "name": "sanityth12#0",
+        "avatar": "https://cdn.discordapp.com/avatars/992172299027496981/0bb0659f0ad48ad8cc2ee6b278350710.png?size=1024",
+        "created_at": "2022-06-30T20:58:29.758000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "sanityth12"
+      },
+      "timestamp": "2025-07-14T19:45:47.264000+00:00",
+      "channel": {
+        "id": "1393283052611829780",
+        "name": "》▏ʙᴏᴛ-ᴄᴏᴍᴍᴀɴᴅs",
+        "category": "🎖❘ 𝗕𝗼𝘁 ✠ 𝗦𝗲𝗰𝘁𝗼𝗿 ❘🎖",
+        "position": 30,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1393283050733047838",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅 ᶜᴴᴬᴿᴸᴵᴱ",
+        "member_count": 43
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    }
+  ],
+  "artifacts": {
+    "invites": [],
+    "links": [],
+    "files": [],
+    "sensitive_terms": [],
+    "reactions": []
+  },
+  "statistics": {
+    "activity": {},
+    "communication": {},
+    "risk_indicators": {}
+  }
+}

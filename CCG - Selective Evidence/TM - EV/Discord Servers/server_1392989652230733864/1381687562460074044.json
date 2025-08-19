@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "created": "2025-08-19T07:41:16.361499",
+    "updated": "2025-08-19T07:41:16.401288",
+    "sources": [],
+    "tracking": false,
+    "last_merged": "2025-08-19T07:41:16.401288",
+    "message_count": 2,
+    "server_count": 0
+  },
+  "profile": {
+    "username": "",
+    "user_id": "1381687562460074044",
+    "avatar": "",
+    "created_at": "",
+    "bot": false,
+    "known_aliases": []
+  },
+  "messages": [
+    {
+      "id": "1393891346481414155",
+      "content": "losers",
+      "author": "1381687562460074044",
+      "author_info": {
+        "name": "slaughterhil#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1381687562460074044/69e219f082cf20f9024a1778094d9317.png?size=1024",
+        "created_at": "2025-06-09T17:33:05.404000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "slaughterhil"
+      },
+      "timestamp": "2025-07-13T09:46:34.250000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    },
+    {
+      "id": "1393891336872267876",
+      "content": "bruh everyone join the new server",
+      "author": "1381687562460074044",
+      "author_info": {
+        "name": "slaughterhil#0",
+        "avatar": "https://cdn.discordapp.com/avatars/1381687562460074044/69e219f082cf20f9024a1778094d9317.png?size=1024",
+        "created_at": "2025-06-09T17:33:05.404000+00:00",
+        "bot": false,
+        "discriminator": "0",
+        "display_name": "slaughterhil"
+      },
+      "timestamp": "2025-07-13T09:46:31.959000+00:00",
+      "channel": {
+        "id": "1392989653677637818",
+        "name": "aotd",
+        "category": "🎖❘ 𝗠𝗶𝗹𝗶𝘁𝗶𝗮 ✠ 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 ❘🎖",
+        "position": 21,
+        "nsfw": false
+      },
+      "server": {
+        "id": "1392989652230733864",
+        "name": "╠𝚃𝙽𝙼╣ | 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 🏅ᴬᴸᴾᴴᴬ",
+        "member_count": 70
+      },
+      "attachments": [],
+      "edited": false,
+      "pinned": false,
+      "deleted": false,
+      "source": "active_scan",
+      "artifacts": {}
+    }
+  ],
+  "artifacts": {
+    "invites": [],
+    "links": [],
+    "files": [],
+    "sensitive_terms": [],
+    "reactions": []
+  },
+  "statistics": {
+    "activity": {},
+    "communication": {},
+    "risk_indicators": {}
+  }
+}
