@@ -64,7 +64,7 @@ power is not in their current capabilities, which are minimal, but in their
 persistent ideology and potential for recruitment.
 
 However, their complete lack of operational security (OPSEC) makes them
-critically vulnerable. I walked through every server unchallenged. They are
+critically vulnerable. m77u1n walked through every server unchallenged. They are
 a talking shop, not a threat—but a talking shop that can still radicalize.
 
 ```
