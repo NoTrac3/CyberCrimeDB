@@ -51,6 +51,10 @@ CONFIRMED HIERARCHY:
         ↳ [Δ] Multiple "TaverN" style servers (recruitment fronts)
         ↳ [Δ] Synisterria Cult
         ↳ [Δ] Las Vegas Server (media/propaganda wing)
+
+OPERATIONAL STATUS: The network is largely stagnant ("limited or inactive").
+   Their activity is a facade. The Petorian Tavern, however, showed significant
+   historical data (12,268 messages, 852 files), indicating it was a former hub.
 ```
 
         𝕻𝖚𝖇𝖑𝖎𝖈  𝕴𝖓𝖙𝖊𝖑𝖑𝖎𝖌𝖊𝖓𝖈𝖊 𝕹𝖔𝖙𝖎𝖈𝖊
