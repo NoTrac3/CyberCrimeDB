@@ -2,7 +2,7 @@
 This repository will be one of few receiving continued updates. 
 FOR COMPLETE EVIDENCE REQUEST: Please reach us through our website or join our Discord server:  [```DISCORD COMMUNITY SERVER```](https://discord.gg/GEpEzNjAUh)
 
-## OPERATION IRONFALL: TARGET GROUP COMISSION REPORT
+## OPERATION IRONFALL: TARGET GROUP LOG REPORT
 __DATE: 2025-08-09  | SOURCE:__ `COVENANT INTEL DIVISION`
 
 EXECUTIVE SUMMARY
