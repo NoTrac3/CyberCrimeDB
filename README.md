@@ -40,7 +40,18 @@ PRIMARY GROUPS IDENTIFIED:
    - Server ID: 1401665256836563105  
    - Member Count: 55+ exported users
    - Function: Recruitment funnel to larger network
-
+```
+CONFIRMED HIERARCHY:
+[Δ] Universal Union (UU) [TOP]
+    ↳ [Δ] The New Militia (TNM) / The Militia (TM) [CORE]
+        ↳ [Δ] Kinder Wotan
+        ↳ [Δ] Haister (壊滅)
+        ↳ [Δ] The Crusader Forces (TCF)
+        ↳ [Δ] Cheese Army / Petorian Tavern
+        ↳ [Δ] Multiple "TaverN" style servers (recruitment fronts)
+        ↳ [Δ] Synisterria Cult
+        ↳ [Δ] Las Vegas Server (media/propaganda wing)
+```
 
         𝕻𝖚𝖇𝖑𝖎𝖈  𝕴𝖓𝖙𝖊𝖑𝖑𝖎𝖌𝖊𝖓𝖈𝖊 𝕹𝖔𝖙𝖎𝖈𝖊
      
