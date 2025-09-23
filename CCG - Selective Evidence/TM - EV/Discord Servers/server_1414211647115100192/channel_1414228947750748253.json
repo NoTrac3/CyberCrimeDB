@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1415141598567600259",
+    "content": "@​everyone",
+    "author": "1268665486392950850",
+    "author_info": {
+      "name": "10th.coming.of.ikea_dining_table#0",
+      "avatar": "https://cdn.discordapp.com/avatars/1268665486392950850/e8b8dc9f80e8d540834c28806556ec52.png?size=1024",
+      "created_at": "2024-08-01T20:23:42.621000+00:00",
+      "bot": false,
+      "discriminator": "0",
+      "display_name": "10th.coming.of.ikea_dining_table"
+    },
+    "timestamp": "2025-09-10T01:07:29.158000+00:00",
+    "edited": null,
+    "channel": {
+      "id": "1414228947750748253",
+      "name": "┊「⋆」ʙɪʙʟᴇ",
+      "category": "➜ Important",
+      "position": 8,
+      "nsfw": false
+    },
+    "server": {
+      "id": "1414211647115100192",
+      "name": "╠𝚃𝙽𝙼╣𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 ᴿᴱᴮᴼᴿᴺ 𖤍",
+      "member_count": 33
+    },
+    "attachments": [],
+    "reactions": [],
+    "pinned": false,
+    "type": "MessageType.default",
+    "artifacts": {}
+  },
+  {
+    "id": "1415141562165497918",
+    "content": "@BibleBot",
+    "author": "1268665486392950850",
+    "author_info": {
+      "name": "10th.coming.of.ikea_dining_table#0",
+      "avatar": "https://cdn.discordapp.com/avatars/1268665486392950850/e8b8dc9f80e8d540834c28806556ec52.png?size=1024",
+      "created_at": "2024-08-01T20:23:42.621000+00:00",
+      "bot": false,
+      "discriminator": "0",
+      "display_name": "10th.coming.of.ikea_dining_table"
+    },
+    "timestamp": "2025-09-10T01:07:20.479000+00:00",
+    "edited": null,
+    "channel": {
+      "id": "1414228947750748253",
+      "name": "┊「⋆」ʙɪʙʟᴇ",
+      "category": "➜ Important",
+      "position": 8,
+      "nsfw": false
+    },
+    "server": {
+      "id": "1414211647115100192",
+      "name": "╠𝚃𝙽𝙼╣𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 ᴿᴱᴮᴼᴿᴺ 𖤍",
+      "member_count": 33
+    },
+    "attachments": [],
+    "reactions": [],
+    "pinned": false,
+    "type": "MessageType.default",
+    "artifacts": {
+      "mentions": [
+        "361033318273384449"
+      ]
+    }
+  }
+]

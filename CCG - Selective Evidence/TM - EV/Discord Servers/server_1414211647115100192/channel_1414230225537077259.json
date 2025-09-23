@@ -1,0 +1,180 @@
+[
+  {
+    "id": "1415116351697326181",
+    "content": "<:aura:1414801838578077859>",
+    "author": "1411407998945067231",
+    "author_info": {
+      "name": "thatman28#0",
+      "avatar": "https://cdn.discordapp.com/avatars/1411407998945067231/4e8359907aa6ec749245cd531cd4f3a8.png?size=1024",
+      "created_at": "2025-08-30T17:51:29.641000+00:00",
+      "bot": false,
+      "discriminator": "0",
+      "display_name": "thatman28"
+    },
+    "timestamp": "2025-09-09T23:27:09.835000+00:00",
+    "edited": null,
+    "channel": {
+      "id": "1414230225537077259",
+      "name": "╭「⋆」ʙᴜᴍᴘ",
+      "category": "➜ Bots",
+      "position": 15,
+      "nsfw": false
+    },
+    "server": {
+      "id": "1414211647115100192",
+      "name": "╠𝚃𝙽𝙼╣𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 ᴿᴱᴮᴼᴿᴺ 𖤍",
+      "member_count": 33
+    },
+    "attachments": [],
+    "reactions": [],
+    "pinned": false,
+    "type": "MessageType.default",
+    "artifacts": {}
+  },
+  {
+    "id": "1414364762946670713",
+    "content": "🤡",
+    "author": "1353864253874110515",
+    "author_info": {
+      "name": "probablylashipie#0",
+      "avatar": "https://cdn.discordapp.com/avatars/1353864253874110515/bbe178b37223c066ec599ba88e0c5629.png?size=1024",
+      "created_at": "2025-03-24T22:53:11.705000+00:00",
+      "bot": false,
+      "discriminator": "0",
+      "display_name": "probablylashipie"
+    },
+    "timestamp": "2025-09-07T21:40:37.113000+00:00",
+    "edited": null,
+    "channel": {
+      "id": "1414230225537077259",
+      "name": "╭「⋆」ʙᴜᴍᴘ",
+      "category": "➜ Bots",
+      "position": 15,
+      "nsfw": false
+    },
+    "server": {
+      "id": "1414211647115100192",
+      "name": "╠𝚃𝙽𝙼╣𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 ᴿᴱᴮᴼᴿᴺ 𖤍",
+      "member_count": 33
+    },
+    "attachments": [],
+    "reactions": [],
+    "pinned": false,
+    "type": "MessageType.reply",
+    "artifacts": {
+      "mentions": [
+        "1402255238991319161"
+      ]
+    },
+    "reference": {
+      "message_id": "1414343722375581877",
+      "channel_id": "1414230225537077259",
+      "guild_id": "1414211647115100192"
+    }
+  },
+  {
+    "id": "1414364745514877000",
+    "content": "🤡",
+    "author": "1353864253874110515",
+    "author_info": {
+      "name": "probablylashipie#0",
+      "avatar": "https://cdn.discordapp.com/avatars/1353864253874110515/bbe178b37223c066ec599ba88e0c5629.png?size=1024",
+      "created_at": "2025-03-24T22:53:11.705000+00:00",
+      "bot": false,
+      "discriminator": "0",
+      "display_name": "probablylashipie"
+    },
+    "timestamp": "2025-09-07T21:40:32.957000+00:00",
+    "edited": null,
+    "channel": {
+      "id": "1414230225537077259",
+      "name": "╭「⋆」ʙᴜᴍᴘ",
+      "category": "➜ Bots",
+      "position": 15,
+      "nsfw": false
+    },
+    "server": {
+      "id": "1414211647115100192",
+      "name": "╠𝚃𝙽𝙼╣𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 ᴿᴱᴮᴼᴿᴺ 𖤍",
+      "member_count": 33
+    },
+    "attachments": [],
+    "reactions": [],
+    "pinned": false,
+    "type": "MessageType.reply",
+    "artifacts": {
+      "mentions": [
+        "1406449714756587654"
+      ]
+    },
+    "reference": {
+      "message_id": "1414352978856382724",
+      "channel_id": "1414230225537077259",
+      "guild_id": "1414211647115100192"
+    }
+  },
+  {
+    "id": "1414352978856382724",
+    "content": "/bump",
+    "author": "1406449714756587654",
+    "author_info": {
+      "name": "youraveragesodajerkonceagain#0",
+      "avatar": "https://cdn.discordapp.com/avatars/1406449714756587654/146c63f18b40df4f1642df89b593d208.png?size=1024",
+      "created_at": "2025-08-17T01:29:02.570000+00:00",
+      "bot": false,
+      "discriminator": "0",
+      "display_name": "youraveragesodajerkonceagain"
+    },
+    "timestamp": "2025-09-07T20:53:47.567000+00:00",
+    "edited": null,
+    "channel": {
+      "id": "1414230225537077259",
+      "name": "╭「⋆」ʙᴜᴍᴘ",
+      "category": "➜ Bots",
+      "position": 15,
+      "nsfw": false
+    },
+    "server": {
+      "id": "1414211647115100192",
+      "name": "╠𝚃𝙽𝙼╣𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 ᴿᴱᴮᴼᴿᴺ 𖤍",
+      "member_count": 33
+    },
+    "attachments": [],
+    "reactions": [],
+    "pinned": false,
+    "type": "MessageType.default",
+    "artifacts": {}
+  },
+  {
+    "id": "1414343722375581877",
+    "content": "/bump",
+    "author": "1402255238991319161",
+    "author_info": {
+      "name": "outstanding_window#0",
+      "avatar": "https://cdn.discordapp.com/avatars/1402255238991319161/474eaf257e4ead7b5fd72a6de172b282.png?size=1024",
+      "created_at": "2025-08-05T11:41:41.618000+00:00",
+      "bot": false,
+      "discriminator": "0",
+      "display_name": "outstanding_window"
+    },
+    "timestamp": "2025-09-07T20:17:00.650000+00:00",
+    "edited": null,
+    "channel": {
+      "id": "1414230225537077259",
+      "name": "╭「⋆」ʙᴜᴍᴘ",
+      "category": "➜ Bots",
+      "position": 15,
+      "nsfw": false
+    },
+    "server": {
+      "id": "1414211647115100192",
+      "name": "╠𝚃𝙽𝙼╣𝐓𝐡𝐞 𝐍𝐞𝐰 𝐌𝐢𝐥𝐢𝐭𝐢𝐚 ᴿᴱᴮᴼᴿᴺ 𖤍",
+      "member_count": 33
+    },
+    "attachments": [],
+    "reactions": [],
+    "pinned": false,
+    "type": "MessageType.default",
+    "artifacts": {}
+  }
+]
