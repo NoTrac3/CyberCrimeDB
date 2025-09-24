@@ -14,16 +14,16 @@ Operation: Infiltration and Exposure of Fanto's Private Server
 Objective: Disrupt TNM - The New Militia operations and expose alleged abuse ops
 Lead Operative: m77u1n__
 
-#Mission Summary:
+# Mission Summary:
 `On September 23-24, 2025, operative m77u1n successfully infiltrated a private Discord server operated by Fanto, identified as a former leader of TM - The Militia and confirmed to be leading TNM - The New Militia. The server, posing as a fake Christian community, was compromised to deliver a targeted message and expose internal vulnerabilities. The operation involved posting the GitHub link https://github.com/NoTrac3/DTAD, containing a leak of alleged abuse operations, along with supporting screenshots and a text file (DAlC1XO.txt) with redacted-style data on user roach148. The message, tagged @here, accused Fanto of cultism involvement with the 148 branch of 764 and included taunts to destabilize morale.`
 
-#Execution Details:
+# Execution Details:
 - Infiltration achieved via undisclosed social engineering or security exploit.
 - Message deployment occurred during active server hours, maximizing visibility.
 - Content included: GitHub link https://github.com/NoTrac3/DTAD, multiple images (screenshots of internal conflicts), and a refined text file (DAlC1XO.txt).
 - Operation concluded with a parting taunt: "Goodbye, I will return :)", signaling ongoing intent.
 
-#Results:
+# Results:
 - Immediate disruption confirmed\.
 - GitHub leak exposed potential abuse ops, undermining Fanto's leadership credibility.
 - Internal trust within TNM compromised, with risk of defections or retaliation.
