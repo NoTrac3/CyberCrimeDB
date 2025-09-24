@@ -24,7 +24,7 @@ Lead Operative: m77u1n__
 - Operation concluded with a parting taunt: "Goodbye, I will return :)", signaling ongoing intent.
 
 #Results:
-- Immediate disruption confirmed, with Fanto and team reported as shaken.
+- Immediate disruption confirmed\.
 - GitHub leak exposed potential abuse ops, undermining Fanto's leadership credibility.
 - Internal trust within TNM compromised, with risk of defections or retaliation.
 
