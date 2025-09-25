@@ -28,7 +28,7 @@ Lead Operative: m77u1n__
 - GitHub leak exposed potential abuse ops, undermining Fanto's leadership credibility.
 - Internal trust within TNM compromised, with risk of defections or retaliation.
 
-## Full Message Snippet (Refined for GitHub):
+## Full Message Snippet:
 ```@here [Image Attachments]
 https://github.com/NoTrac3/DTAD
 FANTO is implicated in cultism activities, specifically the 148 branch of 764. A significant disruption is imminent. @> 𝐹𝒜𝒩𝒯❁
