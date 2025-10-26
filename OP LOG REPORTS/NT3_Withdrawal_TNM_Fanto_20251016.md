@@ -16,7 +16,7 @@ The withdrawal is necessitated by a series of insurmountable challenges tied to 
 ## Current Status
 - TNM - The New Militia and Fanto remain isolated and degraded but not fully erased.
 - Existing intel (e.g., UTTP associations) remains available for allied use.
-- NoTrac3 will redirect focus to other threats (e.g., DELCOM, RageSec) and internal projects (e.g., WinterGate, ACC bot).
+- NoTrac3 will redirect focus to other threats (e.g., DELCOM, RageSec, mainly UCS) and internal projects (e.g., WinterGate, ACC bot).
 - **Warning:** Any further reports or provocations from TNM - The New Militia will be met with the full force of NoTrac3, unleashing all available resources, alliances (OPH, SRA), and advanced tools (DTAD, ACC bot) to put an end to TNM entirely. This includes comprehensive doxxing, network annihilation, and coordination with federal entities to ensure their complete dismantlement. This measure is a direct response to the repeated failures and provocations that have jeopardized this operation, serving as a final deterrent to prevent future escalation.
 
 ## Call to Action
