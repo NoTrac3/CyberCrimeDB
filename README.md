@@ -2,7 +2,6 @@
 This repository will be one of few receiving continued updates. 
 FOR COMPLETE EVIDENCE REQUEST: Please reach us through our website 
 
-> We are shifting more towards percision and leaning further away from confrontation in order to respect the OSINT community. This repository may or may not see further activity. Instead look forward to our DTAD - Discord Threat Actor Database and dont worry we many other databases and things to share.
 
 
 # Operation Silent Forge — Cancellation Notice  
@@ -15,7 +14,7 @@ Following internal review and in light of ongoing external investigations, **Ope
 No further action or participation is required from any party.  
 This decision has been made to ensure transparency, safety, and respect for ongoing legal processes.
 
-This repository will remain available as a historical and informational record.  
+- This repository will remain available as a historical and informational record.  
 Future updates will focus on research integrity, data verification, and community collaboration rather than active operations.
 
 > We are shifting toward precision, documentation, and open-source intelligence ethics.  
