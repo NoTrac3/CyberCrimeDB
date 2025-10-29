@@ -25,19 +25,6 @@ RageSec and lilrage are designated as a cyber threat entity due to their systemi
 - **Associations and Reasons:** RageSec maintains direct operational ties to Roach148, a key figure in the 148 branch of 764, a blacklisted cult known for nihilistic extremism, grooming, and swatting incidents (e.g., extortion of 11-year-olds, October 14, 2025). These links enable RageSec to access 764's resources for psychological warfare, including love-bombing minors for blackmail and self-harm rituals. RageSec also collaborates with TomasThyGreatest of DPOS and UTTP for coordinated raids and doxxing, facilitating the spread of neo-Nazi rhetoric and anti-LGBTQ+ harassment. Ties to UU (Universal Union) further integrate RageSec into a web of troll factions, allowing cross-server infiltration and recruitment of vulnerable teens (ages 12-16) for destructive ops. These associations make RageSec a feeder for 764's global grooming network, contributing to thousands of affected minors and aligning with FBI's 250+ probes into related extremism.
 - **Cyber Threat Justification:** RageSec's tactics—spam reporting, server purges, and psychological targeting—create a persistent risk to online safety, enabling the radicalization and exploitation of youth. Blacklisting is warranted by their role in blacklisted ecosystems, with lilrage's DTAD entry confirming his facilitation of these threats. This classification prioritizes immediate disruption to prevent escalation into real-world harm.
 
-#### Operational Phases
-1. **Phase I: Intelligence Gathering (Immediate - T+3 Days)**  
-   - Compile DTAD entries and server logs for lilrage (ID: 1405638333551611956).  
-   - Map connections to Roach148, TomasThyGreatest, DPOS, UTTP, and UU via Discord IDs and X posts.  
-
-2. **Phase II: Disruption (T+3 to T+7 Days)**  
-   - Execute ban wave on RageSec servers using ACC bot and allied reports.  
-   - Isolate lilrage through doxxing of his Australian/British ties and raid history.  
-
-3. **Phase III: Eradication (T+7 to T+14 Days)**  
-   - Erase RageSec via OPH/ICAC handoff for grooming evidence.  
-   - Blacklist lilrage across alliances, preventing rebirth.
-
 #### Threat Assessment
 - **RageSec Danger:** 9/10 – Blacklisted alliances make it a priority; rapid minor recruitment heightens urgency.  
 - **lilrage Danger:** 8.5/10 – DTAD listing and purge history make him a linchpin for collapse.  
@@ -51,5 +38,6 @@ RageSec and lilrage are designated as a cyber threat entity due to their systemi
 m77u1n  
 Founder, NoTrac3  
 **Contact:** [Redacted for Security]  
+
 
 **File Name:** OP_Furys_End_RageSec_LilRage_20251028.txt
