@@ -9,7 +9,7 @@ FOR COMPLETE EVIDENCE REQUEST: Please reach us through our website
 **DATE:** October 26, 2025 | **SOURCE:** `COVENANT INTEL DIVISION`
 **Operation Name:** Operation ######
 **Classification:** NT3 - 
-**Date:** October 28, 2025  
+**Date:**  
 **Issued By:** NoTrac3 Covenant Intelligence Division  
 **Operation Lead:** 
 
