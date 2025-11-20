@@ -52,4 +52,4 @@ This database organizes intelligence according to the verified structure outline
 
 > EXTRA RESOURCE(s):
 - https://docs.google.com/document/d/1hyojW1SAEDhPFJ7bz-h6y0K7T4wXdg8F6odaMfJ6MNo/edit?usp=sharing
-```Documented targeted harrassment of content creator Silly pau by DPOS one of the offshoots of UTTP```
+```1Documented targeted harrassment of content creator Silly Pau by DPOS one of the offshoots of UTTP```
