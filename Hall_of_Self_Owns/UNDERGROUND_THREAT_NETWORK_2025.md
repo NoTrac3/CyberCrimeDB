@@ -152,3 +152,6 @@ It is only the beginning.
 
 End of record
 Future confirmed branches, names, and layers will be appended.
+# EXTRA RESOURCE(s):
+- https://docs.google.com/document/d/1hyojW1SAEDhPFJ7bz-h6y0K7T4wXdg8F6odaMfJ6MNo/edit?usp=sharing
+```Targeted harrassment on content creator Silly pau by DPOS one of the offshoots to of UTTP```
