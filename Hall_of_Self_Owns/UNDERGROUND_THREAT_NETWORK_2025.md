@@ -2,7 +2,7 @@
 CyberCrimeDB Root Level – Public, Immutable, Law-Enforcement-Ready Archive
 19 November 2025
 
-File Name: EXPOSURE_UNDERGROUND_THREAT_NETWORK_2025.txt
+File Name: UNDERGROUND_THREAT_NETWORK_2025.md
 
 THIS DOCUMENT IS THE AUTHORITATIVE PUBLIC RECORD
 Everything contained here is confirmed through direct logs, screenshots, packet traces, and real-time activations.
