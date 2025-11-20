@@ -49,3 +49,7 @@ The "anti-degen" public narrative has been confirmed as operational camouflage, 
 This database organizes intelligence according to the verified structure outlined in our primary reference document, with additional folders for raw evidence, operational logs, and law-enforcement analysis.
 
 **All analysis should reference the primary document for complete context and verified intelligence.**
+
+# EXTRA RESOURCE(s):
+- https://docs.google.com/document/d/1hyojW1SAEDhPFJ7bz-h6y0K7T4wXdg8F6odaMfJ6MNo/edit?usp=sharing
+```Targeted harrassment on content creator Silly pau by DPOS one of the offshoots to of UTTP```
