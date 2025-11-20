@@ -4,7 +4,7 @@
 
 **Primary Reference Document:** [UNDERGROUND_THREAT_NETWORK_2025.md](Hall_of_Self_Owns/UNDERGROUND_THREAT_NETWORK_2025.md)
 
-This repository archives and analyzes the operational infrastructure of hybrid criminal networks that merged classic trolling groups with extremist grooming cults. All intelligence is law-enforcement ready and confirmed through direct evidence.
+This repository archives and analyzes the operational infrastructure of criminal networks that merged classic trolling groups with extremist grooming cults. All intelligence is law-enforcement ready and confirmed through direct evidence.
 
 ---
 
