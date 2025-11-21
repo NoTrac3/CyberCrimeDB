@@ -2,7 +2,7 @@
 
 ## Official NoTrac3 Intelligence Repository
 
-**Primary Reference Document:** [UNDERGROUND_THREAT_NETWORK_2025.md](Hall_of_Self_Owns/UNDERGROUND_THREAT_NETWORK_2025.md): ```This repository directory archives and analyzes the operational infrastructure of criminal networks that merged classic trolling groups with extremist grooming cults. All intelligence is law-enforcement ready and confirmed through direct evidence.```
+**Primary Reference Document:** [UNDERGROUND_THREAT_NETWORK_2025.md](Incident_Archive/UNDERGROUND_THREAT_NETWORK_2025.md): ```This repository directory archives and analyzes the operational infrastructure of criminal networks that merged classic trolling groups with extremist grooming cults. All intelligence is law-enforcement ready and confirmed through direct evidence.```
 
 ---
 
