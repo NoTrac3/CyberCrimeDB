@@ -41,10 +41,18 @@ A coordinated 30+ day operation was executed against counter-threat personnel wi
 - Suicide baiting and death threats
 - Creation and distribution of deepfake material
 Primary identified factions:
-- DPOS (direct UTTP lineage)
+- DPOS (direct UTTP lineage)   [using-anti-degen-mask]
 - Enclave collective
-- RevGirl / Tomas / Barbatos cells
+- RevGirl / Tomas / Barbatos cells / LilRage / Roach148 / Enclave
 - Associated micro-networks (TNM, 148corps remnants, Afton splinters)
+- ཌᖇᗩǤᗴད || RAGESEC ₁₂₁₈   [using-anti-degen-mask]
+- SRA Spam Report Army   [using-anti-degen-mask]
+- UU Universal Union   [using-anti-degen-mask]
+- CitΔdel
+- Anti Degeneracy Legion   [using-anti-degen-mask]
+- 𝗜𝗺𝗽𝗲𝗿𝗶𝘂𝗺 𝗼𝗳 𝗧𝗵𝗲 𝗘𝗻𝗰𝗹𝗮𝘃𝗲
+- The Coalition of The Enclave
+- Anti Ragebaiters Action   [using-anti-degen-mask]
 
 4. Direct Tactical and Structural Parallels with 764
 Real-time observation and archived material confirm identical patterns:
