@@ -12,7 +12,7 @@ OFFICIAL SUPPORT DOCUMENT
 Classification: PUBLIC RELEASE
 Document ID: WGA-2025-12-03-764-CONNECTIVITY
 Date: 03 December 2025
-Issued by: CINT Division (WinterGate Intelligence Agency) in coordination with Operation Pedo Hunt
+Issued by: CINT Division (WinterGate Intelligence Agency) in coordination with OPH
 
 Subject: Tactical and Organisational Continuity Between the 764 Sextortion Network and 2025 Coordinated Harassment Campaigns Targeting Counter-Threat Personnel
 
