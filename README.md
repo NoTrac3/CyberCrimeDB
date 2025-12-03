@@ -63,9 +63,10 @@ Real-time observation and archived material confirm identical patterns:
 - Repeated claims of law-enforcement impunity
 - Hierarchical prestige derived from inflicting maximum harm
 - Discord as primary command, control, and recruitment platform
+- Spamming, Raiding, Spying & Infiltration
 
 5. Intelligence Holdings
-WinterGate/NoTrac3 archives (currently in federal custody pursuant to the November 2025 investigation) contain:
+Archives (currently in federal custody pursuant to the November 2025 investigation) contain:
 - Chat logs explicitly referencing 764 methodology as template
 - Media folders containing repurposed 764-style coercion material
 - Confirmed membership overlap between 764 off-shoot servers and the 2025 attacking cells
