@@ -35,9 +35,9 @@ This document formally endorses and amplifies the investigative series “Inside
 3. Observed 2025 Campaign (October–November)
 A coordinated 30+ day operation was executed against counter-threat personnel with the following characteristics:
 - Mass doxxing (residences, workplaces, family members)
-- Multiple swatting incidents
+- Multiple swatting threats
 - Workplace harassment (pizza-bombing)
-- Fake welfare/CPS reports
+- Fake welfare checks
 - Suicide baiting and death threats
 - Creation and distribution of deepfake material
 Primary identified factions:
