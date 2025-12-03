@@ -5,43 +5,76 @@
 **Primary Reference Document:** [UNDERGROUND_THREAT_NETWORK_2025.md](Incident_Archive/UNDERGROUND_THREAT_NETWORK_2025.md): ```This repository directory archives and analyzes the operational infrastructure of criminal networks that merged classic trolling groups with extremist grooming cults. All intelligence is law-enforcement ready and confirmed through direct evidence.```
 
 ---
+WINTERGATE INTELLIGENCE AGENCY
+Cyber Defense Movement
+OFFICIAL SUPPORT DOCUMENT
+Classification: PUBLIC RELEASE
+Document ID: WGA-2025-12-03-764-CONNECTIVITY
+Date: 03 December 2025
+Issued by: CINT Division (WinterGate Intelligence Agency) in coordination with Operation Pedo Hunt
 
-## Executive Summary: The Confirmed Mapping
+Subject: Tactical and Organisational Continuity Between the 764 Sextortion Network and 2025 Coordinated Harassment Campaigns Targeting Counter-Threat Personnel
 
-Recent operational exposure has provided unprecedented validation of the underground threat ecosystem's structure and methodologies as detailed in our primary reference document.
+1. Purpose
+This document formally endorses and amplifies the investigative series “Inside 764” (podcast & YouTube documentary) while establishing documented operational continuity between the original 764 network and the organised groups that conducted a sustained terrorism-style campaign against WinterGate and allied personnel throughout October–November 2025.
 
-### The Hybrid Network - Now Verified
+2. Summary of 764 (as presented in “Inside 764”)
+- Originated 2021, Stephenville, Texas
+- Minor-led sextortion and self-harm coercion network
+- Primary recruitment vectors: Discord, Roblox, gaming platforms
+- Core methodology: grooming → blackmail → forced self-harm/animal cruelty → victim-to-perpetrator conversion
+- Transnational footprint, hundreds of victims aged 9–17
+- Peer-to-peer structure with older enablers shielded behind minors
 
-The merger between old-school troll networks and 764-style extremist groups is now operationally confirmed, creating a threat ecosystem that combines:
-- **Mass recruitment capabilities** from classic trolling networks
-- **Real-world harm tactics** from grooming cults
-- **Professional operational security** and infrastructure
+3. Observed 2025 Campaign (October–November)
+A coordinated 30+ day operation was executed against counter-threat personnel with the following characteristics:
+- Mass doxxing (residences, workplaces, family members)
+- Multiple swatting incidents
+- Workplace harassment (pizza-bombing)
+- Fake welfare/CPS reports
+- Suicide baiting and death threats
+- Creation and distribution of deepfake material
+Primary identified factions:
+- DPOS (direct UTTP lineage)
+- Enclave collective
+- RevGirl / Tomas / Barbatos cells
+- Associated micro-networks (TNM, 148corps remnants, Afton splinters)
 
-### Critical Infrastructure Analysis
+4. Direct Tactical and Structural Parallels with 764
+Real-time observation and archived material confirm identical patterns:
+- Use of humiliation rituals as social control
+- Escalation ladder: “comply or we destroy your life”
+- Circulation of blackmail/compromise folders among members
+- Active recruitment and deployment of minors to conduct attacks
+- Repeated claims of law-enforcement impunity
+- Hierarchical prestige derived from inflicting maximum harm
+- Discord as primary command, control, and recruitment platform
 
-As documented in our primary reference, the network operates through specialized branches:
+5. Intelligence Holdings
+WinterGate/NoTrac3 archives (currently in federal custody pursuant to the November 2025 investigation) contain:
+- Chat logs explicitly referencing 764 methodology as template
+- Media folders containing repurposed 764-style coercion material
+- Confirmed membership overlap between 764 off-shoot servers and the 2025 attacking cells
+- Internal statements praising 764 figures as ideological predecessors
 
-**RageSec** - Confirmed as the phone terrorism division responsible for swatting and emergency service abuse
-**Enclave/UETR** - Verified gore/shock media and automated bot operations
-**DPOS/UTTP Remnants** - Validated as the death-threat core with long-term stalking capabilities
-**Universal Union** - Confirmed infrastructure backbone supporting evidence deletion
-**Anti-Degen Legion** - Documented public-facing amplification wing for narrative control
+6. Conclusion
+The 2025 campaign was not isolated trolling. It represents a direct evolution and adaptation of the 764 operational model to adult counter-threat targets.
 
-### Historical Evolution Confirmed
+“Inside 764” is the most accurate public accounting of this threat morphology to date. WinterGate Intelligence Agency and Operation Pedo Hunt strongly recommend it as essential viewing/listening for law enforcement, platform safety teams, and the public.
 
-The timeline outlined in our primary document has been operationally validated, showing the evolution from basic trolling (2017-2019) through the classic troll era (UTTP/PD dominance) to the current hybrid threat network (2024-2025) that now routinely employs swatting, gore as psychological weapons, and organized harassment campaigns.
+The ideology did not disappear with the original 764 takedowns. It mutated and continues to operate under new names.
 
-### Operational Methodology Exposed
+7. Recommended Actions
+- Watch and distribute “Inside 764” (YouTube series & all podcast platforms)
+- Forward any 764-derived activity to federal tip lines and OPH intake channels
+- Recognise that the same networks targeting researchers today began by targeting children yesterday
 
-The "Packet Activation Cycle" described in our reference document has been observed in real operations:
-- Coordinated multi-branch strikes launching within hours of each other
-- Shared infrastructure between supposedly separate groups
-- Identical content and tactics across different branch operations
+The threat remains active.
 
-### The Camouflage Mechanism
-
-The "anti-degen" public narrative has been confirmed as operational camouflage, allowing these groups to present themselves as moral enforcers while engaging in the very activities they publicly condemn.
-
+WinterGate Intelligence Agency
+Cyber Defense Movement
+Operation Pedo Hunt
+03 December 2025
 ---
 
 ## Repository Structure
