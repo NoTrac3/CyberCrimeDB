@@ -43,7 +43,7 @@ A coordinated 30+ day operation was executed against counter-threat personnel wi
 Primary identified factions:
 - DPOS (direct UTTP lineage)   [using-anti-degen-mask]
 - Enclave collective
-- RevGirl / Tomas / Barbatos cells / LilRage / Roach148 / Enclave
+- [Recent Individuals]]RevGirl / Tomas / Barbatos cells / LilRage / Roach148 / Enclave
 - Associated micro-networks (TNM, 148corps remnants, Afton splinters)
 - ཌᖇᗩǤᗴད || RAGESEC ₁₂₁₈   [using-anti-degen-mask]
 - SRA Spam Report Army   [using-anti-degen-mask]
