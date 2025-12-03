@@ -5,6 +5,7 @@
 **Primary Reference Document:** [UNDERGROUND_THREAT_NETWORK_2025.md](Incident_Archive/UNDERGROUND_THREAT_NETWORK_2025.md): ```This repository directory archives and analyzes the operational infrastructure of criminal networks that merged classic trolling groups with extremist grooming cults. All intelligence is law-enforcement ready and confirmed through direct evidence.```
 
 ---
+```
 WINTERGATE INTELLIGENCE AGENCY
 Cyber Defense Movement
 OFFICIAL SUPPORT DOCUMENT
@@ -75,6 +76,8 @@ WinterGate Intelligence Agency
 Cyber Defense Movement
 Operation Pedo Hunt
 03 December 2025
+❄️
+```
 ---
 
 ## Repository Structure
