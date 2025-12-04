@@ -1,35 +1,33 @@
-## Executive Summary: The Confirmed Mapping
+**WINTERGATE INTELLIGENCE AGENCY**  
+**Cyber Defense Movement – NoTrac3 Covenant Division**  
+**OPEN-SOURCE THREAT GROUP ASSESSMENT**  
+**Classification:** PUBLIC RELEASE  
+**Document ID:** WGA-2025-12-04-764BEHAVIOR**  
+**Date:** 04 December 2025  
 
-Recent operational exposure has provided unprecedented validation of the underground threat ecosystem's structure and methodologies as detailed in our primary reference document.
+**Subject:** Discord-Based Entities Exhibiting 764-Derived Manipulation and Abuse Patterns  
 
-### The Hybrid Network - Now Verified
+| Entity / Collective               | Primary Platform | Key 764-Derived Behaviors Observed                                                                                          | Current Classification (04 Dec 2025)          |
+|-----------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| DPOS (Degeneracy Police Order State) | Discord         | Blackmail folders, suicide baiting, deepfake distribution, “send or we ruin you” escalation                               | 764-pattern exhibiting                        |
+| RageSec                           | Discord         | Real-life terror campaigns used as compliance enforcement                                                                   | 764-pattern exhibiting                        |
+| Enclave / UETR                    | Discord         | Gore/compromise sharing, token-grabbing to enforce silence, prestige via harm                                              | 764-pattern exhibiting                        |
+| Universal Union (UU)              | Discord         | Infrastructure support for blackmail distribution and evidence control                                                     | 764-pattern exhibiting                        |
+| Anti-Degen Legion                 | Discord + X/TikTok| Public smear amplification of private compromise material, narrative control to isolate targets                          | 764-pattern exhibiting                        |
+| RevGirl (individual actor)        | Discord         | Single-handed compilation & cross-group courier of blackmail packets, real-time dispatcher of compliance demands           | Primary 764-pattern coordinator – blacklisted |
+| 148corps remnants                 | Discord         | Direct continuation of 764 self-harm coercion templates                                                                     | 764-pattern exhibiting                        |
+| TNM (The New Militia)             | Discord         | Cross-membership with 148/DPOS, adoption of “send or else” doctrine                                                         | 764-pattern exhibiting                        |
+| CitΔdel                           | Discord         | Private humiliation channels, minor deployment for psychological attacks                                                    | 764-pattern exhibiting                        |
+| RAGESEC ₁₂₁₈ sub-cells            | Discord         | Phone terrorism fused with blackmail compliance demands                                                                    | 764-pattern exhibiting                        |
+| SRA (Spam Report Army)            | Discord         | Former participation in 764-style raids under Enclave coordination; currently probationary cleared after full compliance   | Probationary cleared – oversight retained     |
 
-The merger between old-school troll networks and 764-style extremist groups is now operationally confirmed, creating a threat ecosystem that combines:
-- **Mass recruitment capabilities** from classic trolling networks
-- **Real-world harm tactics** from grooming cults
-- **Professional operational security** and infrastructure
+**Note on “DecafJokers”**  
+DecafJokers is not an independent group. It is a single-owner vanity server operated exclusively by the individual RevGirl. It exists solely as her personal meme army and coordination node. All observed 764-pattern activity attributed to this entity originates from RevGirl herself.
 
-### Critical Infrastructure Analysis
+**Universal Camouflage**  
+Every listed entity publicly presents as “anti-degen” or “anti-pedo” while privately employing 764-derived coercion frameworks.
 
-As documented in our primary reference, the network operates through specialized branches:
-
-**RageSec** - Confirmed as the phone terrorism division responsible for swatting and emergency service abuse
-**Enclave/UETR** - Verified gore/shock media and automated bot operations
-**DPOS/UTTP Remnants** - Validated as the death-threat core with long-term stalking capabilities
-**Universal Union** - Confirmed infrastructure backbone supporting evidence deletion
-**Anti-Degen Legion** - Documented public-facing amplification wing for narrative control
-
-### Historical Evolution Confirmed
-
-The timeline outlined in our primary document has been operationally validated, showing the evolution from basic trolling (2017-2019) through the classic troll era (UTTP/PD dominance) to the current hybrid threat network (2024-2025) that now routinely employs swatting, gore as psychological weapons, and organized harassment campaigns.
-
-### Operational Methodology Exposed
-
-The "Packet Activation Cycle" described in our reference document has been observed in real operations:
-- Coordinated multi-branch strikes launching within hours of each other
-- Shared infrastructure between supposedly separate groups
-- Identical content and tactics across different branch operations
-
-### The Camouflage Mechanism
-
-The "anti-degen" public narrative has been confirmed as operational camouflage, allowing these groups to present themselves as moral enforcers while engaging in the very activities they publicly condemn.
+**WinterGate Intelligence Agency – NoTrac3 Covenant Division**  
+**Cyber Defense Movement**  
+**04 December 2025**  
+**❄️**
