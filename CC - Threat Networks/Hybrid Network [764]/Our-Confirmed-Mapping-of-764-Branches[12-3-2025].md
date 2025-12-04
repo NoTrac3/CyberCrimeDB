@@ -1,7 +1,6 @@
 **WINTERGATE INTELLIGENCE AGENCY**  
 **Cyber Defense Movement – NoTrac3 Covenant Division**  
-**OPEN-SOURCE THREAT GROUP ASSESSMENT**  
-**Classification:** PUBLIC RELEASE  
+**OPEN-SOURCE THREAT GROUP ASSESSMENT**   
 **Document ID:** WGA-2025-12-04-764BEHAVIOR**  
 **Date:** 04 December 2025  
 
