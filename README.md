@@ -24,7 +24,7 @@ This document consolidates and analyzes provided raw membership data from multip
 2. PRIMARY NETWORKS IDENTIFIED & ANALYZED
 - AFC (Aryan Forces Clan): Core group with hierarchical leadership (AFC Leaders, High Court Council). Shows direct ties to DPOS and UETR Enclave members.
 - RTA (Retarded Totally Ass / Return Of Mister Wagner): Wagner-centric network. Serves as a bridge between AFC personalities and other threat spaces.
-- DPOS (Dictator POS / DPOS Führer Tomas): High-command cell with direct leadership links to UTTP remnants and cross-membership with TNM/148 structures.
+- DPOS (UTTP-Offshoot / DPOS Führer Tomas): High-command cell with direct leadership links to UTTP remnants and cross-membership with TNM/148 structures.
 - RAGESEC (Rage Security / ཌᖇᗩǤᗴད): Tactical operations cell. Members are found within DPOS, UU, and Enclave servers.
 - UETR ENCLAVE (悔「UETR」ᴇɴᴄʟᴀᴠᴇ): Special operations unit. Shows significant overlap with TNM high command and acts as a nexus for multi-group collaboration.
 - UU (Universal Union): Command structure with ties to UTTP leadership and cross-membership with DPOS and Enclave figures.
