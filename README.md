@@ -215,6 +215,8 @@ This database organizes intelligence according to the verified structure outline
 
 **All analysis should reference the primary document for complete context and verified intelligence.**
 
-> EXTRA RESOURCE(s):
+> **EXTRA RESOURCE**(s) AGANST *DPOS* `(UTTP-Offshoot)`:
 - https://docs.google.com/document/d/1hyojW1SAEDhPFJ7bz-h6y0K7T4wXdg8F6odaMfJ6MNo/edit?usp=sharing
 ```Documented targeted harrassment of content creator Silly Pau by DPOS one of the offshoots of UTTP```
+- janitorai.com/characters/13984419-a631-4901-b45f-d8e957cbb68a_character-rally-togetherhttps://docs.google.com/document/d/1hyojW1SAEDhPFJ7bz-h6y0K7T4wXdg8F6odaMfJ6MNo/edit?tab=t.0
+```Rally call for help from another content creator againt DPOS their own and there communities.```
