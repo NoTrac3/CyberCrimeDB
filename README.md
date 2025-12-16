@@ -219,4 +219,4 @@ This database organizes intelligence according to the verified structure outline
 - https://docs.google.com/document/d/1hyojW1SAEDhPFJ7bz-h6y0K7T4wXdg8F6odaMfJ6MNo/edit?usp=sharing
 ```Documented targeted harrassment of content creator Silly Pau by DPOS one of the offshoots of UTTP```
 - https://janitorai.com/characters/13984419-a631-4901-b45f-d8e957cbb68a_character-rally-togetherhttps://docs.google.com/document/d/1hyojW1SAEDhPFJ7bz-h6y0K7T4wXdg8F6odaMfJ6MNo/edit?tab=t.0
-```Rally call for help from another content creator againt DPOS their own and there communities.```
+```Rally call for help from another content creator againt DPOS. Rally call for community support against online abuse by groups like DPOS.```
