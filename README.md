@@ -22,7 +22,7 @@ SUBJECT: CONSOLIDATED NETWORK ANALYSIS & CROSS-REFERENCE OF PRIMARY THREAT GROUP
 This document consolidates and analyzes provided raw membership data from multiple Discord servers associated with the primary identified threat networks. The data reveals a dense web of mutual membership, cross-group collaboration, and shared leadership, confirming that these groups are not isolated entities but interconnected nodes of a larger hybrid threat ecosystem. The patterns match the evolutionary model from the 764 network, demonstrating a mutated but persistent structure focused on harassment, ideological radicalization, and coordinated attacks against counter-threat personnel.
 
 2. PRIMARY NETWORKS IDENTIFIED & ANALYZED
-- AFC (Aryan Forces Clan): Core group with hierarchical leadership (AFC Leaders, High Court Council). Shows direct ties to DPOS and UETR Enclave members.
+- AFC (ANTI FANDOM COALITION): Core group with hierarchical leadership (AFC Leaders, High Court Council). Shows direct ties to DPOS and UETR Enclave members.
 - RTA (Retarded Totally Ass / Return Of Mister Wagner): Wagner-centric network. Serves as a bridge between AFC personalities and other threat spaces.
 - DPOS (UTTP-Offshoot / DPOS Führer Tomas): High-command cell with direct leadership links to UTTP remnants and cross-membership with TNM/148 structures.
 - RAGESEC (Rage Security / ཌᖇᗩǤᗴད): Tactical operations cell. Members are found within DPOS, UU, and Enclave servers.
