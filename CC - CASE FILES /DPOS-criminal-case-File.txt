@@ -24,7 +24,7 @@ counter-intelligence operation resulting in complete organizational compromise.
 └─ D. INFRASTRUCTURE COLLAPSE
    ├─ Firebase authentication system destroyed
    ├─ Google API key exposed
-   ├─ Physical location triangulated (Brooklyn, NY)
+   ├─ Physical location triangulated (Brazil)
 
 █ III. LEGAL RECOMMENDATIONS
 1. Minor welfare checks (NY jurisdiction)
