@@ -34,8 +34,7 @@ counter-intelligence operation resulting in complete organizational compromise.
 █ IV. CHARGING FRAMEWORK
    ├─ 18 U.S.C. § 1030 (Computer Fraud)
    ├─ 18 U.S.C. § 2261A (Cyberstalking)
-   ├─ 31 U.S.C. § 5318 (Money Laundering)
-   └─ NY Penal Law § 470 (Money Laundering)
+   └─  31 U.S.C. § 5318 (Money Laundering)
 
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
