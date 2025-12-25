@@ -35,7 +35,7 @@ DPOS isn't standalone; it's a feeder for horrors like 764 and Spawnism, blending
 
 - DPOS to Spawnism: DPOS "acquires" Spawnism for harm – Roblox lore twisted into self-harm carvings (#shtwt, July 2025). FBI bounties on Chezble tie to DPOS Telegram gore shares.
 
-- Broader Web: Nazism/anti-Christianity (m77u1n chat) bonds them to O9A (764's root). Spinoffs (ZTTP, YFGA) perpetuate, with DPOS as the "depraved" hub (Reddit r/anti_uttp).
+- Broader Web: Nazism/anti-Christianity bonds them to O9A (764's root). Spinoffs (ZTTP, YFGA) perpetuate, with DPOS as the "depraved" hub (Reddit r/anti_uttp).
 
 Section 4: The Human Cost – Why People Need to Know
 DPOS/UTTP aren't "pranks" – they're gateways to trauma. Kids groomed for DDOS become self-harm victims; fandoms like FPE face doxxing/suicides. Parents miss it until too late – report to IC3, monitor Roblox/Discord. m77u1n's exposures (DTAD leaks) show the way: awareness ends the cycle.
