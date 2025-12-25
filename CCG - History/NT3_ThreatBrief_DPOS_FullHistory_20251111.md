@@ -22,12 +22,12 @@ The mask worked. "Anti-degen" veiled the blade: homophobia as "purity," racism a
 ## Section 3: The Mask Cracks – Crimes, Exposure, and Collapse
 The facade held until November 2025, when @AnonCatalyst_ cracked it in 72 hours of relentless exposure. DPOS's crimes—doxxing, swatting, blackmail—unraveled live. Tomas' "wrath therapy" raids masked 100+ suicide ideations and gore obsessions. RevGirl52, the matchmaking queen, leaked AnonCatalyst_'s card digits and address, confessing adulthood 47 times ("into adult hood," "when I was young") while running minor-adult servers ("all straight females under 18 💀"). Lola Bear's 47 extortion tweets ("we even have your thirsty texts 🙂 well bye") backfired into self-conviction.
 
-Swatting orders ("respond or I send pizza") and murder plots ("super soldier st#k!ll or force surrender") fed the pipeline: UTTP lures, DPOS hooks, 764 harvests. Zytherox's eight-year-old grooming brags, Chezble bounties, #SHTWT carvings—all traced to DPOS Telegram. The "anti-degen" tag? Shattered. X Legal's 1 GB packet + IC3 filings exposed the ring. Tomas perma-nuked. RevGirl ghosted since October 28, fleeing groupchats. Lola's cope buried at 0 likes. Servers burned: DPOS main banned, 4+ hubs gone. Firebase wide open, Flipper-ready—legacy as "depraved hub" eternal.
+Swatting orders ("respond or I send pizza") and murder plots ("super soldier st#k!ll or force surrender") fed the pipeline: UTTP lures, DPOS hooks, 764 harvests. Zytherox's eight-year-old grooming brags, Chezble bounties, #SHTWT carvings—all traced to DPOS Telegram. The "anti-degen" tag? Shattered. X Legal's 1 GB packet + IC3 filings exposed the ring. Tomas perma-nuked. RevGirl ghosted since October 28, fleeing groupchats. Lola's cope buried at 0 likes. Servers burned: DPOS main banned, 4+ hubs gone. Firebase a laughing stock, Flipper-ready—legacy as "depraved hub" eternal.
 
 NoTrac3's DTAD database mapped 1,750+ accounts. The mask is ash. DPOS can't rebuild—platforms flag "anti-degen" as harassment. The cycle ends: report to IC3, monitor Roblox/Discord, protect the vulnerable.
 
 ## Section 4: The Human Toll and the Path Forward
-DPOS/UTTP weren't pranks—they were gateways to trauma. Kids groomed for DDOS became self-harm victims; FPE faced doxxing suicides. Parents missed it until too late. AnonCatalyst_'s 73 tombs in 72 hours—swatting logs, RevGirl leaks, Lola felonies—saved lives. m77u1n's filings (Monday police report) seal it.
+DPOS/UTTP weren't pranks—they were gateways to trauma. Kids groomed for DDOS became self-harm victims; FPE faced doxxing suicides. Parents missed it until too late. logs, Lola felonies. m77u1n's filed (police report) sealed it.
 
 Forward: Awareness severs the pipeline. Platforms: Ban the tags. Feds: Prosecute the Führer. NoTrac3 warns: Knowledge ends the cycle. Share this brief. Watch them burn.
 
