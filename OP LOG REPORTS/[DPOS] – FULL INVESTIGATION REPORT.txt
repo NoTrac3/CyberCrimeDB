@@ -69,7 +69,6 @@ VI. IMPACT & IMPLICATIONS
 --------------------------------------------------------------------------------
 • DPOS Infrastructure:
     ­– Backend polluted; auth system unusable  
-    ­– Website hardened by Shinjiru DDoS protections (SYN flood rules, iptables, CrowdSec)  
     ­– Google API key invalidated; project quarantined
 
 • Reputation & Isolation:
